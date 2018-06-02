@@ -666,3 +666,130 @@ header {
         margin-top: 2rem;
     }
 }
+
+/*------------------
+    Image Modal
+--------------------*
+//* Style the Image Used to Trigger the Modal */
+/* Gallery: General */
+#gen01, #gen02, #gen03,
+#gen04, #gen05, #gen06,
+#gen07,
+#mk01, #mk02, #mk03,
+#mk04, #mk05,
+#uni01, #uni02, #uni03, #uni04, #uni05,
+#uni06, #uni07, #uni08,#uni09, #uni010,
+#uni11, #uni12, #uni13,#uni14, #uni15,
+#uni16, #uni17, #uni18,#uni19, #uni20,
+#uni21, #uni22, #uni23,#uni24, #uni25,
+#uni26, #uni27, #uni28,#uni29, #uni30,
+#trn01, #trn02, #trn03, #trn04,
+#trn05, #trn06, #trn07, #trn08,
+#trn09, #trn010, #trn11, #trn12,
+#rd01, #rd02, #rd03, #rd04, #rd05, #rd06,
+#rd07, #rd08,#rd09, #rd010, #rd11, #rd12,
+#rd13,#rd14, #rd15, #rd16, #rd17, #rd18,
+#rd19, #rd20, #rd21, #rd22, #rd23,#rd24
+{
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#gen01:hover, #gen02:hover, #gen03:hover,
+#gen04:hover, #gen05:hover, #gen06:hover,
+#gen07:hover,
+#mk01:hover, #mk02:hover, #mk03:hover,
+#mk04:hover, #mk05:hover,
+#uni01:hover, #uni02:hover, #uni03:hover, #uni04:hover, #uni05:hover,
+#uni06:hover, #uni07:hover, #uni08:hover, #uni09:hover, #uni10:hover,
+#uni11:hover, #uni12:hover, #uni13:hover, #uni14:hover, #uni15:hover,
+#uni16:hover, #uni17:hover, #uni18:hover, #uni19:hover, #uni20:hover,
+#uni21:hover, #uni22:hover, #uni23:hover, #uni24:hover, #uni25:hover,
+#uni26:hover, #uni27:hover, #uni28:hover, #uni29:hover, #uni30:hover,
+#trn01:hover, #trn02:hover, #trn03:hover, #trn04:hover,
+#trn05:hover, #trn06:hover, #trn07:hover, #trn08:hover,
+#trn09:hover, #trn10:hover, #trn11:hover, #trn12:hover,
+#rd01:hover, #rd02:hover, #rd03:hover, #rd04:hover, #rd05:hover,
+#rd06:hover, #rd07:hover, #rd08:hover, #rd09:hover, #rd10:hover,
+#rd11:hover, #rd12:hover, #rd13:hover, #rd14:hover, #rd15:hover,
+#rd16:hover, #rd17:hover, #rd18:hover, #rd19:hover, #rd20:hover,
+#rd21:hover, #rd22:hover, #rd23:hover, #rd24:hover
+{opacity: 0.7;}
+
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#caption1, #caption2, #caption3, #caption4, #caption5 {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content, #caption1,
+#caption2, #caption3,
+#caption4, #caption5 {
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+/* The Close Button */
+.close1,
+.close2,
+.close3,
+.close4,
+.close5 {
+    position: absolute;
+    top: 85px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close1:hover, .close2:hover, .close3:hover, .close4:hover, .close5:hover,
+.close1:focus, .close2:focus, .close3:focus, .close4:focus, .close5:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content {
+    margin: 100px auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+
+@keyframes zoom {
+    from {transform:scale(0)}
+    to {transform:scale(1)}
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
