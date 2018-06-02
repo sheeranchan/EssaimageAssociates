@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa178f0b-d2e8-45bc-b0ee-936774764ce8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AccountManagementAndEvents.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Enterprise.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Marketing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Presentation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProgrammingAndLicenceApplications.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RecruitmentAndResearch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SalesTraining.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StudentCoaching.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teaching.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/ExpertiseInfo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Highlights.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/MarketingSession.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Opening.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/RadioSession.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Recruitment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/TestimonialSession.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/TrainingSession.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/TwitterSession.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/GeneralGallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/MarketingGallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/RadioGallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/TrainingGallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/UniversityGallery.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subInfoPages/articles/AccountManagementAndEvents.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subInfoPages/articles/Enterprise.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subInfoPages/articles/Marketing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subInfoPages/articles/Presentation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subInfoPages/articles/ProgrammingAndLicenceApplications.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subInfoPages/articles/RecruitmentAndResearch.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subInfoPages/articles/Resources.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subInfoPages/articles/SalesTraining.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subInfoPages/articles/StudentCoaching.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subInfoPages/articles/Teaching.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/RobertPics/GeneralPics/General.jpg" afterPath="$PROJECT_DIR$/images/RobertPics/GeneralPics/General1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/RobertPics/TrainingPics/Training.jpg" afterPath="$PROJECT_DIR$/images/RobertPics/TrainingPics/Training12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/RobertPics/UniPics/Uni.jpg" afterPath="$PROJECT_DIR$/images/RobertPics/UniPics/Uni1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,41 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GeneralGallery.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/GeneralGallery.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-771">
-              <caret line="755" column="67" lean-forward="false" selection-start-line="755" selection-start-column="67" selection-end-line="755" selection-end-column="67" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="356" column="59" lean-forward="true" selection-start-line="356" selection-start-column="59" selection-end-line="356" selection-end-column="59" />
+            <state relative-caret-position="1102">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,8 +36,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&lt;/li&gt;</find>
-      <find>&lt;tr&gt;</find>
       <find>&lt;/th&gt;</find>
       <find>&lt;/td&gt;&lt;/tr&gt;</find>
       <find>Market</find>
@@ -133,12 +62,12 @@
       <find>#mk</find>
       <find>_mk_</find>
       <find>rd</find>
-      <find>uni</find>
       <find>trn</find>
+      <find>uni</find>
+      <find>?</find>
+      <find>?</find>
     </findStrings>
     <replaceStrings>
-      <replace>uni28</replace>
-      <replace>uni29</replace>
       <replace>Uni8</replace>
       <replace>Uni9</replace>
       <replace>Uni10</replace>
@@ -167,6 +96,8 @@
       <replace>_uni_</replace>
       <replace>trn</replace>
       <replace>rd</replace>
+      <replace>?php</replace>
+      <replace>?php</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -216,7 +147,6 @@
         <option value="$PROJECT_DIR$/reusableTemplates/head.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/MarketingSession.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/navMenu.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/GeneralGallery.php" />
@@ -225,6 +155,7 @@
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/UniversityGallery.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/TrainingGallery.php" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -508,10 +439,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61418000" />
+    <option name="totallyTimeSpent" value="64032000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16720517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -521,7 +452,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8057663" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -859,14 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/MarketingGallery.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -899,10 +822,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/GeneralGallery.php">
+    <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="81">
+          <caret line="353" column="53" lean-forward="true" selection-start-line="353" selection-start-column="53" selection-end-line="353" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -915,10 +838,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/GeneralGallery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="356" column="59" lean-forward="true" selection-start-line="356" selection-start-column="59" selection-end-line="356" selection-end-column="59" />
+        <state relative-caret-position="180">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>

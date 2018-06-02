@@ -7,39 +7,39 @@
 <body data-spy="scroll" data-target="#navbar" data-offset="30">
 
     <!-- Nav Menu -->
-    <? include 'reusableTemplates/navMenu.php' ?>
+    <?php include 'reusableTemplates/navMenu.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/Opening.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/Opening.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/Highlights.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/Highlights.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/ExpertiseInfo.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/ExpertiseInfo.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/galleries/GeneralGallery.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/galleries/GeneralGallery.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/MarketingSession.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/MarketingSession.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/galleries/MarketingGallery.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/galleries/MarketingGallery.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/Recruitment.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/Recruitment.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/galleries/UniversityGallery.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/galleries/UniversityGallery.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/TrainingSession.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/TrainingSession.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/galleries/TrainingGallery.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/galleries/TrainingGallery.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/RadioSession.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/RadioSession.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/galleries/RadioGallery.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/galleries/RadioGallery.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/TwitterSession.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/TwitterSession.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/TestimonialSession.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/TestimonialSession.php' ?>
 
-    <? include 'reusableTemplates/indexSubSessions/ContactSession.php' ?>
+    <?php include 'reusableTemplates/indexSubSessions/ContactSession.php' ?>
 
-    <? include 'reusableTemplates/footer.php' ?>
+    <?php include 'reusableTemplates/footer.php' ?>
 
 </body>
 
