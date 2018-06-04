@@ -18,31 +18,31 @@
             <!-- Images -->
             <div class="carousel-inner offset-lg-2">
                 <div class="carousel-item active">
-                    <img id="mk01" src="images/RobertPics/MarketingPics/Marketing1.jpg" class="img-fluid" alt="image1">
+                    <img id="mk01" src="../../../images/RobertPics/MarketingPics/Marketing1.jpg" class="img-fluid" alt="image1">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="mk02" src="images/RobertPics/MarketingPics/Marketing2.jpg" class="img-fluid" alt="image2">
+                    <img id="mk02" src="../../../images/RobertPics/MarketingPics/Marketing2.jpg" class="img-fluid" alt="image2">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="mk03" src="images/RobertPics/MarketingPics/Marketing3.jpg" class="img-fluid" alt="image3">
+                    <img id="mk03" src="../../../images/RobertPics/MarketingPics/Marketing3.jpg" class="img-fluid" alt="image3">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="mk04" src="images/RobertPics/MarketingPics/Marketing4.jpg" class="img-fluid" alt="image4">
+                    <img id="mk04" src="../../../images/RobertPics/MarketingPics/Marketing4.jpg" class="img-fluid" alt="image4">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="mk05" src="images/RobertPics/MarketingPics/Marketing5.jpg" class="img-fluid" alt="image5">
+                    <img id="mk05" src="../../../images/RobertPics/MarketingPics/Marketing5.jpg" class="img-fluid" alt="image5">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>

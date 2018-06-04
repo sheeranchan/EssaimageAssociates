@@ -41,11 +41,11 @@
 </footer>
 
 <!-- jQuery and Bootstrap -->
-<script src="js/jquery-3.2.1.min.js"></script>
-<script src="js/bootstrap.bundle.min.js"></script>
+<script src="../js/jquery-3.2.1.min.js"></script>
+<script src="../js/bootstrap.bundle.min.js"></script>
 <!-- Plugins JS -->
-<script src="js/owl.carousel.min.js"></script>
+<script src="../js/owl.carousel.min.js"></script>
 <!-- Custom JS -->
-<script src="js/script.js"></script>
-<script src="js/jquery.easing.1.3.js"></script>
+<script src="../js/script.js"></script>
+<script src="../js/jquery.easing.1.3.js"></script>
 <!-- // end .section -->

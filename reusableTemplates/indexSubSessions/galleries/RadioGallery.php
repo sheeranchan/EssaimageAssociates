@@ -38,145 +38,145 @@
             <!-- Images -->
             <div class="carousel-inner offset-lg-2">
                 <div class="carousel-item active">
-                    <img id="rd01" src="images/RobertPics/RadioPics/Radio1.png" class="img-fluid" alt="image1">
+                    <img id="rd01" src="../../../images/RobertPics/RadioPics/Radio1.png" class="img-fluid" alt="image1">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd02" src="images/RobertPics/RadioPics/Radio2.jpg" class="img-fluid" alt="image2">
+                    <img id="rd02" src="../../../images/RobertPics/RadioPics/Radio2.jpg" class="img-fluid" alt="image2">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd03" src="images/RobertPics/RadioPics/Radio3.jpg" class="img-fluid" alt="image3">
+                    <img id="rd03" src="../../../images/RobertPics/RadioPics/Radio3.jpg" class="img-fluid" alt="image3">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd04" src="images/RobertPics/RadioPics/Radio4.jpg" class="img-fluid" alt="image4">
+                    <img id="rd04" src="../../../images/RobertPics/RadioPics/Radio4.jpg" class="img-fluid" alt="image4">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd05" src="images/RobertPics/RadioPics/Radio5.jpg" class="img-fluid" alt="image5">
+                    <img id="rd05" src="../../../images/RobertPics/RadioPics/Radio5.jpg" class="img-fluid" alt="image5">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd06" src="images/RobertPics/RadioPics/Radio6.jpg" class="img-fluid" alt="image6">
+                    <img id="rd06" src="../../../images/RobertPics/RadioPics/Radio6.jpg" class="img-fluid" alt="image6">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd07" src="images/RobertPics/RadioPics/Radio7.jpg" class="img-fluid" alt="image7">
+                    <img id="rd07" src="../../../images/RobertPics/RadioPics/Radio7.jpg" class="img-fluid" alt="image7">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd08" src="images/RobertPics/RadioPics/Radio8.jpg" class="img-fluid" alt="image2">
+                    <img id="rd08" src="../../../images/RobertPics/RadioPics/Radio8.jpg" class="img-fluid" alt="image2">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd09" src="images/RobertPics/RadioPics/Radio9.jpg" class="img-fluid" alt="image3">
+                    <img id="rd09" src="../../../images/RobertPics/RadioPics/Radio9.jpg" class="img-fluid" alt="image3">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd10" src="images/RobertPics/RadioPics/Radio10.jpg" class="img-fluid" alt="image4">
+                    <img id="rd10" src="../../../images/RobertPics/RadioPics/Radio10.jpg" class="img-fluid" alt="image4">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd11" src="images/RobertPics/RadioPics/Radio11.jpg" class="img-fluid" alt="image5">
+                    <img id="rd11" src="../../../images/RobertPics/RadioPics/Radio11.jpg" class="img-fluid" alt="image5">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd12" src="images/RobertPics/RadioPics/Radio12.jpg" class="img-fluid" alt="image6">
+                    <img id="rd12" src="../../../images/RobertPics/RadioPics/Radio12.jpg" class="img-fluid" alt="image6">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd13" src="images/RobertPics/RadioPics/Radio13.jpg" class="img-fluid" alt="image7">
+                    <img id="rd13" src="../../../images/RobertPics/RadioPics/Radio13.jpg" class="img-fluid" alt="image7">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd14" src="images/RobertPics/RadioPics/Radio14.jpg" class="img-fluid" alt="image2">
+                    <img id="rd14" src="../../../images/RobertPics/RadioPics/Radio14.jpg" class="img-fluid" alt="image2">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd15" src="images/RobertPics/RadioPics/Radio15.jpg" class="img-fluid" alt="image3">
+                    <img id="rd15" src="../../../images/RobertPics/RadioPics/Radio15.jpg" class="img-fluid" alt="image3">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd16" src="images/RobertPics/RadioPics/Radio16.jpg" class="img-fluid" alt="image4">
+                    <img id="rd16" src="../../../images/RobertPics/RadioPics/Radio16.jpg" class="img-fluid" alt="image4">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd17" src="images/RobertPics/RadioPics/Radio17.jpg" class="img-fluid" alt="image5">
+                    <img id="rd17" src="../../../images/RobertPics/RadioPics/Radio17.jpg" class="img-fluid" alt="image5">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd18" src="images/RobertPics/RadioPics/Radio18.jpg" class="img-fluid" alt="image6">
+                    <img id="rd18" src="../../../images/RobertPics/RadioPics/Radio18.jpg" class="img-fluid" alt="image6">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd19" src="images/RobertPics/RadioPics/Radio19.jpg" class="img-fluid" alt="image7">
+                    <img id="rd19" src="../../../images/RobertPics/RadioPics/Radio19.jpg" class="img-fluid" alt="image7">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd20" src="images/RobertPics/RadioPics/Radio20.jpg" class="img-fluid" alt="image2">
+                    <img id="rd20" src="../../../images/RobertPics/RadioPics/Radio20.jpg" class="img-fluid" alt="image2">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd21" src="images/RobertPics/RadioPics/Radio21.jpg" class="img-fluid" alt="image3">
+                    <img id="rd21" src="../../../images/RobertPics/RadioPics/Radio21.jpg" class="img-fluid" alt="image3">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd22" src="images/RobertPics/RadioPics/Radio22.jpg" class="img-fluid" alt="image4">
+                    <img id="rd22" src="../../../images/RobertPics/RadioPics/Radio22.jpg" class="img-fluid" alt="image4">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd23" src="images/RobertPics/RadioPics/Radio23.jpg" class="img-fluid" alt="image5">
+                    <img id="rd23" src="../../../images/RobertPics/RadioPics/Radio23.jpg" class="img-fluid" alt="image5">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd24" src="images/RobertPics/RadioPics/Radio24.jpg" class="img-fluid" alt="image6">
+                    <img id="rd24" src="../../../images/RobertPics/RadioPics/Radio24.jpg" class="img-fluid" alt="image6">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>

@@ -8,7 +8,7 @@
 
 <div class="row">
     <div class="col-lg-4 animated fadeInUp delay-10s">
-        <a href="<?php echo 'Marketing.php';?>" style="text-decoration: none;">
+        <a href="../../Marketing.php" style="text-decoration: none;">
             <div class="card features">
                 <div class="card-body">
                     <div class="media">
@@ -22,7 +22,7 @@
         </a>
     </div>
     <div class="col-lg-4 animated fadeInUp delay-10s">
-        <a href="<?php echo 'RecruitmentAndResearch.php';?>" style="text-decoration: none;">
+        <a href="../../RecruitmentAndResearch.php" style="text-decoration: none;">
             <div class="card features">
                 <div class="card-body">
                     <div class="media">
@@ -36,7 +36,7 @@
         </a>
     </div>
     <div class="col-lg-4 animated fadeInUp delay-10s">
-        <a href="<?php echo 'Teaching.php'; ?>" style="text-decoration: none;">
+        <a href="../../Teaching.php" style="text-decoration: none;">
             <div class="card features">
                 <div class="card-body">
                     <div class="media">
@@ -50,7 +50,7 @@
         </a>
     </div>
     <div class="margin-top-btm-1 col-lg-4 animated fadeInUp delay-10s">
-        <a href="<?php echo 'SalesTraining.php';?>" style="text-decoration: none;">
+        <a href="../../SalesTraining.php" style="text-decoration: none;">
             <div class="card features">
                 <div class="card-body">
                     <div class="media">
@@ -64,7 +64,7 @@
         </a>
     </div>
     <div class="margin-top-btm-1 col-lg-4 animated fadeInUp delay-10s">
-        <a href="<?php echo 'AccountManagementAndEvents.php'; ?>" style="text-decoration: none;">
+        <a href="../../AccountManagementAndEvents.php" style="text-decoration: none;">
             <div class="card features">
                 <div class="card-body">
                     <div class="media">
@@ -78,7 +78,7 @@
         </a>
     </div>
     <div class="margin-top-btm-1 col-lg-4 animated fadeInUp delay-10s">
-        <a href="<?php echo 'StudentCoaching.php'; ?>" style="text-decoration: none;">
+        <a href="../../StudentCoaching.php" style="text-decoration: none;">
             <div class="card features">
                 <div class="card-body">
                     <div class="media">
@@ -92,7 +92,7 @@
         </a>
     </div>
     <div class="margin-top-btm-1 col-lg-4 animated fadeInUp delay-10s">
-        <a href="<?php echo 'Presentation.php';?>" style="text-decoration: none;">
+        <a href="../../Presentation.php" style="text-decoration: none;">
             <div class="card features">
                 <div class="card-body">
                     <div class="media">
@@ -106,7 +106,7 @@
         </a>
     </div>
     <div class="margin-top-btm-1 col-lg-4 animated fadeInUp delay-10s">
-        <a href="<?php echo 'ProgrammingAndLicenceApplications.php';?>" style="text-decoration: none;">
+        <a href="../../ProgrammingAndLicenceApplications.php" style="text-decoration: none;">
             <div class="card features">
                 <div class="card-body">
                     <div class="media">
@@ -120,7 +120,7 @@
         </a>
     </div>
     <div class="margin-top-btm-1 col-lg-4 animated fadeInUp delay-10s">
-        <a href="<?php echo 'Enterprise.php';?>" style="text-decoration: none;">
+        <a href="../../Enterprise.php" style="text-decoration: none;">
             <div class="card features">
                 <div class="card-body">
                     <div class="media">
@@ -134,7 +134,7 @@
         </a>
     </div>
     <div class="margin-top-btm-1 col-lg-4 animated fadeInUp delay-10s">
-        <a href="<?php echo 'Resources.php';?>" style="text-decoration: none;">
+        <a href="../../Resources.php" style="text-decoration: none;">
             <div class="card features">
                 <div class="card-body">
                     <div class="media">
@@ -151,5 +151,4 @@
 
 </div>
 
-</div>
 <!-- // end .section -->

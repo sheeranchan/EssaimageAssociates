@@ -3,7 +3,7 @@
 <h3 class="text-center">Main Clients</h3>
 <div class="client-logos my-5 animated fadeInDown delay-10s">
 <div class="container text-center">
-    <img src="images/client-logos.png" alt="client logos" class="img-fluid">
+    <img src="../../images/client-logos.png" alt="client logos" class="img-fluid">
 </div>
 </div>
 
@@ -36,7 +36,7 @@
         <div class="tab-content">
             <div class="tab-pane fade show active" id="UniPrgDetails">
                 <div class="d-flex flex-column flex-lg-row">
-                    <img src="images/activities/consultancy.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                    <img src="../../images/activities/consultancy.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                     <div>
 
                         <h2 class="animated fadeInDown delay-10s">University Programmes</h2>
@@ -53,7 +53,7 @@
                         <p class="lead animated fadeInLeft delay-10s">Assist you to find out your advantage</p>
                         <p class="animated fadeInUp delay-10s">identifying and capturing technology breakthroughs that provide vital competitive advantage</p>
                     </div>
-                    <img src="images/activities/business-research.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                    <img src="../../images/activities/business-research.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                 </div>
             </div>
             <div class="tab-pane fade" id="recruitmentDetails">
@@ -63,12 +63,12 @@
                         <p class="lead animated fadeInLeft delay-10s">Accurately locate talent people for you</p>
                         <p class="animated fadeInUp delay-10s">Helping companies to identify the talent they need and nurture it through creative, self-sustaining placement programmes</p>
                     </div>
-                    <img src="images/activities/recruitment.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                    <img src="../../images/activities/recruitment.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                 </div>
             </div>
             <div class="tab-pane fade" id="trainingDetails">
                 <div class="d-flex flex-column flex-lg-row">
-                    <img src="images/activities/training.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                    <img src="../../images/activities/training.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                     <div>
                         <h2 class="animated fadeInDown delay-10s">Training</h2>
                         <p class="lead animated fadeInLeft delay-10s">Uniquely underwhelm premium outsourcing with proactive leadership skills. </p>
@@ -83,7 +83,7 @@
                         <p class="lead animated fadeInLeft delay-10s">Uniquely experience to setup your radio station in Britain. </p>
                         <p class="animated fadeInUpBig delay-10s">Support for radio station licensing & start-up, programming and presentation</p>
                     </div>
-                    <img src="images/activities/radio.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                    <img src="../../images/activities/radio.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                 </div>
             </div>
         </div>

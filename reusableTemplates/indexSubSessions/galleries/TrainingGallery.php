@@ -26,73 +26,73 @@
             <!-- Images -->
             <div class="carousel-inner offset-lg-2">
                 <div class="carousel-item active">
-                    <img id="trn01" src="images/RobertPics/TrainingPics/Training1.jpg" class="img-fluid" alt="image1">
+                    <img id="trn01" src="../../../images/RobertPics/TrainingPics/Training1.jpg" class="img-fluid" alt="image1">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="trn02" src="images/RobertPics/TrainingPics/Training2.jpg" class="img-fluid" alt="image2">
+                    <img id="trn02" src="../../../images/RobertPics/TrainingPics/Training2.jpg" class="img-fluid" alt="image2">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="trn03" src="images/RobertPics/TrainingPics/Training3.jpg" class="img-fluid" alt="image3">
+                    <img id="trn03" src="../../../images/RobertPics/TrainingPics/Training3.jpg" class="img-fluid" alt="image3">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="trn04" src="images/RobertPics/TrainingPics/Training4.jpg" class="img-fluid" alt="image4">
+                    <img id="trn04" src="../../../images/RobertPics/TrainingPics/Training4.jpg" class="img-fluid" alt="image4">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="trn05" src="images/RobertPics/TrainingPics/Training5.jpg" class="img-fluid" alt="image5">
+                    <img id="trn05" src="../../../images/RobertPics/TrainingPics/Training5.jpg" class="img-fluid" alt="image5">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="trn06" src="images/RobertPics/TrainingPics/Training6.jpg" class="img-fluid" alt="image6">
+                    <img id="trn06" src="../../../images/RobertPics/TrainingPics/Training6.jpg" class="img-fluid" alt="image6">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="trn07" src="images/RobertPics/TrainingPics/Training7.jpg" class="img-fluid" alt="image7">
+                    <img id="trn07" src="../../../images/RobertPics/TrainingPics/Training7.jpg" class="img-fluid" alt="image7">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="trn08" src="images/RobertPics/TrainingPics/Training8.jpg" class="img-fluid" alt="image7">
+                    <img id="trn08" src="../../../images/RobertPics/TrainingPics/Training8.jpg" class="img-fluid" alt="image7">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="trn09" src="images/RobertPics/TrainingPics/Training9.jpg" class="img-fluid" alt="image7">
+                    <img id="trn09" src="../../../images/RobertPics/TrainingPics/Training9.jpg" class="img-fluid" alt="image7">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="trn10" src="images/RobertPics/TrainingPics/Training10.jpg" class="img-fluid" alt="image7">
+                    <img id="trn10" src="../../../images/RobertPics/TrainingPics/Training10.jpg" class="img-fluid" alt="image7">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="trn11" src="images/RobertPics/TrainingPics/Training11.jpg" class="img-fluid" alt="image7">
+                    <img id="trn11" src="../../../images/RobertPics/TrainingPics/Training11.jpg" class="img-fluid" alt="image7">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="trn12" src="images/RobertPics/TrainingPics/Training12.jpg" class="img-fluid" alt="image7">
+                    <img id="trn12" src="../../../images/RobertPics/TrainingPics/Training12.jpg" class="img-fluid" alt="image7">
                     <div class="carousel-caption d-none d-md-block">
                         <p>Cap1</p>
                     </div>
