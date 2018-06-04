@@ -9,16 +9,16 @@
                 <ul class="list-unstyled ui-steps">
                     <li class="media">
                         <div class="circle-icon mr-4">1</div>
-                        <a href="StudentCoaching.php" style="text-decoration-line: none;">
+                        <a href="<?php echo 'StudentCoaching.php';?>" style="text-decoration-line: none;">
                             <div class="media-body">
                                 <h5>Coaching & Teaching</h5>
-                                <p>1-to-1 student coaching is available to componies</p>
+                                <p>1-to-1 student coaching is available to companies</p>
                             </div>
                         </a>
                     </li>
                     <li class="media my-4">
                         <div class="circle-icon mr-4">2</div>
-                        <a href="SalesTraining.php" style="text-decoration-line: none;">
+                        <a href="<?php echo 'SalesTraining.php';?>" style="text-decoration-line: none;">
                             <div class="media-body">
                                 <h5>Group Training</h5>
                                 <p>Group sales & marketing trainings are available to componies</p>
@@ -27,7 +27,7 @@
                     </li>
                     <li class="media">
                         <div class="circle-icon mr-4">3</div>
-                        <a href="AccountManagementAndEvents.php" style="text-decoration-line: none;">
+                        <a href="<?php echo 'AccountManagementAndEvents.php';?>" style="text-decoration-line: none;">
                             <div class="media-body">
                                 <h5>Account Management & Events</h5>
                                 <p>We help companies to host their technical events </p>
