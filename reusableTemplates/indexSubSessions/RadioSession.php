@@ -12,9 +12,9 @@
                         Read more
                     </button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                        <a class="dropdown-item" href="../../Presentation.php">Radio Presentation</a>
-                        <a class="dropdown-item" href="../../ProgrammingAndLicenceApplications.php">Radio Licensing</a>
-                        <a class="dropdown-item" href="../../Enterprise.php">Radio Station Building</a>
+                        <a class="dropdown-item" href="Presentation.php">Radio Presentation</a>
+                        <a class="dropdown-item" href="ProgrammingAndLicenceApplications.php">Radio Licensing</a>
+                        <a class="dropdown-item" href="Enterprise.php">Radio Station Building</a>
                     </div>
                 </div>
             </div>
@@ -26,3 +26,9 @@
 
 </div>
 <!-- // end .section -->
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<!-- jQuery and Bootstrap -->
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>

@@ -88,6 +88,10 @@ p.lead {
     margin-bottom: 2rem;
 }
 
+.bigger-font{
+    font-size: 120%;
+}
+
 .text-primary {
     color: #e38cb7 !important;
 }
@@ -225,7 +229,7 @@ p.lead {
     padding-top: 10%;
 }
 
-@media (min-width: 992px) {
+@media screen and (min-width:768px) and (min-width: 992px) {
     .navbar-expand-lg .navbar-nav .nav-link {
         padding-right: 1rem;
         padding-left: 1rem;
@@ -240,17 +244,22 @@ p.lead {
         height: 1px;
         position: absolute;
     }
+    .body{
+        width: 100%;
+    }
 }
 
-@media (max-width:991px) {
+@media screen and (max-width:991px) {
     .navbar-nav.is-scrolling {
         padding-bottom: 1rem;
     }
     .navbar-nav .nav-item {
         text-align: center;
     }
+    .body{
+        width: 100%;
+    }
 }
-
 
 
 

@@ -1,5 +1,5 @@
 <div class="nav-menu fixed-top col-lg-12 col-sm-12 col-md-12">
-<div class="container">
+<div class="container col-lg-12 col-sm-12 col-md-12">
     <div class="row">
         <div class="col-md-12">
             <nav class="navbar navbar-dark navbar-expand-lg">

@@ -1,7 +1,7 @@
 <span id="twitters"></span>
 <br>
 <h3 class="text-center">Twitters</h3>
-<div class="section">
+<div class="section col-lg-12 col-md-12 col-sm-12">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 animated fadeInUp delay-10s">

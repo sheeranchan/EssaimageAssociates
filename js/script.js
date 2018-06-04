@@ -83,6 +83,7 @@ $(function() {
     if ($testimonialsDiv.length && $.fn.owlCarousel) {
         $testimonialsDiv.owlCarousel({
             items: 3,
+            autoplay: true,
             nav: true,
             dots: false,
             navText: ['<span class="ti-arrow-left"></span>', '<span class="ti-arrow-right"></span>']
@@ -108,6 +109,12 @@ $(function() {
             }
         });
     }
+    $('.owl-carousel .owl-item').on('mouseenter',function(e){
+        $(this).closest('.owl-carousel').trigger('stop.owl.autoplay');
+    })
+    $('.owl-carousel .owl-item').on('mouseleave',function(e){
+        $(this).closest('.owl-carousel').trigger('play.owl.autoplay',[500]);
+    })
 }); /* End Fn */
 
 /* Tiptool for explanation text */
