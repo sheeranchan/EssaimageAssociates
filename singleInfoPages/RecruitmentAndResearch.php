@@ -5,7 +5,7 @@
 <body data-spy="scroll" data-target="#navbar" data-offset="30">
 <!-- Nav Menu -->
 
-<?php include 'reusableTemplates/navMenu.php' ?>
+<?php include 'reusableTemplates/gradientBGColourNavMenu.php' ?>
 
 <header id="home" class="bg-gradient padding-btm-10">
     <div class="container mt-5 animated fadeInLeft delay-05s">
@@ -15,8 +15,8 @@
             Academia is a boiling pot of ideas! Amongst this mass of exploration are innovations that could give your business a competitive advantage. But finding these "nuggets" of IP (Intellectual Property) is a daunting task, and there is always the nagging doubt that your competitors might get there first. Essaimage Associates has a well-structured process that can facilitate the identification of key new technologies and then map them to specific Universities and groups. Once identified, we can advise on the best way to engage with those researchers so both Company and University are successful.
         </p>
         <div class="margin-top-5 pull-right">
-            <img src="images/icons/pdf-icon.png" alt="pdf-icon"><a href="files/pdf/Benefits of Working with Academia Feb'18.pdf"
-                                                                   class="text-white" download>Benefits of Working with Academia</a>
+            <img src="../images/icons/pdf-icon.png" alt="pdf-icon"><a href="../files/pdf/Benefits%20of%20Working%20with%20Academia%20Feb'18.pdf"
+                                                                      class="text-white" download>Benefits of Working with Academia</a>
         </div>
     </div>
 </header>

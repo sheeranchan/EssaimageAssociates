@@ -1,11 +1,5 @@
 <!-- Gallery: Radio -->
-<div class="section light-bg" id="radio-gallery">
-    <div class="container">
-        <div class="section-title">
-            <small>GALLERY</small>
-            <h3>Radio Photography</h3>
-        </div>
-
+    <div class="col-lg-8 float-right">
         <!-- Gallery: Radio -->
         <div id="rdControls" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
@@ -36,7 +30,7 @@
                 <li data-target="#rdControls" data-slide-to="23"></li>
             </ol>
             <!-- Images -->
-            <div class="carousel-inner offset-lg-2">
+            <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img id="rd01" src="../../../images/RobertPics/RadioPics/Radio1.png" class="img-fluid" alt="image1">
                     <div class="carousel-caption d-none d-md-block">
@@ -203,5 +197,4 @@
         <!-- Modal Caption (Image Text) -->
         <div id="caption5"></div>
     </div>
-</div>
 <!-- // end .section -->

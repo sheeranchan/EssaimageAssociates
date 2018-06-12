@@ -1,6 +1,6 @@
 <span id="twitters"></span>
 <br>
-<h3 class="text-center">Twitters</h3>
+<h3 class="text-center">University Programme & Radio Twitters</h3>
 <div class="section col-lg-12 col-md-12 col-sm-12">
     <div class="container">
         <div class="row">

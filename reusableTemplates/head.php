@@ -12,13 +12,13 @@
     <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500" rel="stylesheet">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
     <!-- Themify Icons -->
-    <link rel="stylesheet" href="css/themify-icons.css">
+    <link rel="stylesheet" href="../css/themify-icons.css">
     <!-- Owl carousel -->
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../css/owl.carousel.min.css">
     <!-- animation -->
-    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="../css/animate.css">
     <!-- Main css -->
     <link href="css/style.css" rel="stylesheet">
 
@@ -30,4 +30,5 @@
     <!-- Custom JS -->
     <script src="js/script.js"></script>
     <script src="js/jquery.easing.1.3.js"></script>
+<!--    --><?php //include "../ga.inc"; ?>
 </head>

@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'reusableTemplates/head.php' ?>
+<?php include '../reusableTemplates/head.php' ?>
 
 <body data-spy="scroll" data-target="#navbar" data-offset="30">
 <!-- Nav Menu -->
 
-<?php include 'reusableTemplates/navMenu.php' ?>
+<?php include '../reusableTemplates/navMenu.php' ?>
 
 <header id="home" class="bg-gradient padding-btm-10">
     <div class="container mt-5 animated fadeInLeft delay-05s">
@@ -36,7 +36,7 @@
 
 <!-- // end .section -->
 
-<?php include 'reusableTemplates/footer.php' ?>
+<?php include '../reusableTemplates/footer.php' ?>
 
 </body>
 </html>

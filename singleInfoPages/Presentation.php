@@ -5,14 +5,14 @@
 <body data-spy="scroll" data-target="#navbar" data-offset="30">
 <!-- Nav Menu -->
 
-<?php include 'reusableTemplates/navMenu.php' ?>
+<?php include 'reusableTemplates/gradientBGColourNavMenu.php' ?>
 
 <header id="home" class="bg-gradient padding-btm-10">
     <div class="container mt-5 animated fadeInLeft delay-05s">
         <h1 class="text-center">Presentation</h1>
         <p class="tagline">
             <audio controls class="margin-top-btm-1">
-                <source src="files/radioAudio/demo.mp3">
+                <source src="../files/radioAudio/demo.mp3">
                 <pre>Play Presenter Demo (3'41")</pre>
             </audio>
             <span class="clearfix"></span>
@@ -22,7 +22,7 @@
             At KCBC he developed a show for aficionados of the 60's "beat boom" , which was later called the "Jukebox Drive-In". This programme aired weekly on the High Wycombe station elevenSEVENTY from 1995 to 2000, and from March 2001 the Jukebox Drive-In moved to hertbeat fm where it aired weekly until May 2010. The programme regularly included interviews with luminaries from the music world<br>
             In May 2010, after hertbeat fm became Jack fm (and now BOB fm), the Jukebox Drive-In moved to community radio station Biggles FM in Potton, Bedfordshire until July 2012. Then in October 2016, after a long break, it returned to Northamptonshire on the new community radio station NLive, where Robbie is a founding member. The programme can be heard each Sunday at 7pm (nliveradio.com).<br>
             <audio controls class="margin-top-btm-1">
-                <source src="files/radioAudio/showreel.mp3">
+                <source src="../files/radioAudio/showreel.mp3">
                 <pre>Play JukeBox Drive-In Showreel (19'04") </pre>
             </audio>
         </p>

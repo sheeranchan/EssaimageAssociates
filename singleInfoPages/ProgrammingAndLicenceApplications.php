@@ -5,7 +5,7 @@
 <body data-spy="scroll" data-target="#navbar" data-offset="30">
 <!-- Nav Menu -->
 
-<?php include 'reusableTemplates/navMenu.php' ?>
+<?php include 'reusableTemplates/gradientBGColourNavMenu.php' ?>
 
 <header id="home" class="bg-gradient padding-btm-10">
     <div class="container mt-5 animated fadeInLeft delay-05s">

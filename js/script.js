@@ -9,6 +9,10 @@ Copyright © All rights Reserved
 
 */
 
+/*-----------------------------------
+ * Embed - Google Maps
+ *-----------------------------------*/
+
 $(function() {
     "use strict";
 
@@ -83,28 +87,29 @@ $(function() {
     if ($testimonialsDiv.length && $.fn.owlCarousel) {
         $testimonialsDiv.owlCarousel({
             items: 3,
-            autoplay: true,
-            nav: true,
-            dots: false,
-            navText: ['<span class="ti-arrow-left"></span>', '<span class="ti-arrow-right"></span>']
+            autoPlay: true,
+            stopOnHover: true,
+            nav: false,
+            dots: false
+            // navText: ['<span class="ti-arrow-left"></span>', '<span class="ti-arrow-right"></span>']
         });
     }
 
     var $galleryDiv = $('.img-gallery');
     if ($galleryDiv.length && $.fn.owlCarousel) {
         $galleryDiv.owlCarousel({
-            nav: false,
-            center: true,
             loop: true,
-            autoplay: true,
-            dots: true,
-            navText: ['<span class="ti-arrow-left"></span>', '<span class="ti-arrow-right"></span>'],
+            autoPlay: true,
+            dots: false,
+            stopOnHover: true,
+            slideSpeed: 200,
+            // navText: ['<span class="ti-arrow-left"></span>', '<span class="ti-arrow-right"></span>'],
             responsive: {
                 0: {
                     items: 1
                 },
                 768: {
-                    items: 3
+                    items: 1
                 }
             }
         });
