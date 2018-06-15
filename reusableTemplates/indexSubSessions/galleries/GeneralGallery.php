@@ -71,7 +71,7 @@
         <!-- The Modal: generalModal -->
         <div id="generalModal" class="modal">
             <!-- The Close Button -->
-            <span class="close1">&times;</span>
+            <span class="close1 margin-top-5">&times;</span>
             <!-- Modal Content (The Image) -->
             <img class="modal-content" id="imgContainer1">
             <!-- Modal Caption (Image Text) -->

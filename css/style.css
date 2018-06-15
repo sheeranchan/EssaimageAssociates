@@ -231,8 +231,8 @@ p.lead {
 }
 
 .company-logo-size{
-    height: 55%;
-    width: 55%;
+    height: 45%;
+    width: 45%;
 }
 
 .client-logo-size{
@@ -353,6 +353,12 @@ header {
     .img-holder {
         padding-bottom: 100%;
     }
+
+    .company-logo-size{
+        height: 65%;
+        width: 65%;
+    }
+
 }
 
 

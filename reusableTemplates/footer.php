@@ -18,10 +18,10 @@
             </div>
             <div class="col-lg-6">
                 <div class="social-icons">
-                    <a target="_blank" href="https://www.facebook.com/robbie.owen.7169"><span class="ti-facebook"></span></a>
-                    <a target="_blank" href="https://twitter.com/unipgm?lang=en"><span class="ti-twitter-alt"></span></a>
-                    <a target="_blank" href="https://twitter.com/jbdi?lang=en"><span class="ti-twitter-alt"></span></a>
-                </div>
+                    <a target="_blank" href="https://www.facebook.com/robbie.owen.7169" data-toggle="tooltip" title="Robbie Owen facebook"><span class="ti-facebook"></span></a>
+                    <a target="_blank" href="https://twitter.com/unipgm?lang=en" data-toggle="tooltip" title="UniPgm Twitter"><span class="ti-twitter-alt"></span></a>
+                    <a target="_blank" href="https://twitter.com/jbdi?lang=en" data-toggle="tooltip" title="Radio Twitter"><span class="ti-twitter-alt"></span></a>
+                </>
             </div>
         </div>
 
@@ -31,7 +31,7 @@
 <!-- // end .section -->
 
 
-<footer class="my-5 text-center">
+<footer class="margin-top-5 text-center">
     <!-- Copyright removal is not prohibited! -->
     <p class="mb-2">COPYRIGHT © 2018. ALL RIGHTS RESERVED - Essaimage Associations Limited</p>
     <p class="mb-2">Redesigned by WEcnnct LTD.</p>

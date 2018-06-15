@@ -1,8 +1,8 @@
-<div class="col-lg-8 float-right">
+<span class="col-lg-8 float-right">
     <!-- Gallery: University -->
     <div id="UniControls" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
-        <ol class="carousel-indicators" id="caInd3">
+        <ol class="carousel-indicators" id="caInd2">
             <li data-target="#UniControls" data-slide-to="0" class="active"></li>
             <li data-target="#UniControls" data-slide-to="1"></li>
             <li data-target="#UniControls" data-slide-to="2"></li>
@@ -227,15 +227,17 @@
             <span class="sr-only">Next</span>
         </a>
     </div>
-    <!-- Image Modal to place a bigger pictures -->
-</div>
-<!-- The Modal: uniModal -->
-<div id="uniModal" class="modal">
-    <!-- The Close Button -->
-    <span class="close3">&times;</span>
-    <!-- Modal Content (The Image) -->
-    <img class="modal-content" id="imgContainer3">
-    <!-- Modal Caption (Image Text) -->
-    <div id="caption3"></div>
-</div>
-<!-- // end .section -->
+    <div>
+        <!-- Image Modal to place a bigger pictures -->
+        <!-- The Modal: uniModal -->
+            <div id="uniModal" class="modal">
+            <!-- The Close Button -->
+            <span class="close2 margin-top-5">&times;</span>
+            <!-- Modal Content (The Image) -->
+            <img class="modal-content" id="imgContainer2">
+            <!-- Modal Caption (Image Text) -->
+            <div id="caption2"></div>
+            </div>
+        <!-- // end .section -->
+    </div>
+</span>

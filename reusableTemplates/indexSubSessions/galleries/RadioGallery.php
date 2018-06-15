@@ -3,7 +3,7 @@
         <!-- Gallery: Radio -->
         <div id="rdControls" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
-            <ol class="carousel-indicators" id="caInd5">
+            <ol class="carousel-indicators" id="caInd4">
                 <li data-target="#rdControls" data-slide-to="0" class="active"></li>
                 <li data-target="#rdControls" data-slide-to="1"></li>
                 <li data-target="#rdControls" data-slide-to="2"></li>
@@ -191,10 +191,10 @@
     <!-- The Modal: rdModal -->
     <div id="rdModal" class="modal">
         <!-- The Close Button -->
-        <span class="close5">&times;</span>
+        <span class="close4 margin-top-5">&times;</span>
         <!-- Modal Content (The Image) -->
-        <img class="modal-content" id="imgContainer5">
+        <img class="modal-content" id="imgContainer4">
         <!-- Modal Caption (Image Text) -->
-        <div id="caption5"></div>
+        <div id="caption4"></div>
     </div>
 <!-- // end .section -->

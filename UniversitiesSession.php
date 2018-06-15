@@ -5,15 +5,15 @@
 
 <body data-spy="scroll" data-target="#navbar" data-offset="30">
 
-<div class="bg-gradient">
+    <div class="bg-gradient">
     <!-- Nav Menu -->
     <?php include_once 'reusableTemplates/navMenu.php' ?>
 
     <?php include_once 'reusableTemplates/indexSubSessions/Universities.php' ?>
-</div>
+    </div>
 
-<span class="clearfix"></span>
-<?php include_once 'reusableTemplates/footer.php' ?>
+    <span class="clearfix"></span>
+    <?php include_once 'reusableTemplates/footer.php' ?>
 </body>
 
 </html>

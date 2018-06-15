@@ -1,30 +1,29 @@
 <header class="col-lg-12 col-md-12 col-sm-12 animated fadeInLeft delay-05s" id="home">
-    <img data-toggle="tooltip" class="company-logo-size  margin-top-btm-1" src="../../images/companyLogo.png"
-         title="In France, they talk in a metaphoric sense about an [Essaimage] of new ideas, techniques, knowledge and savoir-faire (know-how, savvy, from years of experience).">
-    <div class="col-lg-12 col-md-12 col-sm-12">
+    <div class="col-lg-12 col-md-12 col-sm-12 margin-top-5">
         <?php include_once 'testimonials/TestimonialSession.php' ?>
         <?php include_once 'galleries/GeneralGallery.php' ?>
         <div class="clearfix margin-top-btm-1 margin-btm-3"></div>
         <ul class="nav nav-tabs nav-justified" role="tablist">
             <li class="nav-item">
-                <a class="nav-link active" data-toggle="tab" href="#mission">Mission</a>
+                <a class="nav-link active" data-toggle="tab" href="#mission">Mission Statement</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#activities">Activities</a>
+                <a class="nav-link" data-toggle="tab" href="#activities">What We Do?</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#clientList">Clients List</a>
             </li>
         </ul>
-        <div class="tab-content">
+        <div class="tab-content text-left">
             <div class="tab-pane fade show active" id="mission">
                 <div class="d-flex flex-column flex-lg-row">
-                    <img src="../../images/activities/consultancy.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                    <img src="../../images/graphic.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                     <div>
 
-                        <h2 class="animated fadeInDown delay-10s">Title 1</h2>
-                        <p class="lead animated fadeInLeft delay-10s">Sub Title 1 </p>
-                        <p class="animated fadeInUp delay-10s">Content 1
+                        <h2 class="animated fadeInDown delay-10s">Mission</h2>
+                        <p class="animated fadeInUp delay-10s tagline-black">
+                            Essaimage Associates creates and sustains relationships which enable technology businesses to find talent, innovate, and grow market share!<br>
+                            In France, they talk in a metaphoric sense about an "Essaimage" of <strong>new ideas, techniques, knowledge and savoir-faire</strong> (know-how, savvy, from years of experience).<br>
                         </p>
                     </div>
                 </div>
@@ -32,11 +31,19 @@
             <div class="tab-pane fade" id="activities">
                 <div class="d-flex flex-column flex-lg-row">
                     <div>
-                        <h2 class="animated fadeInDown delay-10s">Title 2</h2>
-                        <p class="lead animated fadeInLeft delay-10s">Sub Title 2</p>
-                        <p class="animated fadeInUp delay-10s">Content 2</p>
+                        <div class="animated fadeInUp delay-10s">
+                            <h3>Universities</h3>
+                            <p class="tagline-black">Marketing: enabling companies to embed their technologies in Labs and Student projects to create an instinctive preference which endures amongst future graduates to use these technologies
+                            Recruitment: helping companies to identify the talent they need and nurture it through creative, self-sustaining placement programmes
+                            Research: identifying and capturing technology breakthroughs that provide vital competitive advantage
+                            </p>
+                            <h3>Coaching & Training</h3>
+                            <p class="tagline-black">30 years of experience in the development of skills in customer-facing roles</p>
+                            <h3>Radio</h3>
+                            <p class="tagline-black">Support for radio station licensing & start-up, programming and presentation</p>
+                        </div>
                     </div>
-                    <img src="../../images/activities/business-research.png" alt="graphic" class="img-fluid rounded align-self-start mx-lg-5 mx-5 mb-lg-0">
+                    <img src="../../images/activities/training.png" alt="graphic" class="img-fluid rounded align-self-start mx-lg-5 mx-5 mb-lg-0">
                 </div>
             </div>
             <div class="tab-pane fade" id="clientList">
@@ -83,7 +90,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://www.rs-online.com/designspark/rs-university">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/RS-components.png" alt="RS components company logo">
+                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/rs_components_logo.png" alt="RS components company logo">
                                                     </a>
                                                 </td>
                                                 <td>RS Components, UK: programme building, recruitment & university marketing</td>
@@ -107,7 +114,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="http://www.enocean.com">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/EnOcean.png" alt="Enocean company logo">
+                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/enocean_alliance_ing_logo_rgb.png" alt="Enocean company logo">
                                                     </a>
                                                 </td>
                                                 <td>EnOcean GmbH, Munich, Germany: university marketing & student recruitment</td>
@@ -186,7 +193,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://www.gruma.com/en.aspx">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Manufacturing/missionlogo.png" alt="Mission company logo">
+                                                        <img class="client-logo-size" src="../../images/clientLogos/Manufacturing/gruma.png" alt="Mission company logo">
                                                     </a>
                                                 </td>
                                                 <td>GRUMA Europe (Mission Foods): Recruitment – building a new graduate programme</td>
@@ -209,7 +216,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://www.RadioMiAmigo.International">
-                                                        <img class="radio-logo-size" src="../../images/clientLogos/Radio/maxresdefault.jpg" alt="Radio Mi Amigo International logo">
+                                                        <img class="radio-logo-size" src="../../images/clientLogos/Radio/radio_mi_amigo.jpg" alt="Radio Mi Amigo International logo">
                                                     </a>
                                                 </td>
                                                 <td>Radio Mi Amigo International. Shortwave & Online radio station. Management, sales & presentation.</td>
@@ -265,7 +272,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://www.1584kcbc.co.uk">
-                                                        <img class="radio-logo-size" src="../../images/clientLogos/Radio/KCBC.jpeg" alt="KCBC FM logo">
+                                                        <img class="radio-logo-size" src="../../images/clientLogos/Radio/1584kcbc_radio_logo.png" alt="KCBC FM logo">
                                                     </a>
                                                 </td>
                                                 <td>KCBC, UK: programming & presentation </td>
@@ -281,7 +288,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://www.thevoiceofpeace.co.il">
-                                                        <img class="radio-logo-size" src="../../images/clientLogos/Radio/TheVoiceOfPeace.jpg" alt="Voice of Peace logo">
+                                                        <img class="radio-logo-size" src="../../images/clientLogos/Radio/voiceofpeace_radio.png" alt="Voice of Peace logo">
                                                     </a>
                                                 </td>
                                                 <td>Voice of Peace, Israel: presentation</td>
@@ -292,7 +299,9 @@
 
                         </span>
                     </div>
-                    <img src="../../images/activities/recruitment.png" alt="graphic" class="img-fluid rounded align-self-start mx-lg-5 mx-5 mb-lg-0">
+                    <div class="clearfix">
+                        <img src="../../images/client-logos.png " alt="graphic" class="img-fluid rounded align-self-start mx-lg-5 mx-5 mb-lg-0">
+                    </div>
                 </div>
             </div>
         </div>

@@ -169,7 +169,7 @@ $pagename = "contact";
         echo "<br />" . $errors . "<br /><br />";
     }
     ?>
-        <form id="contactform" class="rounded col-lg-8 offset-2 text-white" method="post" action="contact.php#cf">
+        <form id="contactform" class="rounded col-lg-8 col-md-12 col-sm-12 offset-lg-2 text-white" method="post" action="contact.php#cf">
             <div class="form-group field single">
                 <label for="name">Name:</label>
                 <input type="text" class="input form-control" name="name" id="name" value="<?php echo $fromname; ?>" />
