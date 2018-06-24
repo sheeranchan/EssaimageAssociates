@@ -79,6 +79,13 @@ h5 {
     margin-bottom: 0.7rem;
 }
 
+blockquote {
+    opacity: 0.8;
+    color: #111;
+    background: linear-gradient(lightcyan, lightgray);
+    padding: 5px;
+}
+
 p {
     color: #959094;
 }
@@ -213,9 +220,14 @@ p.lead {
     position: relative;
 }
 
+.margin-top-3 {
+    margin-top: 3%;
+}
+
 .margin-top-5 {
     margin-top: 5%;
 }
+
 
 .margin-btm-5 {
     margin-bottom: 5%;
@@ -231,13 +243,24 @@ p.lead {
 }
 
 .company-logo-size{
-    height: 45%;
-    width: 45%;
+    height: 20%;
+    width: 20%;
+}
+
+.footer-logo-size{
+    height: 150px;
+    width: 100%;
+    padding: 15px;
 }
 
 .client-logo-size{
     height: 20px;
     width: 80px;
+}
+
+.walkingMan-logo-size{
+    height: 55%;
+    width: 42%;
 }
 
 .radio-logo-size{
@@ -285,6 +308,12 @@ p.lead {
     .body{
         width: 100%;
     }
+
+    .footer-logo-size{
+        height: 70%;
+        width: 80%;
+    }
+
 }
 
 @media screen and (max-width:991px) {
@@ -296,6 +325,12 @@ p.lead {
     }
     .body{
         width: 100%;
+    }
+
+    .footer-logo-size{
+        height: 70%;
+        width: 100%;
+        padding: 15px;
     }
 }
 
@@ -447,6 +482,7 @@ header {
         font-size: 28px;
         line-height: 50px;
     }
+
 }
 
 .ui-steps li:hover .circle-icon {
@@ -475,6 +511,7 @@ header {
     .perspective-phone {
         margin-top: -150px;
     }
+
 }
 
 
@@ -493,6 +530,7 @@ header {
     .tab-content {
         padding: 1.5rem;
     }
+
 }
 
 .tab-content p {
@@ -615,6 +653,7 @@ header {
     .card-deck .card {
         margin-bottom: 15px;
     }
+
 }
 
 .card.pricing {
@@ -730,6 +769,7 @@ header {
         width: 20px;
         height: 20px;
     }
+
 }
 
 
@@ -771,33 +811,45 @@ header {
 --------------------*
 //* Style the Image Used to Trigger the Modal */
 /* Gallery: General */
+
+.carousel-inner .carousel-item p {
+    background: linear-gradient(white, lightgrey);
+    color: #111;
+    opacity: 0.6;
+}
+
 #gen01, #gen02, #gen03,
 #gen04, #gen05, #gen06,
-#gen07,
-#mk01, #mk02, #mk03,
-#mk04, #mk05,
+#gen07, #gen08, #gen09,
 #uni01, #uni02, #uni03, #uni04, #uni05,
-#uni06, #uni07, #uni08,#uni09, #uni010,
+#uni06, #uni07, #uni08,#uni09, #uni10,
 #uni11, #uni12, #uni13,#uni14, #uni15,
 #uni16, #uni17, #uni18,#uni19, #uni20,
 #uni21, #uni22, #uni23,#uni24, #uni25,
 #uni26, #uni27, #uni28,#uni29, #uni30,
-#trn01, #trn02, #trn03, #trn04,
-#trn05, #trn06, #trn07, #trn08,
-#trn09, #trn010, #trn11, #trn12,
+#uni31, #uni32, #uni33, #uni34, #uni35,
+#uni36, #uni37,
+#ing01, #ing02, #ing03, #ing04,
+#ing05, #ing06, #ing07, #ing08,
+#ing09, #ing10, #ing11, #ing12,
+#ing13, #ing14, #ing15, #ing16,
+#ing17, #ing18, #ing19, #ing20,
 #rd01, #rd02, #rd03, #rd04, #rd05, #rd06,
-#rd07, #rd08,#rd09, #rd010, #rd11, #rd12,
-#rd13,#rd14, #rd15, #rd16, #rd17, #rd18,
-#rd19, #rd20, #rd21, #rd22, #rd23,#rd24
+#rd07, #rd08, #rd09, #rd10, #rd11, #rd12,
+#rd13, #rd14, #rd15, #rd16, #rd17, #rd18,
+#rd19, #rd20, #rd21, #rd22, #rd23,#rd24,
+#rd25, #rd26
 {
     border-radius: 5px;
     cursor: pointer;
     transition: 0.3s;
+    width: 800px;
+    height: 450px;
 }
 
 #gen01:hover, #gen02:hover, #gen03:hover,
 #gen04:hover, #gen05:hover, #gen06:hover,
-#gen07:hover,
+#gen07:hover, #gen08:hover, #gen09:hover,
 #mk01:hover, #mk02:hover, #mk03:hover,
 #mk04:hover, #mk05:hover,
 #uni01:hover, #uni02:hover, #uni03:hover, #uni04:hover, #uni05:hover,
@@ -806,18 +858,21 @@ header {
 #uni16:hover, #uni17:hover, #uni18:hover, #uni19:hover, #uni20:hover,
 #uni21:hover, #uni22:hover, #uni23:hover, #uni24:hover, #uni25:hover,
 #uni26:hover, #uni27:hover, #uni28:hover, #uni29:hover, #uni30:hover,
-#trn01:hover, #trn02:hover, #trn03:hover, #trn04:hover,
-#trn05:hover, #trn06:hover, #trn07:hover, #trn08:hover,
-#trn09:hover, #trn10:hover, #trn11:hover, #trn12:hover,
+#uni31:hover, #uni32:hover, #uni33:hover, #uni34:hover, #uni35:hover,
+#uni36:hover, #uni37:hover,
+#ing01:hover, #ing02:hover, #ing03:hover, #ing04:hover,
+#ing05:hover, #ing06:hover, #ing07:hover, #ing08:hover,
+#ing09:hover, #ing10:hover, #ing11:hover, #ing12:hover,
 #rd01:hover, #rd02:hover, #rd03:hover, #rd04:hover, #rd05:hover,
 #rd06:hover, #rd07:hover, #rd08:hover, #rd09:hover, #rd10:hover,
 #rd11:hover, #rd12:hover, #rd13:hover, #rd14:hover, #rd15:hover,
 #rd16:hover, #rd17:hover, #rd18:hover, #rd19:hover, #rd20:hover,
-#rd21:hover, #rd22:hover, #rd23:hover, #rd24:hover
+#rd21:hover, #rd22:hover, #rd23:hover, #rd24:hover, #rd25:hover,
+#rd26:hover
 {opacity: 0.7;}
 
 /* Caption of Modal Image (Image Text) - Same Width as the Image */
-#caption1, #caption2, #caption3, #caption4, #caption5 {
+#caption1, #caption2, #caption3, #caption4 {
     margin: auto;
     display: block;
     width: 80%;
@@ -831,7 +886,7 @@ header {
 /* Add Animation - Zoom in the Modal */
 .modal-content, #caption1,
 #caption2, #caption3,
-#caption4, #caption5 {
+#caption4 {
     animation-name: zoom;
     animation-duration: 0.6s;
 }
@@ -840,8 +895,7 @@ header {
 .close1,
 .close2,
 .close3,
-.close4,
-.close5 {
+.close4 {
     position: absolute;
     top: 85px;
     right: 35px;
@@ -851,8 +905,8 @@ header {
     transition: 0.3s;
 }
 
-.close1:hover, .close2:hover, .close3:hover, .close4:hover, .close5:hover,
-.close1:focus, .close2:focus, .close3:focus, .close4:focus, .close5:focus {
+.close1:hover, .close2:hover, .close3:hover, .close4:hover,
+.close1:focus, .close2:focus, .close3:focus, .close4:focus {
     color: #bbb;
     text-decoration: none;
     cursor: pointer;
@@ -875,7 +929,7 @@ header {
 
 /* Modal Content (Image) */
 .modal-content {
-    margin: 100px auto;
+    margin: 100px auto 0 auto;
     display: block;
     width: 80%;
     max-width: 700px;
@@ -891,5 +945,9 @@ header {
 @media only screen and (max-width: 700px){
     .modal-content {
         width: 100%;
+    }
+    .carousel-inner {
+        width:125%;
+        margin:0 -35px 10px;
     }
 }

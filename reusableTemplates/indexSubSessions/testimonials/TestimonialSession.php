@@ -1,7 +1,7 @@
 <span class="col-lg-4 float-left">
     <div class="carousel slide" data-ride="carousel" id="quote-carousel">
         <!-- Bottom Carousel Indicators -->
-        <ol class="carousel-indicators" id="tInd1">
+        <ol class="carousel-indicators padding-top-10" id="tInd1">
             <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
             <li data-target="#quote-carousel" data-slide-to="1"></li>
             <li data-target="#quote-carousel" data-slide-to="2"></li>
@@ -106,6 +106,8 @@
             </div>
         </div>
     </div>
+
+    <img src="../../../images/WalkerCOLOUR.png" class="animated fadeInLeft walkingMan-logo-size margin-top-5">
 </span>
 
 <!-- // end .section -->

@@ -9,22 +9,30 @@
 <div class="section bg-gradient" id="contact">
     <div class="container">
         <!-- Nav Menu -->
-        <?php include_once 'reusableTemplates/navMenu.php' ?>
-        <h2 class="text-center text-white margin-top-5"><span class="ti-headphone-alt gradient-fill"></span> Contact Us</h2>
-        <?php include_once 'contact.php' ?>
-        <div class="clearfix"></div>
-        <hr>
-        <h2 class="text-center text-white margin-top-5"><span class="ti-map gradient-fill"></span> Well Connected</h2>
-        <div class="call-to-action">
-            <img src="images/location_AAL.png" class="img-fluid" alt="company location">
-            <div class="my-4">
-                <p class="text-center">
-                    <img src="images/icons/maps.png" alt="map icon"><a class="text-white" href="http://maps.google.co.uk/maps?hl=en&bav=on.2,or.r_gc.r_pw.,cf.osb&biw=1366&bih=661&wrapid=tlif133349004711210&q=SG14+3JW&um=1&ie=UTF-8&hq=&hnear=0x4876268b7a6089af:0x66d0d09b4bb1e026,Hertford+SG14+3JW&gl=uk&ei=inF7T9XxK8S38gPeoLCpCA&sa=X&oi=geocode_result&ct=title&resnum=1&ved=0CB8Q8gEwAA"> Click here to find Us on Google Map</a>
-                </p>
-                <p class="text-center"><img src="images/icons/pdf-icon.png" alt="pdf"><a class="text-white" href="/files/pdf/Robert%20Owen%20CV%20May%202012.pdf" download> Download CV</a> </p>
-                <p class="text-center"><img src="images/icons/linkedin.png" alt="LinkedIn icon"><a class="text-white" href="http://uk.linkedin.com/pub/robert-owen/1/593/433"> View LinkedIn Profile</a> </p>
+        <div class="nav-menu fixed-top" id="nav-menu">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <nav class="navbar navbar-dark navbar-expand-lg">
+                            <img data-toggle="tooltip" class="company-logo-size  margin-top-btm-1" src="../images/Cream%20Logo%20RGB.png"
+                                 title="In France, they talk in a metaphoric sense about an [Essaimage] of new ideas, techniques, knowledge and savoir-faire (know-how, savvy, from years of experience).">
+                            <button class="navbar-toggler small" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+                            <div class="collapse navbar-collapse" id="navbar">
+                                <ul class="navbar-nav ml-auto">
+                                    <li class="nav-item"> <a class="nav-link" href="../index.php">Home <span class="sr-only">(current)</span></a> </li>
+                                    <li class="nav-item"> <a class="nav-link" href="../UniversitiesSession.php">Universities</a></li>
+                                    <li class="nav-item"> <a class="nav-link" href="../InternsNGradsSession.php">Interns & Grads</a> </li>
+                                    <li class="nav-item"> <a class="nav-link" href="../RadioSession.php">Radio</a> </li>
+                                    <li class="nav-item"> <a class="nav-link active" href="../ContactSession.php">Contact Us</a> </li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
             </div>
         </div>
+
+        <?php include_once 'contact.php' ?>
     </div>
 </div>
 </div>

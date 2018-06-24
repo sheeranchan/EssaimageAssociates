@@ -1,7 +1,7 @@
 <span class="col-lg-4 float-left">
     <div class="carousel slide" data-ride="carousel" id="quote-carousel">
         <!-- Bottom Carousel Indicators -->
-        <ol class="carousel-indicators" id="tInd4">
+        <ol class="carousel-indicators margin-top-10" id="tInd4">
             <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
             <li data-target="#quote-carousel" data-slide-to="1"></li>
             <li data-target="#quote-carousel" data-slide-to="2"></li>
@@ -176,14 +176,10 @@
             </div>
         </div>
     </div>
-    <?php if(isset($_POST['width']) && $_POST['width'] > 992) { ?>
-        <div class="animated fadeInUp delay-10s">
-            <span class="ti-twitter gradient-fill"></span>
-            <span class="margin-top-5"></span>
-            <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/JBDI" data-tweet-limit="1">Tweets by WEcnnct </a>
-            <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-        </div>
-    <?php } ?>
+    <div class="animated fadeInUp delay-10s margin-top-5">
+        <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/JBDI" data-tweet-limit="1">Tweets of JBDI</a>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
 </span>
 
 <!-- // end .section -->

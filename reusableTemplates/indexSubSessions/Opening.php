@@ -1,5 +1,5 @@
 <header class="col-lg-12 col-md-12 col-sm-12 animated fadeInLeft delay-05s" id="home">
-    <div class="col-lg-12 col-md-12 col-sm-12 margin-top-5">
+    <div class="col-lg-12 col-md-12 col-sm-12 margin-top-3">
         <?php include_once 'testimonials/TestimonialSession.php' ?>
         <?php include_once 'galleries/GeneralGallery.php' ?>
         <div class="clearfix margin-top-btm-1 margin-btm-3"></div>
@@ -8,7 +8,7 @@
                 <a class="nav-link active" data-toggle="tab" href="#mission">Mission Statement</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#activities">What We Do?</a>
+                <a class="nav-link" data-toggle="tab" href="#activities">What We Do</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#clientList">Clients List</a>
@@ -17,7 +17,7 @@
         <div class="tab-content text-left">
             <div class="tab-pane fade show active" id="mission">
                 <div class="d-flex flex-column flex-lg-row">
-                    <img src="../../images/graphic.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                    <img src="../../images/activities/mission.jpg" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                     <div>
 
                         <h2 class="animated fadeInDown delay-10s">Mission</h2>
@@ -224,7 +224,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://www.RobbieOwen.com">
-                                                        <img class="radio-logo-size" src="../../images/clientLogos/Radio/echo.jpg" alt="Magic echo logo">
+                                                        <img class="radio-logo-size" src="../../images/clientLogos/Radio/MagicEcho.png" alt="Magic echo logo">
                                                     </a>
                                                 </td>
                                                 <td>The Magic Echo: studio construction, streaming & recording.</td>

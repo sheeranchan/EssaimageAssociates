@@ -146,9 +146,9 @@ $(document).ready(function() {
     var captionText = document.getElementById("caption1");
 
     //hide indicators when pictures are clicked
-    var indicators1 = document.getElementById("caInd1");
     var testimonialInd1 = document.getElementById("tInd1");
     var navMenu = document.getElementById("nav-menu");
+
 
 // Get the image and insert it inside the modal - use its "alt" text as a caption
     var img1 = document.getElementById('gen01');
@@ -158,6 +158,8 @@ $(document).ready(function() {
     var img5 = document.getElementById('gen05');
     var img6 = document.getElementById('gen06');
     var img7 = document.getElementById('gen07');
+    var img8 = document.getElementById('gen08');
+    var img9 = document.getElementById('gen09');
 
     img1.onclick =
         img2.onclick =
@@ -166,17 +168,17 @@ $(document).ready(function() {
                     img5.onclick =
                         img6.onclick =
                             img7.onclick =
-                                function () {
-                                    modal.style.display = "block";
-                                    modalImg.src = this.src;
-                                    captionText.innerHTML = this.alt;
-                                    //hide gallery nav points
-                                    indicators1.style.display = "none";
-                                    //hide testimonials nav points
-                                    testimonialInd1.style.display = "none";
-                                    //add fixed-nav background colour
-                                    navMenu.classList.add("bg-gradient");
-                                };
+                                img8.onclick =
+                                    img9.onclick =
+                                    function () {
+                                        modal.style.display = "block";
+                                        modalImg.src = this.src;
+                                        captionText.innerHTML = this.alt;
+                                        //hide testimonials nav points
+                                        testimonialInd1.style.display = "none";
+                                        //add fixed-nav background colour
+                                        navMenu.classList.add("bg-gradient");
+                                    };
 
 
 // Get the <span> element that closes the modal
@@ -201,7 +203,6 @@ $(document).ready(function(){
     var modalImg2 = document.getElementById("imgContainer2");
     var captionText2 = document.getElementById("caption2");
 
-    var indicators2 = document.getElementById("caInd2");
     var testimonialInd2 = document.getElementById("tInd2");
     var navMenu = document.getElementById("nav-menu");
 
@@ -237,6 +238,13 @@ $(document).ready(function(){
     var img_uni_28 = document.getElementById('uni28');
     var img_uni_29 = document.getElementById('uni29');
     var img_uni_30 = document.getElementById('uni30');
+    var img_uni_31 = document.getElementById('uni31');
+    var img_uni_32 = document.getElementById('uni32');
+    var img_uni_33 = document.getElementById('uni33');
+    var img_uni_34 = document.getElementById('uni34');
+    var img_uni_35 = document.getElementById('uni35');
+    var img_uni_36 = document.getElementById('uni36');
+    var img_uni_37 = document.getElementById('uni37');
 
     img_uni_1.onclick =
         img_uni_2.onclick =
@@ -253,25 +261,32 @@ $(document).ready(function(){
                                                     img_uni_13.onclick =
                                                         img_uni_14.onclick =
                                                             img_uni_15.onclick =
-                                                            img_uni_16.onclick =
-                                                        img_uni_17.onclick =
-                                                    img_uni_18.onclick =
-                                                img_uni_19.onclick =
-                                            img_uni_20.onclick =
-                                        img_uni_21.onclick =
-                                    img_uni_22.onclick =
-                                img_uni_23.onclick =
-                            img_uni_24.onclick =
-                        img_uni_25.onclick =
-                    img_uni_26.onclick =
-                img_uni_27.onclick =
-            img_uni_28.onclick =
-        img_uni_29.onclick =
-    img_uni_30.onclick = function(){
+                                                                img_uni_16.onclick =
+                                                                    img_uni_17.onclick =
+                                                                        img_uni_18.onclick =
+                                                                            img_uni_19.onclick =
+                                                                        img_uni_20.onclick =
+                                                                    img_uni_21.onclick =
+                                                                img_uni_22.onclick =
+                                                            img_uni_23.onclick =
+                                                        img_uni_24.onclick =
+                                                    img_uni_25.onclick =
+                                                img_uni_26.onclick =
+                                            img_uni_27.onclick =
+                                        img_uni_28.onclick =
+                                    img_uni_29.onclick =
+                                img_uni_30.onclick =
+                            img_uni_31.onclick =
+                        img_uni_32.onclick =
+                    img_uni_33.onclick =
+                img_uni_34.onclick =
+            img_uni_35.onclick =
+        img_uni_36.onclick =
+    img_uni_37.onclick =
+    function(){
         uniModal.style.display = "block";
         modalImg2.src = this.src;
         captionText2.innerHTML = this.alt;
-        indicators2.style.display = "none";
         testimonialInd2.style.display= "none";
         navMenu.classList.add("bg-gradient");
     };
@@ -297,7 +312,6 @@ $(document).ready(function(){
     var modalImg3 = document.getElementById("imgContainer3");
     var captionText3 = document.getElementById("caption3");
 
-    var indicators3 = document.getElementById("caInd3");
     var testimonialInd3 = document.getElementById('tInd3');
     var navMenu = document.getElementById("nav-menu");
 
@@ -315,6 +329,14 @@ $(document).ready(function(){
     var img_ing_10 = document.getElementById('ing10');
     var img_ing_11 = document.getElementById('ing11');
     var img_ing_12 = document.getElementById('ing12');
+    var img_ing_13 = document.getElementById('ing13');
+    var img_ing_14 = document.getElementById('ing14');
+    var img_ing_15 = document.getElementById('ing15');
+    var img_ing_16 = document.getElementById('ing16');
+    var img_ing_17 = document.getElementById('ing17');
+    var img_ing_18 = document.getElementById('ing18');
+    var img_ing_19 = document.getElementById('ing19');
+    var img_ing_20 = document.getElementById('ing20');
 
     img_ing_1.onclick =
         img_ing_2.onclick =
@@ -322,17 +344,24 @@ $(document).ready(function(){
                 img_ing_4.onclick =
                     img_ing_5.onclick =
                         img_ing_6.onclick =
-                        img_ing_7.onclick =
-                    img_ing_8.onclick =
-                img_ing_9.onclick =
-            img_ing_10.onclick =
-        img_ing_11.onclick =
-    img_ing_12.onclick =
+                            img_ing_7.onclick =
+                                img_ing_8.onclick =
+                                    img_ing_9.onclick =
+                                        img_ing_10.onclick =
+                                        img_ing_11.onclick =
+                                    img_ing_12.onclick =
+                                img_ing_13.onclick =
+                            img_ing_14.onclick =
+                        img_ing_15.onclick =
+                    img_ing_16.onclick =
+                img_ing_17.onclick =
+            img_ing_18.onclick =
+        img_ing_19.onclick =
+    img_ing_20.onclick =
     function(){
         INGModal.style.display = "block";
         modalImg3.src = this.src;
         captionText3.innerHTML = this.alt;
-        indicators3.style.display = "none";
         testimonialInd3.style.display= "none";
         navMenu.classList.add("bg-gradient");
     };
@@ -377,19 +406,47 @@ var img_rd_9 = document.getElementById('rd09');
 var img_rd_10 = document.getElementById('rd10');
 var img_rd_11 = document.getElementById('rd11');
 var img_rd_12 = document.getElementById('rd12');
+var img_rd_13 = document.getElementById('rd13');
+var img_rd_14 = document.getElementById('rd14');
+var img_rd_15 = document.getElementById('rd15');
+var img_rd_16 = document.getElementById('rd16');
+var img_rd_17 = document.getElementById('rd17');
+var img_rd_18 = document.getElementById('rd18');
+var img_rd_19 = document.getElementById('rd19');
+var img_rd_20 = document.getElementById('rd20');
+var img_rd_21 = document.getElementById('rd21');
+var img_rd_22 = document.getElementById('rd22');
+var img_rd_23 = document.getElementById('rd23');
+var img_rd_24 = document.getElementById('rd24');
+var img_rd_25 = document.getElementById('rd25');
+var img_rd_26 = document.getElementById('rd26');
 
-        img_rd_1.onclick =
-            img_rd_2.onclick =
-                img_rd_3.onclick =
-                    img_rd_4.onclick =
-                        img_rd_5.onclick =
-                            img_rd_6.onclick =
-                        img_rd_7.onclick =
-                    img_rd_8.onclick =
-                img_rd_9.onclick =
-            img_rd_10.onclick =
-        img_rd_11.onclick =
-    img_rd_12.onclick =
+    img_rd_1.onclick =
+        img_rd_2.onclick =
+            img_rd_3.onclick =
+                img_rd_4.onclick =
+                    img_rd_5.onclick =
+                        img_rd_6.onclick =
+                            img_rd_7.onclick =
+                                img_rd_8.onclick =
+                                    img_rd_9.onclick =
+                                        img_rd_10.onclick =
+                                            img_rd_11.onclick =
+                                                img_rd_12.onclick =
+                                                    img_rd_13.onclick =
+                                                    img_rd_14.onclick =
+                                                img_rd_15.onclick =
+                                            img_rd_16.onclick =
+                                        img_rd_17.onclick =
+                                    img_rd_18.onclick =
+                                img_rd_19.onclick =
+                            img_rd_20.onclick =
+                        img_rd_21.onclick =
+                    img_rd_22.onclick =
+                img_rd_23.onclick =
+            img_rd_24.onclick =
+        img_rd_25.onclick =
+    img_rd_26.onclick =
     function(){
         rdModal.style.display = "block";
         modalImg4.src = this.src;

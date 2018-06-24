@@ -2,7 +2,7 @@
     <div class="col-lg-12 col-md-12 col-sm-12 margin-top-btm-3">
         <?php include_once 'testimonials/uniTestimonial.php' ?>
         <?php include_once 'galleries/UniversityGallery.php' ?>
-        <div class="clearfix margin-top-btm-1 margin-btm-3"></div>
+        <div class="clearfix margin-top-btm-5"></div>
         <ul class="nav nav-tabs nav-justified" role="tablist">
             <li class="nav-item">
                 <a class="nav-link active" data-toggle="tab" href="#mktToUni">Gaining Market Share</a>
@@ -48,7 +48,7 @@
                             We have facilitated the publication and dissemination of many different materials developed by leading academics, using a simple non-exclusive license agreement with the Universities. This is win-win for both University and Technology provider. <br>
                         </p>
                     </div>
-                    <img src="../../images/activities/business-research.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                    <img src="../../images/activities/teaching_materials.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                 </div>
             </div>
             <div class="tab-pane fade" id="supNResearch">

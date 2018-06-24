@@ -29,7 +29,7 @@ $mail = new PHPMailer();
    =========================================================
 */
 
-$toaddress = "sheeranchan@gmail.com";  //Change this to the email address you will be receiving your notices.
+$toaddress = "ngkangjie@outlook.com";  //Change this to the email address you will be receiving your notices.
 //$toaddress = "rcwo@compuserve.com";  //Change this to the email address you will be receiving your notices.
 $mailhost = "mail.brasstacksweb.co.uk";  //Change this to your actual Domain name.
 $fromaddress = "postmaster@brasstacksweb.co.uk";  //Change this to the email address you will use to send and authenticate with.
@@ -71,6 +71,8 @@ $url = sanitisestring($_POST["url"]); // SRB 19/04/14
 // $body = sanitisestring($_POST["message"]) ;
 // $body = trim($body);
 $message = sanitisestring($_POST["message"]) ;
+
+
 if (strlen($message)>1000) {
     $errors .= "<br \/>Message is too long";
 }
@@ -85,8 +87,9 @@ if (!empty($url)) {
 }
 
 // Added by SRB 1/6/14
-include_once "secureImage/secureImage/secureImage.php";
+include_once "securimage/securimage.php";
 $securimage = new Securimage();
+
 if ($securimage->check($_POST['captcha_code']) == false) {
     $errors .= "<span class=\"failure\">Wrong captcha code</span>";
 }
@@ -145,8 +148,42 @@ $url = ""; // SRB 19/04/14
 $pagename = "contact";
 ?>
 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
-<div class="content col-lg-12 col-md-12 col-sm-12">
+<head>
+    <title>Essaimage | How to Contact Essaimage Associates</title>
+    <!-- Required meta tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Tab Logo -->
+    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+
+    <!-- Font -->
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500" rel="stylesheet">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Themify Icons -->
+    <link rel="stylesheet" href="css/themify-icons.css">
+    <!-- Owl carousel -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <!-- animation -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Main css -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- jQuery and Bootstrap -->
+    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+    <!-- Plugins JS -->
+    <script type="text/javascript" src="js/owl.carousel.min.js"></script>
+    <!-- Custom JS -->
+    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="js/securimage.js"></script>
     <script type="text/javascript">
 
         var _gaq = _gaq || [];
@@ -155,18 +192,27 @@ $pagename = "contact";
 
         (function() {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
 
     </script>
+</head>
 
+<body class="bg-gradient">
+
+<div id="wrapper">
+    <div class="content col-lg-12 col-md-12 col-sm-12">
+
+    <?php include_once 'reusableTemplates/navMenu.php' ?>
+
+    <h2 class="section text-center text-white margin-top-5"><span class="ti-headphone-alt gradient-fill"></span> Contact Us</h2>
     <!-- Contact Form -->
-    <a name="cf"></a>
+    <a name="cf" id="cf"></a>
 
     <?php
     if ($errors != "") {
-        echo "<br />" . $errors . "<br /><br />";
+        echo "<br /><p class='text-danger text-center'>" . $errors . "</p> <br /><br />";
     }
     ?>
         <form id="contactform" class="rounded col-lg-8 col-md-12 col-sm-12 offset-lg-2 text-white" method="post" action="contact.php#cf">
@@ -197,10 +243,10 @@ $pagename = "contact";
 
             <div class="form-group field">
                 <label for="captcha_code">Enter security code:<br />
-                    <img id="captcha" src="secureImage/secureImage/secureImage_show.php" alt="CAPTCHA Image" style="width: 130px;" /></label>
+                    <img id="captcha" src="securimage/securimage_show.php" alt="CAPTCHA Image" style="width: 130px;" /></label>
                 <br />
-                <input type="text" name="captcha_code" size="10" maxlength="6" />
-                <a href="#" onclick="document.getElementById('captcha').src = 'secureImage/secureImage_show.php?' + Math.random(); return false" style="font: 11px verdana; text-decoration: none;"><img src="secureImage/secureImage/images/refresh.png"></a>
+                <input type="text" name="captcha_code" id="captcha_code" size="10" maxlength="6" />
+                <a href="#" onclick="document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random(); return false" style="font: 11px verdana; text-decoration: none;"><img src="securimage/images/refresh.png" onclick="this.blur()" alt="refresh button"></a>
             </div>
 
 
@@ -219,10 +265,8 @@ $pagename = "contact";
         </form>
 </div>
 
-<div class="post-content"></div>
-
-
-
+</body>
+</html>
 
 
 

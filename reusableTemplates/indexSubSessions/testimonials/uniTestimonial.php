@@ -1,7 +1,7 @@
 <span class="col-lg-4 float-left">
     <div class="carousel slide" data-ride="carousel" id="quote-carousel">
         <!-- Bottom Carousel Indicators -->
-        <ol class="carousel-indicators" id="tInd2">
+        <ol class="carousel-indicators margin-top-10" id="tInd2">
             <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
             <li data-target="#quote-carousel" data-slide-to="1"></li>
             <li data-target="#quote-carousel" data-slide-to="2"></li>
@@ -211,7 +211,7 @@
                     <div class="row">
                         <div class="col-sm-12 text-center">
                             <span class="ti-quote-left"></span>
-                                <strong class="bigger-font">15.	“… He built the company's program from the ground up, and over-delivered on all aspects. We went from a very low profile in universities to being at the heart of a highly regarded curriculum that is now used in many countries around the globe. Robert is highly strategic, has a wealth of key relationships, and also has an impressive attention to detail. There is no other university program manager with whom I have worked that I would recommend more highly.</strong>
+                                <strong class="bigger-font"> He built the company's program from the ground up, and over-delivered on all aspects. We went from a very low profile in universities to being at the heart of a highly regarded curriculum that is now used in many countries around the globe. Robert is highly strategic, has a wealth of key relationships, and also has an impressive attention to detail. There is no other university program manager with whom I have worked that I would recommend more highly.</strong>
                             <span class="ti-quote-right"></span><br>
                             <small>Jen Bernier-Santarini, Strategic Communications Director, Santa Clara, USA. April 2018</small>
                         </div>
@@ -246,15 +246,10 @@
             </div>
         </div>
     </div>
-<!--    <img src="../../../images/WalkerCOLOUR.png" class="walkman-size float-left clearfix" alt="Robert Owen Icon">-->
-    <?php if(isset($_POST['width']) && $_POST['width'] > 992) { ?>
-        <div class="animated fadeInUp delay-10s">
-            <span class="ti-twitter gradient-fill"></span>
-            <span class="margin-top-5"></span>
-            <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/UniPgm" data-tweet-limit="1">Tweets by WEcnnct </a>
-            <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-        </div>
-    <?php } ?>
+    <div class="animated fadeInUp delay-10s margin-top-5">
+        <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/UniPgm" data-tweet-limit="1">Tweets of UniPgm</a>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
 </span>
 
 <!-- // end .section -->

@@ -1,8 +1,8 @@
 <header class="col-lg-12 col-md-12 col-sm-12 animated fadeInLeft delay-05s" id="home">
-    <div class="col-lg-12 col-md-12 col-sm-12 margin-top-btm-3">
+    <div class="col-lg-12 col-md-12 col-sm-12 margin-top-3">
         <?php include_once 'testimonials/radioTestimonial.php' ?>
         <?php include_once 'galleries/RadioGallery.php' ?>
-        <div class="clearfix margin-top-btm-1 margin-btm-3"></div>
+        <div class="clearfix  margin-top-btm-1 margin-btm-3"></div>
         <ul class="nav nav-tabs nav-justified" role="tablist">
             <li class="nav-item">
                 <a class="nav-link active" data-toggle="tab" href="#presenter">Presenter</a>
@@ -17,7 +17,7 @@
         <div class="tab-content text-left">
             <div class="tab-pane fade show active" id="presenter">
                 <div class="d-flex flex-column flex-lg-row">
-                    <img src="../../images/activities/radio.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                    <img src="../../images/activities/presenter.jpg" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                     <div>
 
                         <h2 class="animated fadeInDown delay-10s">Presenter</h2>
@@ -51,7 +51,7 @@
 
                         </p>
                     </div>
-                    <img src="../../images/activities/business-research.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                    <img src="../../images/activities/radio.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                 </div>
             </div>
             <div class="tab-pane fade" id="enterprise">
@@ -80,7 +80,7 @@
 
                         </span>
                     </div>
-                    <img src="../../images/activities/recruitment.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
+                    <img src="../../images/activities/radio_studio_enterprise.jpg" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                 </div>
             </div>
         </div>
