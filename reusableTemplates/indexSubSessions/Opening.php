@@ -2,7 +2,8 @@
     <div class="col-lg-12 col-md-12 col-sm-12 margin-top-3">
         <?php include_once 'testimonials/TestimonialSession.php' ?>
         <?php include_once 'galleries/GeneralGallery.php' ?>
-        <div class="clearfix margin-top-btm-1 margin-btm-3"></div>
+        <img src="../../images/WalkerCOLOUR.png" class="animated fadeInLeft walkingMan-logo-size float-left margin-top-10">
+        <div class="clearfix"></div>
         <ul class="nav nav-tabs nav-justified" role="tablist">
             <li class="nav-item">
                 <a class="nav-link active" data-toggle="tab" href="#mission">Mission Statement</a>
@@ -22,8 +23,10 @@
 
                         <h2 class="animated fadeInDown delay-10s">Mission</h2>
                         <p class="animated fadeInUp delay-10s tagline-black">
-                            Essaimage Associates creates and sustains relationships which enable technology businesses to find talent, innovate, and grow market share!<br>
-                            In France, they talk in a metaphoric sense about an "Essaimage" of <strong>new ideas, techniques, knowledge and savoir-faire</strong> (know-how, savvy, from years of experience).<br>
+                            Essaimage Associates creates and sustains relationships which enable technology businesses to find talent, innovate, and grow market share!
+                        </p><br>
+                        <p class="animated fadeInUp delay-10s tagline-black">
+                            In France, they talk in a metaphoric sense about an "Essaimage" of <strong>new ideas, techniques, knowledge and savoir-faire</strong> (know-how, savvy, from years of experience).
                         </p>
                     </div>
                 </div>
@@ -33,12 +36,12 @@
                     <div>
                         <div class="animated fadeInUp delay-10s">
                             <h3>Universities</h3>
-                            <p class="tagline-black">Marketing: enabling companies to embed their technologies in Labs and Student projects to create an instinctive preference which endures amongst future graduates to use these technologies
-                            Recruitment: helping companies to identify the talent they need and nurture it through creative, self-sustaining placement programmes
-                            Research: identifying and capturing technology breakthroughs that provide vital competitive advantage
-                            </p>
+                            <p class="tagline-black">Marketing: enabling companies to embed their technologies in Labs and Student projects to create an instinctive preference which endures amongst future graduates to use these technologies</p><br>
+                            <p class="tagline-black">Recruitment: helping companies to identify the talent they need and nurture it through creative, self-sustaining placement programmes</p><br>
+                            <p class="tagline-black">Research: identifying and capturing technology breakthroughs that provide vital competitive advantage</p><br>
+                            <br>
                             <h3>Coaching & Training</h3>
-                            <p class="tagline-black">30 years of experience in the development of skills in customer-facing roles</p>
+                            <p class="tagline-black">30 years of experience in the development of skills in customer-facing roles</p><br>
                             <h3>Radio</h3>
                             <p class="tagline-black">Support for radio station licensing & start-up, programming and presentation</p>
                         </div>
@@ -300,7 +303,7 @@
                         </span>
                     </div>
                     <div class="clearfix">
-                        <img src="../../images/client-logos.png " alt="graphic" class="img-fluid rounded align-self-start mx-lg-5 mx-5 mb-lg-0">
+<!--                        <img src="../../images/client-logos.png " alt="graphic" class="img-fluid rounded align-self-start mx-lg-5 mx-5 mb-lg-0">-->
                     </div>
                 </div>
             </div>

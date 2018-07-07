@@ -29,7 +29,7 @@ $mail = new PHPMailer();
    =========================================================
 */
 
-$toaddress = "ngkangjie@outlook.com";  //Change this to the email address you will be receiving your notices.
+$toaddress = "sheeranchan@gmail.com";  //Change this to the email address you will be receiving your notices.
 //$toaddress = "rcwo@compuserve.com";  //Change this to the email address you will be receiving your notices.
 $mailhost = "mail.brasstacksweb.co.uk";  //Change this to your actual Domain name.
 $fromaddress = "postmaster@brasstacksweb.co.uk";  //Change this to the email address you will use to send and authenticate with.
@@ -206,7 +206,7 @@ $pagename = "contact";
 
     <?php include_once 'reusableTemplates/navMenu.php' ?>
 
-    <h2 class="section text-center text-white margin-top-5"><span class="ti-headphone-alt gradient-fill"></span> Contact Us</h2>
+    <h2 class="section text-center text-white margin-top-10"><span class="ti-headphone-alt gradient-fill"></span> Contact Us</h2>
     <!-- Contact Form -->
     <a name="cf" id="cf"></a>
 

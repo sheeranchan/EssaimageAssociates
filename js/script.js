@@ -44,10 +44,10 @@ $(function() {
     var siteNav = $('#navbar');
     siteNav.on('show.bs.collapse', function(e) {
         $(this).parents('.nav-menu').addClass('menu-is-open');
-    })
+    });
     siteNav.on('hide.bs.collapse', function(e) {
         $(this).parents('.nav-menu').removeClass('menu-is-open');
-    })
+    });
 
     /*-----------------------------------
      * ONE PAGE SCROLLING
@@ -90,7 +90,7 @@ $(function() {
             autoPlay: true,
             stopOnHover: true,
             nav: false,
-            dots: false
+            dots: false,
             // navText: ['<span class="ti-arrow-left"></span>', '<span class="ti-arrow-right"></span>']
         });
     }
@@ -102,7 +102,7 @@ $(function() {
             autoPlay: true,
             dots: false,
             stopOnHover: true,
-            slideSpeed: 200,
+            slideSpeed: 300,
             // navText: ['<span class="ti-arrow-left"></span>', '<span class="ti-arrow-right"></span>'],
             responsive: {
                 0: {

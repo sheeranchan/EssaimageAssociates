@@ -95,8 +95,11 @@ p.lead {
     margin-bottom: 2rem;
 }
 
-.bigger-font{
-    font-size: 120%;
+/* Limit the height of the tweet widget */
+/*#twitter-widget-0 {height:290px !important;}*/
+
+.smaller-font{
+    font-size: 80%;
 }
 
 .text-primary {
@@ -178,6 +181,9 @@ p.lead {
 }
 
 @media (max-width:767px) {
+    .walkingMan-logo-size{
+        display: none;
+    }
     h1 {
         font-size: 40px;
     }
@@ -220,6 +226,10 @@ p.lead {
     position: relative;
 }
 
+.margin-top-1 {
+    margin-top: 1%;
+}
+
 .margin-top-3 {
     margin-top: 3%;
 }
@@ -259,8 +269,8 @@ p.lead {
 }
 
 .walkingMan-logo-size{
-    height: 55%;
-    width: 42%;
+    height: 12%;
+    width: 12%;
 }
 
 .radio-logo-size{
@@ -382,6 +392,9 @@ header {
 }
 
 @media (max-width:767px) {
+    .walkingMan-logo-size{
+        display: none;
+    }
     .tagline {
         font-size: 17px;
     }
@@ -752,7 +765,9 @@ header {
 
 /* Small devices (tablets, up to 768px) */
 @media (max-width: 768px) {
-
+    .walkingMan-logo-size{
+        display: none;
+    }
     /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
 
     #quote-carousel .carousel-indicators {

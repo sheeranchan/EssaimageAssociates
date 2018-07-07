@@ -182,9 +182,9 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd26" src="../../../images/RobertPics/RadioPics/The%20Voice%20of%20Peace%20-%20from%20somewhere%20in%20the%20Mediterranean,%201982.jpg" class="img-fluid" alt="The Voice of Peace - from somewhere in the Mediterranean, 1982">
+                    <img id="rd26" src="../../../images/RobertPics/RadioPics/Voice%20of%20Peace%20Team%20Graham%20Day%20Geoff%20Fitch%20Steve%20Growcot%20Doig%20Wood%20&%20Guy%20Bradley%20with%20RO%20August%201982%20Israel.jpg" class="img-fluid" alt="Voice of Peace Team Graham Day Geoff Fitch Steve Growcot Doig Wood & Guy Bradley with RO August 1982 Israel">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>The Voice of Peace - from somewhere in the Mediterranean, 1982</p>
+                        <p>Voice of Peace Team Graham Day Geoff Fitch Steve Growcot Doig Wood & Guy Bradley with RO August 1982 Israel</p>
                     </div>
                 </div>
             </div>

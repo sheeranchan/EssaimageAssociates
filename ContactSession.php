@@ -6,8 +6,6 @@
 <body data-spy="scroll" data-target="#navbar" data-offset="30">
 
 <div class="bg-gradient">
-<div class="section bg-gradient" id="contact">
-    <div class="container">
         <!-- Nav Menu -->
         <div class="nav-menu fixed-top" id="nav-menu">
             <div class="container">
@@ -33,12 +31,12 @@
         </div>
 
         <?php include_once 'contact.php' ?>
-    </div>
-</div>
 </div>
 
 <span class="clearfix"></span>
+<div style="background-color: white;">
 <?php include_once 'reusableTemplates/footer.php' ?>
+</div>
 
 </body>
 </html>
