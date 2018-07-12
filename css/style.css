@@ -230,6 +230,7 @@ p.lead {
     margin-top: 1%;
 }
 
+
 .margin-top-3 {
     margin-top: 3%;
 }
@@ -372,7 +373,7 @@ header {
 }
 
 .tagline-black {
-    font-size: 23px;
+    font-size: 14px;
     font-weight: 300;
     color: #000;
     max-width: 800px;

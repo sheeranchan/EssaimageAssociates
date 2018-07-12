@@ -10,9 +10,9 @@
             </div>
             <div class="col-lg-4">
                 <div class="social-icons">
-                    <a target="_blank" href="https://www.facebook.com/robbie.owen.7169" data-toggle="tooltip" title="Robbie Owen facebook"><span class="ti-facebook"></span></a>
-                    <a target="_blank" href="https://twitter.com/unipgm?lang=en" data-toggle="tooltip" title="UniPgm Twitter"><span class="ti-twitter-alt"></span></a>
-                    <a target="_blank" href="https://twitter.com/jbdi?lang=en" data-toggle="tooltip" title="Radio Twitter"><span class="ti-twitter-alt"></span></a>
+                    <a target="_blank" href="https://www.facebook.com/robbie.owen.7169" data-toggle="tooltip" data-placement="left" title="Robbie Owen facebook"><span class="ti-facebook"></span></a>
+                    <a target="_blank" href="https://twitter.com/unipgm?lang=en" data-toggle="tooltip" data-placement="left" title="UniPgm Twitter"><span class="ti-twitter-alt"></span></a>
+                    <a target="_blank" href="https://twitter.com/jbdi?lang=en" data-toggle="tooltip" data-placement="left" title="Radio Twitter"><span class="ti-twitter-alt"></span></a>
                 </div>
             </div>
         </div>

@@ -18,7 +18,6 @@
         <div class="tab-content text-left">
             <div class="tab-pane fade show active" id="interns">
                 <div class="d-flex flex-column flex-lg-row">
-                    <img src="../../images/activities/interns.jpg" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                     <div>
 
                         <h2 class="animated fadeInDown delay-10s">Interns</h2>
@@ -62,7 +61,6 @@
 
                         </span>
                     </div>
-                    <img src="../../images/activities/recruitment.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                 </div>
             </div>
             <div class="tab-pane fade" id="coaching">
@@ -88,10 +86,13 @@
 
                         </span>
                     </div>
-                    <img src="../../images/activities/training.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                 </div>
             </div>
         </div>
+    </div>
+    <br>
+    <div class="text-center">
+        <a href="../../files/pdf/EssaimageAssociates-Interns&Grads-Recruitment-v2.pdf" download><img src="../../images/icons/pdf-icon.png"> <span class="text-white"> EssaimageAssociates-InternsGrads-Recruitment</span></a>
     </div>
     <br>
 </header>

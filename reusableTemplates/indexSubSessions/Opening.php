@@ -18,7 +18,6 @@
         <div class="tab-content text-left">
             <div class="tab-pane fade show active" id="mission">
                 <div class="d-flex flex-column flex-lg-row">
-                    <img src="../../images/activities/mission.jpg" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                     <div>
 
                         <h2 class="animated fadeInDown delay-10s">Mission</h2>
@@ -46,7 +45,6 @@
                             <p class="tagline-black">Support for radio station licensing & start-up, programming and presentation</p>
                         </div>
                     </div>
-                    <img src="../../images/activities/training.png" alt="graphic" class="img-fluid rounded align-self-start mx-lg-5 mx-5 mb-lg-0">
                 </div>
             </div>
             <div class="tab-pane fade" id="clientList">

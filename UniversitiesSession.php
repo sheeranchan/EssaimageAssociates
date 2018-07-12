@@ -34,6 +34,7 @@
         <?php include_once 'reusableTemplates/indexSubSessions/Universities.php' ?>
     </div>
 
+
     <span class="clearfix"></span>
     <?php include_once 'reusableTemplates/footer.php' ?>
 </body>

@@ -17,9 +17,16 @@
         <div class="tab-content text-left">
             <div class="tab-pane fade show active" id="presenter">
                 <div class="d-flex flex-column flex-lg-row">
-                    <img src="../../images/activities/presenter.jpg" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                     <div>
-
+                        <audio controls>
+                            <source src="../../files/radioAudio/demo.mp3" type="audio/mp3">
+                            Your browser does not support the audio element.
+                        </audio>
+                        <audio controls>
+                            <source src="../../files/radioAudio/showreel.mp3" type="audio/mp3">
+                            Your browser does not support the audio element.
+                        </audio>
+                        <br><br>
                         <h2 class="animated fadeInDown delay-10s">Presenter</h2>
                         <p class="animated fadeInUp delay-10s tagline-black">
                             In parallel with his career in the electronics industry, Robert "Robbie" Owen is an accomplished radio presenter. So it is not surprising that his roles in Sales and Marketing are characterised by excellent communications whether to individuals or in presentations to large groups.<br><br>
@@ -51,7 +58,6 @@
 
                         </p>
                     </div>
-                    <img src="../../images/activities/radio.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                 </div>
             </div>
             <div class="tab-pane fade" id="enterprise">
@@ -80,7 +86,6 @@
 
                         </span>
                     </div>
-                    <img src="../../images/activities/radio_studio_enterprise.jpg" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                 </div>
             </div>
         </div>

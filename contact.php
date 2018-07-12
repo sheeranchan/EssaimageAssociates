@@ -246,7 +246,9 @@ $pagename = "contact";
                     <img id="captcha" src="securimage/securimage_show.php" alt="CAPTCHA Image" style="width: 130px;" /></label>
                 <br />
                 <input type="text" name="captcha_code" id="captcha_code" size="10" maxlength="6" />
-                <a href="#" onclick="document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random(); return false" style="font: 11px verdana; text-decoration: none;"><img src="securimage/images/refresh.png" onclick="this.blur()" alt="refresh button"></a>
+                <a href="#" onclick="document.getElementById('captcha').src = 'securimage/securimage_show.php?' + Math.random(); return false" style="font: 11px verdana; text-decoration: none;">
+                    <img src="securimage/images/refresh.png" onclick="this.blur()" alt="refresh button">
+                </a>
             </div>
 
 

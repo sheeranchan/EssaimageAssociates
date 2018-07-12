@@ -17,7 +17,6 @@
         <div class="tab-content text-left">
             <div class="tab-pane fade show active" id="mktToUni">
                 <div class="d-flex flex-column flex-lg-row">
-                    <img src="../../images/activities/consultancy.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                     <div>
 
                         <h2 class="animated fadeInDown delay-10s">Gaining Market Share</h2>
@@ -48,7 +47,6 @@
                             We have facilitated the publication and dissemination of many different materials developed by leading academics, using a simple non-exclusive license agreement with the Universities. This is win-win for both University and Technology provider. <br><br>
                         </p>
                     </div>
-                    <img src="../../images/activities/teaching_materials.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                 </div>
             </div>
             <div class="tab-pane fade" id="supNResearch">
@@ -64,10 +62,12 @@
                             It is a bit like Polydor and Decca turning down the Beatles, and they then went to EMI! <br><br>
                         </p>
                     </div>
-                    <img src="../../images/activities/recruitment.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
                 </div>
             </div>
         </div>
+    </div>
+    <div class="text-center">
+        <a href="../../files/pdf/Benefits%20of%20working%20with%20academia%20-%20February%202018.pdf" download><img src="../../images/icons/pdf-icon.png"> <span class="text-white"> Benefits of working with academia</span></a>
     </div>
     <br>
 </header>
