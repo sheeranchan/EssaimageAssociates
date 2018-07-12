@@ -36,7 +36,7 @@
             <div class="tab-pane fade" id="tMaterials">
                 <div class="d-flex flex-column flex-lg-row">
                     <div>
-                        <h2 class="animated fadeInDown delay-10s">Teaching materials</h2>
+                        <h2 class="animated fadeInDown delay-10s">Creation of Teaching Material</h2>
                         <p class="animated fadeInUp delay-10s tagline-black">
                             Essaimage Associates has a unique record in the creation of Teaching Materials for Academic use. These are materials which enable a Lecturer to take a new technology and quickly build a series of Lab exercises around this technology, making it much more likely that a University will make effective use of the new technology. The key skills involved here, are the massive network required to yield suitable Academic Authors, definition and licensing of the contents, management of the development process, and thorough debug/proofing of the materials. <br><br>
                             Recent examples are the award-winning Computer Architecture & System-on-Chip materials called “MIPSfpga” from MIPS (formerly Imagination), and the award-winning DesignSpark PCB and DesignSpark Mechanical materials for RS Components (Allied in the USA). <br><br>
@@ -52,7 +52,7 @@
             <div class="tab-pane fade" id="supNResearch">
                 <div class="d-flex flex-column flex-lg-row">
                     <div>
-                        <h2 class="animated fadeInDown delay-10s">Recruitment and Research</h2>
+                        <h2 class="animated fadeInDown delay-10s">Recruitment & Research</h2>
                         <p class="animated fadeInUp delay-10s tagline-black">
                             An effective marketing-led University Programme enhances a company’s access to key talent, both for recruitment and the harvesting of bright ideas. <br><br>
                             We believe that effective recruitment projects should be led by HR, but they need the market intelligence from a University Programme to decide the most fruitful targets. <br><br>

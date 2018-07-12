@@ -2,34 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa178f0b-d2e8-45bc-b0ee-936774764ce8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/pdf/Benefits of working with academia - February 2018.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/pdf/EssaimageAssociates-Interns&amp;Grads-Recruitment-v2.pdf" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files/pdf/Benefits of Working with Academia Feb'18.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/activities/business-research.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/activities/consultancy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/activities/interns.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/activities/mission.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/activities/presenter.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/activities/radio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/activities/radio_studio_enterprise.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/activities/recruitment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/activities/teaching_materials.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/activities/training.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/clientLogos/Radio/MagicEcho.png" afterPath="$PROJECT_DIR$/images/clientLogos/Radio/MagicEcho.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ContactSession.php" afterPath="$PROJECT_DIR$/ContactSession.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InternsNGradsSession.php" afterPath="$PROJECT_DIR$/InternsNGradsSession.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RadioSession.php" afterPath="$PROJECT_DIR$/RadioSession.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniversitiesSession.php" afterPath="$PROJECT_DIR$/UniversitiesSession.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reusableTemplates/footer.php" afterPath="$PROJECT_DIR$/reusableTemplates/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/InternsNGrads.php" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/InternsNGrads.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Opening.php" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Opening.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Radio.php" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Radio.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Universities.php" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Universities.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/TestimonialSession.php" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/TestimonialSession.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/radioTestimonial.php" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/radioTestimonial.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/uniTestimonial.php" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/uniTestimonial.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -141,9 +120,6 @@
         <option value="$PROJECT_DIR$/singleInfoPages/Presentation.php" />
         <option value="$PROJECT_DIR$/singleInfoPages/Teaching.php" />
         <option value="$PROJECT_DIR$/singleInfoPages/AccountManagementAndEvents.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/InternsNGradsSession.php" />
-        <option value="$PROJECT_DIR$/RadioSession.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/INGGallery.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/UniversityGallery.php" />
         <option value="$PROJECT_DIR$/secureImage/secureImage/images/contact.php" />
@@ -167,15 +143,18 @@
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/radioTestimonial.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/TestimonialSession.php" />
-        <option value="$PROJECT_DIR$/UniversitiesSession.php" />
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/footer.php" />
-        <option value="$PROJECT_DIR$/ContactSession.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/InternsNGrads.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Opening.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Radio.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Universities.php" />
+        <option value="$PROJECT_DIR$/ContactSession.php" />
+        <option value="$PROJECT_DIR$/InternsNGradsSession.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/UniversitiesSession.php" />
+        <option value="$PROJECT_DIR$/RadioSession.php" />
       </list>
     </option>
   </component>
@@ -252,88 +231,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="indexSubSessions" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clientLogos" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="files" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="radioAudio" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="files" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pdf" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -478,17 +375,17 @@
       <workItem from="1529870624017" duration="6003000" />
       <workItem from="1530897301147" duration="11597000" />
       <workItem from="1530962044856" duration="2432000" />
-      <workItem from="1531394700090" duration="3676000" />
+      <workItem from="1531394700090" duration="4988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219919000" />
+    <option name="totallyTimeSpent" value="221231000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="1" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19466881" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19466881" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -658,14 +555,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/head.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
@@ -683,31 +572,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RadioSession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="957">
-          <caret line="33" column="65" lean-forward="false" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InternsNGradsSession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="33" column="69" lean-forward="false" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/radio.php" />
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/RobertPics/RadioPics/Voice of Peace Team Graham Day Geoff Fitch Steve Growcot Doig Wood &amp; Guy Bradley with RO August 1982 Israel.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -725,14 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
           <caret line="80" column="12" lean-forward="false" selection-start-line="73" selection-start-column="8" selection-end-line="80" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="150" column="16" lean-forward="false" selection-start-line="150" selection-start-column="16" selection-end-line="150" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -830,22 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UniversitiesSession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="33" column="63" lean-forward="false" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ContactSession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="41" column="115" lean-forward="false" selection-start-line="41" selection-start-column="115" selection-end-line="41" selection-end-column="115" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -874,25 +715,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/InternsNGrads.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/clientLogos/Radio/MagicEcho.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/Universities.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/Radio.php">
@@ -907,6 +732,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4350">
+          <caret line="150" column="16" lean-forward="false" selection-start-line="150" selection-start-column="16" selection-end-line="150" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/InternsNGrads.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/Universities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="36" column="60" lean-forward="true" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContactSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="73" lean-forward="true" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InternsNGradsSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="14" column="147" lean-forward="false" selection-start-line="14" selection-start-column="147" selection-end-line="14" selection-end-column="147" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="14" column="147" lean-forward="false" selection-start-line="14" selection-start-column="147" selection-end-line="14" selection-end-column="147" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UniversitiesSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="14" column="147" lean-forward="false" selection-start-line="14" selection-start-column="147" selection-end-line="14" selection-end-column="147" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RadioSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
           <folding />
         </state>
       </provider>
