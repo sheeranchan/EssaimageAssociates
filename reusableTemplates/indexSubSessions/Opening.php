@@ -183,6 +183,85 @@
                                 <table class="table table-bordered table-hover">
                                         <thead>
                                             <tr>
+                                                <th colspan="3" class="text-primary text-uppercase border-light">Recruitment</th>
+                                            </tr>
+                                            <tr>
+                                                <th>Logo</th>
+                                                <th>Company</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                           <tr>
+                                                <td>
+                                                    <a href="http://www.digilent.com">
+                                                        <img  src="../../images/clientLogos/Technology/digilent-logo2015-color-3000.png" alt="Digilent company logo">
+                                                    </a>
+                                                </td>
+                                                <td>Digilent, Inc.: Consultantcy for academia, partnerships & business strategy</td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <a href="http://www.caterva.de">
+                                                        <img  src="../../images/clientLogos/Technology/caterva.png" alt="caterva company logo">
+                                                    </a>
+                                                </td>
+                                                <td>Caterva GmbH, Munich, Germany:student recruitment</td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <a href="https://www.rs-online.com/designspark/rs-university">
+                                                        <img  src="../../images/clientLogos/Technology/RS_Components_Logo.png" alt="RS components company logo">
+                                                    </a>
+                                                </td>
+                                                <td>RS Components, UK: programme building, recruitment & university marketing</td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <a href="http://www.conrad.com">
+                                                        <img  src="../../images/clientLogos/Technology/Conrad-Electronic-Logo.png" alt="Conrad company logo">
+                                                    </a>
+                                                </td>
+                                                <td>Conrad Electronic International GmbH, Germany: market research & student recruitment</td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <a href="http://www.imgtec.com">
+                                                        <img  src="../../images/clientLogos/Technology/Imagination_Logo_Primary_RGB.png" alt="ImgTech company logo">
+                                                    </a>
+                                                </td>
+                                                <td>Imagination Technologies Limited, UK: academic strategy, programme building, recruitment & global university marketing</td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <a href="http://www.enocean.com">
+                                                        <img  src="../../images/clientLogos/Technology/enocean_alliance_ing_logo_rgb.png" alt="Enocean company logo">
+                                                    </a>
+                                                </td>
+                                                <td>EnOcean GmbH, Munich, Germany: university marketing & student recruitment</td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <a href="http://www.dialog-semiconductor.com">
+                                                        <img  src="../../images/clientLogos/Technology/dialog-semiconductor-plc.jpg" alt="dialog-semiconductor company logo">
+                                                    </a>
+                                                </td>
+                                                <td>Dialog Semiconductor plc: university relations, strategies for recruitment & research</td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <a href="https://university.ti.com/en#">
+                                                        <img  src="../../images/clientLogos/Technology/TexasInstruments-Logo.png" alt="TI company logo">
+                                                    </a>
+                                                </td>
+                                                <td>Texas Instruments France: Embedded Processing – university marketing, recruitment & research</td>
+                                            </tr>
+                                        </tbody>
+                                </table>
+                            </div><!-- end of Recruitment client list -->
+                            <div class="table-responsive text-black text-left">
+                                <table class="table table-bordered table-hover">
+                                        <thead>
+                                            <tr>
                                                 <th colspan="3" class="text-primary text-uppercase border-light">Manufacturing</th>
                                             </tr>
                                             <tr>
@@ -241,7 +320,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://www.NLiveRadio.com">
-                                                        <img class="radio-logo-size" src="../../images/clientLogos/Radio/Nlive.jpg" alt="NLive Radio logo">
+                                                        <img class="radio-logo-size" src="../../images/clientLogos/Radio/NLive-radio.jpg" alt="NLive Radio logo">
                                                     </a>
                                                 </td>
                                                 <td>NLive Radio, Northampton, UK: winning the licence, guiding start-up & programming. Presentation & Advisory Board member.</td>
@@ -249,7 +328,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://en.wikipedia.org/wiki/Mix_107">
-                                                        <img class="radio-logo-size" src="../../images/clientLogos/Radio/elevenSEVENTY.jpeg" alt="elevenSEVENTY logo">
+                                                        <img class="radio-logo-size" src="../../images/clientLogos/Radio/Mix107_logo.png" alt="elevenSEVENTY logo">
                                                     </a>
                                                 </td>
                                                 <td>elevenSEVENTY, UK: presentation</td>

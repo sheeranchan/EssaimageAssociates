@@ -151,5 +151,8 @@
             <span class="sr-only">Next</span>
         </a>
     </div>
+    <div class="text-center">
+        <a href="../../files/pdf/EssaimageAssociates-Interns&Grads-Recruitment-v2.pdf" download><img src="../../images/icons/pdf-icon.png"> <span class="text-white"> EssaimageAssociates-InternsGrads-Recruitment</span></a>
+    </div>
 </span>
 <!-- // end .section -->

@@ -66,8 +66,5 @@
             </div>
         </div>
     </div>
-    <div class="text-center">
-        <a href="../../files/pdf/Benefits%20of%20working%20with%20academia%20-%20February%202018.pdf" download><img src="../../images/icons/pdf-icon.png"> <span class="text-white"> Benefits of working with academia</span></a>
-    </div>
     <br>
 </header>

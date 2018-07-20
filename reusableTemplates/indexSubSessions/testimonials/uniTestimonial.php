@@ -266,6 +266,9 @@
             <a class="twitter-timeline" href="https://twitter.com/UniPgm" data-theme="dark" data-width="300" data-height="300" data-chrome="nofooter transparent noscrollbar">Tweets by @JBDI</a>
         </div>
     </div>
+    <div class="text-center">
+        <a href="../../files/pdf/Benefits%20of%20working%20with%20academia%20-%20February%202018.pdf" download><img src="../../images/icons/pdf-icon.png"> <span class="text-white"> Benefits of working with academia</span></a>
+    </div>
 </span>
 
 <!-- // end .section -->

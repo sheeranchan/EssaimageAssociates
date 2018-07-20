@@ -91,8 +91,5 @@
         </div>
     </div>
     <br>
-    <div class="text-center">
-        <a href="../../files/pdf/EssaimageAssociates-Interns&Grads-Recruitment-v2.pdf" download><img src="../../images/icons/pdf-icon.png"> <span class="text-white"> EssaimageAssociates-InternsGrads-Recruitment</span></a>
-    </div>
     <br>
 </header>
