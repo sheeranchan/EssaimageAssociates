@@ -1,7 +1,7 @@
 <span class="col-lg-4 float-left">
     <div class="carousel slide" data-ride="carousel" id="quote-carousel" data-interval="20000">
-        <!-- Bottom Carousel Indicators -->
-<!--        <ol class="carousel-indicators padding-top-10" id="tInd1">-->
+<!--         Bottom Carousel Indicators -->
+<!--        <ol class="carousel-indicators padding-top-10" id="tInd1" style="display: none;">-->
 <!--            <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>-->
 <!--            <li data-target="#quote-carousel" data-slide-to="1"></li>-->
 <!--            <li data-target="#quote-carousel" data-slide-to="2"></li>-->
@@ -11,6 +11,14 @@
 <!--            <li data-target="#quote-carousel" data-slide-to="6"></li>-->
 <!--        </ol>-->
 
+            <a class="carousel-control-prev" data-target="#quote-carousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" data-target="#quote-carousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         <!-- Carousel Slides / Quotes -->
         <div class="carousel-inner">
             <!-- Quote 1 -->
@@ -21,7 +29,7 @@
                             
                                 <strong class="smaller-font">"Robert - I really appreciate your passion and results you are driving in Europe - thank you"</strong>
                             <br>
-                            <small>Brian Crutcher, Chief Executive Officer, Texas Instruments, Dallas, USA, Dec’09</small>
+                            <small>Brian Crutcher, <br>Chief Executive Officer, <br>Texas Instruments, Dallas, USA,<br> Dec’09</small>
                         </div>
                     </div>
                 </blockquote>
@@ -34,7 +42,7 @@
                             
                                 <strong class="smaller-font">"A leader for me is a person who inspires, has a focus, and understands different values and helps people grow together, which is the absolute definition of you"</strong>
                             <br>
-                            <small>Ivan Bannov TI Business and Marketing Assistant, Munich, Germany, 2011</small>
+                            <small>Ivan Bannov, TI Business and Marketing Assistant,<br> Munich, Germany, 2011</small>
                         </div>
                     </div>
                 </blockquote>
@@ -57,10 +65,9 @@
                 <blockquote>
                     <div class="row">
                         <div class="col-sm-12 text-center">
-                            
-                                <strong class="smaller-font">"For me, University Program=Robert Owen"</strong>
+                                <strong class="smaller-font">"For me, University Program<br>=<br>Robert Owen"</strong>
                             <br>
-                            <small>Dr. Marcelino Martinez Sober, University of Valencia, Spain, 2011</small>
+                            <small>Dr. Marcelino Martinez Sober, <br>University of Valencia, Spain,<br> 2011</small>
                         </div>
                     </div>
                 </blockquote>
@@ -86,7 +93,7 @@
                             
                                 <strong class="smaller-font">"Thank you ever so much for the great interview and to have us at your studio. I confess that I was very impressed with your talent and professionalism. Well done!"</strong>
                             <br>
-                            <small>Salomao Hamzem, Musician. January 2018</small>
+                            <small>Salomao Hamzem,<br> Musician. January 2018</small>
                         </div>
                     </div>
                 </blockquote>
@@ -97,21 +104,13 @@
                     <div class="row">
                         <div class="col-sm-12 text-center">
                             
-                                <strong class="smaller-font">"You are a ray of sunshine on the musical airwaves"</strong>
+                                <strong class="smaller-font">"You are a ray of sunshine<br> on the musical airwaves"</strong>
                             <br>
-                            <small>Malcom Cross, Stevenage, UK. Aug’01</small>
+                            <small>Malcom Cross,<br> Stevenage, UK.<br> Aug’01</small>
                         </div>
                     </div>
                 </blockquote>
             </div>
-            <a class="carousel-control-prev" data-target="#quote-carousel" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" data-target="#quote-carousel" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
         </div>
     </div>
 </span>

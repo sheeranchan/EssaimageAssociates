@@ -2,13 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa178f0b-d2e8-45bc-b0ee-936774764ce8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ContactSession.php" afterPath="$PROJECT_DIR$/ContactSession.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InternsNGradsSession.php" afterPath="$PROJECT_DIR$/InternsNGradsSession.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RadioSession.php" afterPath="$PROJECT_DIR$/RadioSession.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniversitiesSession.php" afterPath="$PROJECT_DIR$/UniversitiesSession.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Universities.php" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Universities.php" />
+      <change afterPath="$PROJECT_DIR$/images/RobertPics/UniPics/Dr Sarah Harris and Prof Chu at a MIPSfpga Workshop during ASEE Annual Conference 2018, Salt Lake City, USA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/RobertPics/UniPics/Sarah Harris presenting a workshop at ISCA 2018 - Los Angeles, USA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clientLogos/Technology/Imagination_Logo_Primary_RGB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clientLogos/Technology/MIPS_master_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clientLogos/Technology/RS_Components_Logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContactSession.php" beforeDir="false" afterPath="$PROJECT_DIR$/ContactSession.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/pdf/Robert Owen CV May 2012.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/RobertPics/UniPics/Digilent WS Tsinghua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/RobertPics/UniPics/RO with CEO Hossein Yassaie Elektra Awards 2015.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/RobertPics/UniPics/RO with CEO Hossein Yassaie Elektra Awards 2015.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/RobertPics/UniPics/Ro with Henry &amp; his Robot at MOOCxing Shanghai, October 2017.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clientLogos/Manufacturing/gruma.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/clientLogos/Manufacturing/gruma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clientLogos/Radio/hertbeat_logo(fromMac).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/clientLogos/Radio/hertbeat_logo(fromMac).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clientLogos/Technology/Conrad-Electronic-Logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/clientLogos/Technology/Conrad-Electronic-Logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clientLogos/Technology/MIPS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clientLogos/Technology/TexasInstruments-Logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/clientLogos/Technology/TexasInstruments-Logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clientLogos/Technology/arm.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/clientLogos/Technology/arm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clientLogos/Technology/caterva.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/clientLogos/Technology/caterva.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clientLogos/Technology/dialog-semiconductor-plc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/clientLogos/Technology/dialog-semiconductor-plc.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clientLogos/Technology/digilent-logo2015-color-3000.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/clientLogos/Technology/digilent-logo2015-color-3000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clientLogos/Technology/enocean_alliance_ing_logo_rgb.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/clientLogos/Technology/enocean_alliance_ing_logo_rgb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clientLogos/Technology/imgTech.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clientLogos/Technology/rs_components_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clientLogos/Technology/xlnx-logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/clientLogos/Technology/xlnx-logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reusableTemplates/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/InternsNGrads.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/InternsNGrads.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Opening.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Opening.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Radio.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Radio.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/GeneralGallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/GeneralGallery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/RadioGallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/RadioGallery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/UniversityGallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/UniversityGallery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/TestimonialSession.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/TestimonialSession.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/radioTestimonial.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/radioTestimonial.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/uniTestimonial.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/uniTestimonial.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,53 +50,92 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Essaimage_Associates_limited" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="radioTestimonial.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/radioTestimonial.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="67" column="48" lean-forward="true" selection-start-line="67" selection-start-column="48" selection-end-line="67" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniversityGallery.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/UniversityGallery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-614">
+              <caret line="891" column="19" selection-start-line="891" selection-start-column="19" selection-end-line="891" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="459" column="27" lean-forward="true" selection-start-line="459" selection-start-column="27" selection-end-line="459" selection-end-column="27" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ch</find>
-      <find>Wav</find>
-      <find>WavFile</find>
-      <find>readCodeFromFile</find>
-      <find>captcha_code</find>
-      <find>code_entered</find>
-      <find>__con</find>
-      <find>words</find>
-      <find>$wordlist_file</find>
-      <find>cf</find>
-      <find>&lt;span class=&quot;ti-quote-left&quot;&gt;&lt;/span&gt;</find>
-      <find>I realise</find>
-      <find>carousel-item</find>
-      <find>carousel-inner</find>
-      <find>transition</find>
-      <find>carousel</find>
-      <find>bigger-font</find>
       <find>&quot;smaller-font&quot;&gt;</find>
       <find>&lt;span class=&quot;ti-quote-right&quot;&gt;&lt;/span&gt;</find>
       <find>&lt;/strong&gt;</find>
       <find>tw</find>
       <find>twee</find>
       <find>twitter</find>
-      <find>@media</find>
       <find>Voice</find>
       <find>&lt;/li&gt;&lt;br&gt;</find>
       <find>font-size</find>
       <find>margin-left</find>
       <find>margin-top</find>
       <find>margin-top-</find>
+      <find>.small</find>
+      <find>@media</find>
+      <find>blockquote</find>
+      <find>wave</find>
+      <find>walk</find>
+      <find>&lt;/a&gt;</find>
+      <find>wes</find>
+      <find>class=&quot;client-logo-size&quot;</find>
+      <find>Russia</find>
+      <find>amano</find>
+      <find>Prof. Kupriyanov</find>
+      <find>Rice</find>
+      <find>BUPT</find>
+      <find>Zhejiang</find>
+      <find>Israel</find>
+      <find>team</find>
+      <find>Tsinghua</find>
+      <find>rd2</find>
     </findStrings>
     <replaceStrings>
       <replace>Uni27</replace>
@@ -104,7 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/ContactSession.php" />
         <option value="$PROJECT_DIR$/Marketing.php" />
         <option value="$PROJECT_DIR$/Presentation.php" />
         <option value="$PROJECT_DIR$/RecruitmentAndResearch.php" />
@@ -121,7 +192,6 @@
         <option value="$PROJECT_DIR$/singleInfoPages/Teaching.php" />
         <option value="$PROJECT_DIR$/singleInfoPages/AccountManagementAndEvents.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/INGGallery.php" />
-        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/UniversityGallery.php" />
         <option value="$PROJECT_DIR$/secureImage/secureImage/images/contact.php" />
         <option value="$PROJECT_DIR$/secureImage/contact.php" />
         <option value="$PROJECT_DIR$/secureImage/secureImage/secureImage_show.php" />
@@ -134,27 +204,29 @@
         <option value="$PROJECT_DIR$/securimage/securimage.php" />
         <option value="$PROJECT_DIR$/thankyou.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/head.php" />
-        <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/js/bootstrap.bundle.min.js" />
-        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/GeneralGallery.php" />
-        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/RadioGallery.php" />
-        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/uniTestimonial.php" />
-        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php" />
-        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/radioTestimonial.php" />
-        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/TestimonialSession.php" />
-        <option value="$PROJECT_DIR$/contact.php" />
-        <option value="$PROJECT_DIR$/reusableTemplates/footer.php" />
-        <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/InternsNGrads.php" />
-        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Opening.php" />
-        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Radio.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Universities.php" />
-        <option value="$PROJECT_DIR$/ContactSession.php" />
         <option value="$PROJECT_DIR$/InternsNGradsSession.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/UniversitiesSession.php" />
         <option value="$PROJECT_DIR$/RadioSession.php" />
+        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/InternsNGrads.php" />
+        <option value="$PROJECT_DIR$/temp.html" />
+        <option value="$PROJECT_DIR$/reusableTemplates/footer.php" />
+        <option value="$PROJECT_DIR$/ContactSession.php" />
+        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Opening.php" />
+        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Radio.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/TestimonialSession.php" />
+        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/uniTestimonial.php" />
+        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php" />
+        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/radioTestimonial.php" />
+        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/GeneralGallery.php" />
+        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/UniversityGallery.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/RadioGallery.php" />
+        <option value="$PROJECT_DIR$/js/script.js" />
       </list>
     </option>
   </component>
@@ -164,104 +236,113 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="width" value="606" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reusableTemplates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Essaimage_Associates_limited" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reusableTemplates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="indexSubSessions" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="Essaimage_Associates_limited" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Essaimage_Associates_limited" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Essaimage_Associates_limited" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Essaimage_Associates_limited" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Essaimage_Associates_limited" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Essaimage_Associates_limited" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Essaimage_Associates_limited" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Essaimage_Associates_limited" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="RobertPics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Essaimage_Associates_limited" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Essaimage_Associates_limited" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="RobertPics" type="462c0819:PsiDirectoryNode" />
+              <item name="UniPics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Essaimage_Associates_limited" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Essaimage_Associates_limited" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Essaimage_Associates_limited" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Essaimage_Associates_limited" type="462c0819:PsiDirectoryNode" />
+              <item name="reusableTemplates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Essaimage_Associates_limited" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Essaimage_Associates_limited" type="462c0819:PsiDirectoryNode" />
+              <item name="reusableTemplates" type="462c0819:PsiDirectoryNode" />
+              <item name="indexSubSessions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Essaimage_Associates_limited" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Essaimage_Associates_limited" type="462c0819:PsiDirectoryNode" />
+              <item name="reusableTemplates" type="462c0819:PsiDirectoryNode" />
+              <item name="indexSubSessions" type="462c0819:PsiDirectoryNode" />
+              <item name="galleries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Essaimage_Associates_limited" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Essaimage_Associates_limited" type="462c0819:PsiDirectoryNode" />
+              <item name="reusableTemplates" type="462c0819:PsiDirectoryNode" />
+              <item name="indexSubSessions" type="462c0819:PsiDirectoryNode" />
+              <item name="testimonials" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
-    <property name="js.eslint.eslintPackage" value="" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="/apple-touch-icon.png &#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/clientLogos/Radio" />
-      <recent name="$PROJECT_DIR$/files/pdf" />
-      <recent name="$PROJECT_DIR$/images/RobertPics/RadioPics" />
-      <recent name="$PROJECT_DIR$/securimage" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/securimage" />
       <recent name="$PROJECT_DIR$/secureImage/secureImage/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/RobertPics/UniPics" />
+      <recent name="$PROJECT_DIR$/images/clientLogos/Radio" />
+      <recent name="$PROJECT_DIR$/images/clientLogos/Manufacturing" />
+      <recent name="$PROJECT_DIR$/images/clientLogos/Technology" />
+      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -277,44 +358,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
-      <PhpTestRunnerSettings />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
-      <BehatRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
-      <PhpTestRunnerSettings />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -322,31 +365,7 @@
       <tasks />
       <arguments />
       <envs />
-      <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -375,56 +394,60 @@
       <workItem from="1529870624017" duration="6003000" />
       <workItem from="1530897301147" duration="11597000" />
       <workItem from="1530962044856" duration="2432000" />
-      <workItem from="1531394700090" duration="4988000" />
+      <workItem from="1531394700090" duration="5160000" />
+      <workItem from="1532041882903" duration="12611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221231000" />
+    <option name="totallyTimeSpent" value="234014000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="1" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19466881" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6691958" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19466881" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32776934" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29071537" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32956383" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776934" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39908952" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15105008" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15105008" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32776934" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.39908952" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32956383" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -433,370 +456,299 @@
     <breakpoint-manager>
       <option name="time" value="1" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WavFile.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34849">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#92#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/securimage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7308">
-          <caret line="254" column="1" lean-forward="false" selection-start-line="254" selection-start-column="1" selection-end-line="254" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/words/words.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="15456" column="6" lean-forward="false" selection-start-line="15456" selection-start-column="6" selection-end-line="15456" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class.phpmailer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-397">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inc_banned_ips.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="957">
-          <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/basic.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="92" column="9" lean-forward="false" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/securimage/securimage_show.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="51" column="24" lean-forward="true" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/securimage/securimage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11948">
-          <caret line="579" column="0" lean-forward="true" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
-          <folding>
-            <element signature="e#102#2235#0#PHP" expanded="false" />
-            <element signature="e#2237#7914#0#PHP" expanded="false" />
-            <marker date="1529861801983" expanded="true" signature="40531:40540" ph="..." />
-            <marker date="1529861801983" expanded="true" signature="40877:40888" ph="..." />
-            <marker date="1529861801983" expanded="true" signature="72952:73102" ph="INSERT INTO $... " />
-            <marker date="1529861801983" expanded="true" signature="78227:78249" ph="SELECT COUNT... ${$table}" />
-            <marker date="1529861801983" expanded="true" signature="78464:78524" ph="SELECT * FRO... columns" />
-            <marker date="1529861801983" expanded="true" signature="79801:80230" ph="CREATE TABLE... ${{$this-&gt;database_table}}" />
-            <marker date="1529861801983" expanded="true" signature="80422:80912" ph="CREATE TABLE... ${{$this-&gt;database_table}}" />
-            <marker date="1529861801983" expanded="true" signature="81009:81513" ph="CREATE TABLE... $" />
-            <marker date="1529861801983" expanded="true" signature="82654:82704" ph="SELECT * FRO... $" />
-            <marker date="1529861801983" expanded="true" signature="83040:83108" ph="SELECT * FRO... $" />
-            <marker date="1529861801983" expanded="true" signature="84457:84504" ph="DELETE FROM " />
-            <marker date="1529861801983" expanded="true" signature="85122:85160" ph="DELETE FROM " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/contact.php" />
-    <entry file="file://$PROJECT_DIR$/thankyou.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/playicon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/owl.carousel.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="93" column="28" lean-forward="false" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.easing.1.3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bootstrap.bundle.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="5" column="20178" lean-forward="false" selection-start-line="5" selection-start-column="20178" selection-end-line="5" selection-end-column="20178" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js" />
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="110" column="16" lean-forward="false" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/UniversityGallery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2009">
-          <caret line="201" column="139" lean-forward="false" selection-start-line="201" selection-start-column="139" selection-end-line="201" selection-end-column="139" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/radio.php" />
-    <entry file="file://$PROJECT_DIR$/images/RobertPics/RadioPics/Voice of Peace Team Graham Day Geoff Fitch Steve Growcot Doig Wood &amp; Guy Bradley with RO August 1982 Israel.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/RadioGallery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="184" column="226" lean-forward="false" selection-start-line="184" selection-start-column="226" selection-end-line="184" selection-end-column="226" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/GeneralGallery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="80" column="12" lean-forward="false" selection-start-line="73" selection-start-column="8" selection-end-line="80" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/radioTestimonial.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5307">
-          <caret line="183" column="16" lean-forward="false" selection-start-line="183" selection-start-column="16" selection-end-line="183" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/TestimonialSession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="113" column="16" lean-forward="false" selection-start-line="113" selection-start-column="16" selection-end-line="113" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/Bee Icon RGB logo.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/Bee Icon RGB logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/client-logos.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/companyLogo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/consultancy.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/favicon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/location_AAL.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/uniTestimonial.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="252" column="27" lean-forward="false" selection-start-line="252" selection-start-column="27" selection-end-line="252" selection-end-column="27" />
-          <folding>
-            <marker date="1531395054067" expanded="true" signature="13707:13867" ph="..." />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/icons/linkedin.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/icons/maps.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/icons/pdf-icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clientLogos/Radio/MagicEcho.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/sectional.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="164" column="16" selection-start-line="164" selection-start-column="16" selection-end-line="164" selection-end-column="16" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="5" column="125417" lean-forward="false" selection-start-line="5" selection-start-column="125417" selection-end-line="5" selection-end-column="125417" />
+        <state relative-caret-position="356">
+          <caret line="5" column="6167" selection-start-line="5" selection-start-column="6167" selection-end-line="5" selection-end-column="6167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1007">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#51727#51927#2" expanded="true" />
-            <element signature="e#52049#52198#2" expanded="true" />
-            <element signature="e#52344#52490#2" expanded="true" />
-            <element signature="e#52915#53078#1" expanded="true" />
-            <element signature="e#62330#62573#2" expanded="true" />
-            <element signature="e#63440#63689#2" expanded="true" />
-            <element signature="e#89389#89579#2" expanded="true" />
-            <element signature="e#89625#89815#2" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="e#2124#2149#0" expanded="true" />
+            <element signature="e#2207#2232#0" expanded="true" />
+            <element signature="e#2312#2318#0" expanded="true" />
+            <element signature="e#2318#2324#0" expanded="true" />
+            <element signature="e#2324#2330#0" expanded="true" />
+            <element signature="e#2362#2368#0" expanded="true" />
+            <element signature="e#2368#2374#0" expanded="true" />
+            <element signature="e#2374#2380#0" expanded="true" />
+            <element signature="e#2417#2423#0" expanded="true" />
+            <element signature="e#2423#2429#0" expanded="true" />
+            <element signature="e#2429#2435#0" expanded="true" />
+            <element signature="e#2468#2474#0" expanded="true" />
+            <element signature="e#2474#2480#0" expanded="true" />
+            <element signature="e#2480#2486#0" expanded="true" />
+            <element signature="e#2523#2529#0" expanded="true" />
+            <element signature="e#2529#2535#0" expanded="true" />
+            <element signature="e#2535#2541#0" expanded="true" />
+            <element signature="e#2574#2580#0" expanded="true" />
+            <element signature="e#2580#2586#0" expanded="true" />
+            <element signature="e#2586#2592#0" expanded="true" />
+            <element signature="e#2626#2632#0" expanded="true" />
+            <element signature="e#2632#2638#0" expanded="true" />
+            <element signature="e#2638#2644#0" expanded="true" />
+            <element signature="e#2677#2683#0" expanded="true" />
+            <element signature="e#2683#2689#0" expanded="true" />
+            <element signature="e#2689#2695#0" expanded="true" />
+            <element signature="e#2753#2759#0" expanded="true" />
+            <element signature="e#2759#2765#0" expanded="true" />
+            <element signature="e#2765#2771#0" expanded="true" />
+            <element signature="e#2802#2808#0" expanded="true" />
+            <element signature="e#2808#2814#0" expanded="true" />
+            <element signature="e#2814#2820#0" expanded="true" />
+            <element signature="e#2853#2859#0" expanded="true" />
+            <element signature="e#2859#2865#0" expanded="true" />
+            <element signature="e#2865#2871#0" expanded="true" />
+            <element signature="e#2904#2910#0" expanded="true" />
+            <element signature="e#2910#2916#0" expanded="true" />
+            <element signature="e#2916#2922#0" expanded="true" />
+            <element signature="e#2961#2967#0" expanded="true" />
+            <element signature="e#2967#2973#0" expanded="true" />
+            <element signature="e#2973#2979#0" expanded="true" />
+            <element signature="e#3010#3016#0" expanded="true" />
+            <element signature="e#3016#3022#0" expanded="true" />
+            <element signature="e#3022#3028#0" expanded="true" />
+            <element signature="e#3062#3068#0" expanded="true" />
+            <element signature="e#3068#3074#0" expanded="true" />
+            <element signature="e#3074#3080#0" expanded="true" />
+            <element signature="e#3122#3147#0" expanded="true" />
+            <element signature="e#3230#3236#0" expanded="true" />
+            <element signature="e#3236#3242#0" expanded="true" />
+            <element signature="e#3242#3248#0" expanded="true" />
+            <element signature="e#3280#3286#0" expanded="true" />
+            <element signature="e#3286#3292#0" expanded="true" />
+            <element signature="e#3292#3298#0" expanded="true" />
+            <element signature="e#3335#3341#0" expanded="true" />
+            <element signature="e#3341#3347#0" expanded="true" />
+            <element signature="e#3347#3353#0" expanded="true" />
+            <element signature="e#3386#3392#0" expanded="true" />
+            <element signature="e#3392#3398#0" expanded="true" />
+            <element signature="e#3398#3404#0" expanded="true" />
+            <element signature="e#3437#3443#0" expanded="true" />
+            <element signature="e#3443#3449#0" expanded="true" />
+            <element signature="e#3449#3455#0" expanded="true" />
+            <element signature="e#3490#3496#0" expanded="true" />
+            <element signature="e#3496#3502#0" expanded="true" />
+            <element signature="e#3502#3508#0" expanded="true" />
+            <element signature="e#3539#3545#0" expanded="true" />
+            <element signature="e#3545#3551#0" expanded="true" />
+            <element signature="e#3551#3557#0" expanded="true" />
+            <element signature="e#3591#3597#0" expanded="true" />
+            <element signature="e#3597#3603#0" expanded="true" />
+            <element signature="e#3603#3609#0" expanded="true" />
+            <element signature="e#3640#3646#0" expanded="true" />
+            <element signature="e#3646#3652#0" expanded="true" />
+            <element signature="e#3652#3658#0" expanded="true" />
+            <element signature="e#3710#3716#0" expanded="true" />
+            <element signature="e#3716#3722#0" expanded="true" />
+            <element signature="e#3722#3728#0" expanded="true" />
+            <element signature="e#3759#3765#0" expanded="true" />
+            <element signature="e#3765#3771#0" expanded="true" />
+            <element signature="e#3771#3777#0" expanded="true" />
+            <element signature="e#3810#3816#0" expanded="true" />
+            <element signature="e#3816#3822#0" expanded="true" />
+            <element signature="e#3822#3828#0" expanded="true" />
+            <element signature="e#3867#3873#0" expanded="true" />
+            <element signature="e#3873#3879#0" expanded="true" />
+            <element signature="e#3879#3885#0" expanded="true" />
+            <element signature="e#3918#3924#0" expanded="true" />
+            <element signature="e#3924#3930#0" expanded="true" />
+            <element signature="e#3930#3936#0" expanded="true" />
+            <element signature="e#3968#3974#0" expanded="true" />
+            <element signature="e#3974#3980#0" expanded="true" />
+            <element signature="e#3980#3986#0" expanded="true" />
+            <element signature="e#4028#4053#0" expanded="true" />
+            <element signature="e#4138#4144#0" expanded="true" />
+            <element signature="e#4144#4150#0" expanded="true" />
+            <element signature="e#4150#4156#0" expanded="true" />
+            <element signature="e#4188#4194#0" expanded="true" />
+            <element signature="e#4194#4200#0" expanded="true" />
+            <element signature="e#4200#4206#0" expanded="true" />
+            <element signature="e#4243#4249#0" expanded="true" />
+            <element signature="e#4249#4255#0" expanded="true" />
+            <element signature="e#4255#4261#0" expanded="true" />
+            <element signature="e#4298#4304#0" expanded="true" />
+            <element signature="e#4304#4310#0" expanded="true" />
+            <element signature="e#4310#4316#0" expanded="true" />
+            <element signature="e#4349#4355#0" expanded="true" />
+            <element signature="e#4355#4361#0" expanded="true" />
+            <element signature="e#4361#4367#0" expanded="true" />
+            <element signature="e#4400#4406#0" expanded="true" />
+            <element signature="e#4406#4412#0" expanded="true" />
+            <element signature="e#4412#4418#0" expanded="true" />
+            <element signature="e#4470#4476#0" expanded="true" />
+            <element signature="e#4476#4482#0" expanded="true" />
+            <element signature="e#4482#4488#0" expanded="true" />
+            <element signature="e#4519#4525#0" expanded="true" />
+            <element signature="e#4525#4531#0" expanded="true" />
+            <element signature="e#4531#4537#0" expanded="true" />
+            <element signature="e#4570#4576#0" expanded="true" />
+            <element signature="e#4576#4582#0" expanded="true" />
+            <element signature="e#4582#4588#0" expanded="true" />
+            <element signature="e#4621#4627#0" expanded="true" />
+            <element signature="e#4627#4633#0" expanded="true" />
+            <element signature="e#4633#4639#0" expanded="true" />
+            <element signature="e#4678#4684#0" expanded="true" />
+            <element signature="e#4684#4690#0" expanded="true" />
+            <element signature="e#4690#4696#0" expanded="true" />
+            <element signature="e#4729#4735#0" expanded="true" />
+            <element signature="e#4735#4741#0" expanded="true" />
+            <element signature="e#4741#4747#0" expanded="true" />
+            <element signature="e#4778#4784#0" expanded="true" />
+            <element signature="e#4784#4790#0" expanded="true" />
+            <element signature="e#4790#4796#0" expanded="true" />
+            <element signature="e#4830#4836#0" expanded="true" />
+            <element signature="e#4836#4842#0" expanded="true" />
+            <element signature="e#4842#4848#0" expanded="true" />
+            <element signature="e#4890#4915#0" expanded="true" />
+            <element signature="e#5001#5007#0" expanded="true" />
+            <element signature="e#5007#5013#0" expanded="true" />
+            <element signature="e#5013#5019#0" expanded="true" />
+            <element signature="e#5051#5057#0" expanded="true" />
+            <element signature="e#5057#5063#0" expanded="true" />
+            <element signature="e#5063#5069#0" expanded="true" />
+            <element signature="e#5106#5112#0" expanded="true" />
+            <element signature="e#5112#5118#0" expanded="true" />
+            <element signature="e#5118#5124#0" expanded="true" />
+            <element signature="e#5163#5169#0" expanded="true" />
+            <element signature="e#5169#5175#0" expanded="true" />
+            <element signature="e#5175#5181#0" expanded="true" />
+            <element signature="e#5212#5218#0" expanded="true" />
+            <element signature="e#5218#5224#0" expanded="true" />
+            <element signature="e#5224#5230#0" expanded="true" />
+            <element signature="e#5267#5273#0" expanded="true" />
+            <element signature="e#5273#5279#0" expanded="true" />
+            <element signature="e#5279#5285#0" expanded="true" />
+            <element signature="e#5318#5324#0" expanded="true" />
+            <element signature="e#5324#5330#0" expanded="true" />
+            <element signature="e#5330#5336#0" expanded="true" />
+            <element signature="e#5369#5375#0" expanded="true" />
+            <element signature="e#5375#5381#0" expanded="true" />
+            <element signature="e#5381#5387#0" expanded="true" />
+            <element signature="e#5439#5445#0" expanded="true" />
+            <element signature="e#5445#5451#0" expanded="true" />
+            <element signature="e#5451#5457#0" expanded="true" />
+            <element signature="e#5488#5494#0" expanded="true" />
+            <element signature="e#5494#5500#0" expanded="true" />
+            <element signature="e#5500#5506#0" expanded="true" />
+            <element signature="e#5539#5545#0" expanded="true" />
+            <element signature="e#5545#5551#0" expanded="true" />
+            <element signature="e#5551#5557#0" expanded="true" />
+            <element signature="e#5590#5596#0" expanded="true" />
+            <element signature="e#5596#5602#0" expanded="true" />
+            <element signature="e#5602#5608#0" expanded="true" />
+            <element signature="e#5641#5647#0" expanded="true" />
+            <element signature="e#5647#5653#0" expanded="true" />
+            <element signature="e#5653#5659#0" expanded="true" />
+            <element signature="e#5693#5699#0" expanded="true" />
+            <element signature="e#5699#5705#0" expanded="true" />
+            <element signature="e#5705#5711#0" expanded="true" />
+            <element signature="e#5769#5794#0" expanded="true" />
+            <element signature="e#5817#5858#0" expanded="true" />
+            <element signature="e#6146#6233#0" expanded="true" />
+            <element signature="e#6248#6368#0" expanded="true" />
+            <element signature="e#6520#6539#0" expanded="true" />
+            <element signature="e#6709#6796#0" expanded="true" />
+            <element signature="e#6811#6919#0" expanded="true" />
+            <element signature="e#7051#7070#0" expanded="true" />
+            <element signature="e#7175#7200#0" expanded="true" />
+            <element signature="e#7223#7264#0" expanded="true" />
+            <element signature="e#7295#7353#0" expanded="true" />
+            <element signature="e#7373#7396#0" expanded="true" />
+            <element signature="e#7525#7550#0" expanded="true" />
+            <element signature="e#7570#7615#0" expanded="true" />
+            <element signature="e#7652#7693#0" expanded="true" />
+            <element signature="e#7742#7852#0" expanded="true" />
+            <element signature="e#7896#7996#0" expanded="true" />
+            <element signature="e#8044#8116#0" expanded="true" />
+            <element signature="e#8128#8189#0" expanded="true" />
+            <element signature="e#8220#8330#0" expanded="true" />
+            <element signature="e#8342#8441#0" expanded="true" />
+            <element signature="e#8472#8544#0" expanded="true" />
+            <element signature="e#8556#8617#0" expanded="true" />
+            <element signature="e#8649#8758#0" expanded="true" />
+            <element signature="e#8783#8881#0" expanded="true" />
+            <element signature="e#8937#8962#0" expanded="true" />
+            <element signature="e#9114#9139#0" expanded="true" />
+            <element signature="e#9162#9204#0" expanded="true" />
+            <element signature="e#9237#9264#0" expanded="true" />
+            <element signature="e#9405#9430#0" expanded="true" />
+            <element signature="e#9453#9494#0" expanded="true" />
+            <element signature="e#9722#9747#0" expanded="true" />
+            <element signature="e#9783#9870#0" expanded="true" />
+            <element signature="e#9900#9933#0" expanded="true" />
+            <element signature="e#9951#10041#0" expanded="true" />
+            <element signature="e#10042#10048#1" expanded="true" />
+            <element signature="e#10057#10191#0" expanded="true" />
+            <element signature="e#10208#10313#0" expanded="true" />
+            <element signature="e#10400#10490#0" expanded="true" />
+            <element signature="e#10494#10621#0" expanded="true" />
+            <element signature="e#10770#10870#0" expanded="true" />
+            <element signature="e#10932#11015#0" expanded="true" />
+            <element signature="e#11086#11111#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="152" column="0" lean-forward="false" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#542#0#PHP" expanded="true" />
-            <marker date="1531397459789" expanded="true" signature="3235:3325" ph="..." />
-            <marker date="1531397459789" expanded="true" signature="9500:9536" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="130" lean-forward="false" selection-start-line="12" selection-start-column="130" selection-end-line="12" selection-end-column="130" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="375" column="17" lean-forward="false" selection-start-line="375" selection-start-column="17" selection-end-line="375" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/clientLogos/Radio/MagicEcho.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/Radio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="88" column="22" lean-forward="true" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/Opening.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4350">
-          <caret line="150" column="16" lean-forward="false" selection-start-line="150" selection-start-column="16" selection-end-line="150" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/head.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/InternsNGrads.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/Universities.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="36" column="60" lean-forward="true" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
-          <folding />
+        <state relative-caret-position="145">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ContactSession.php">
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/InternsNGrads.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="73" lean-forward="true" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InternsNGradsSession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="14" column="147" lean-forward="false" selection-start-line="14" selection-start-column="147" selection-end-line="14" selection-end-column="147" />
-          <folding />
+        <state relative-caret-position="174">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="14" column="147" lean-forward="false" selection-start-line="14" selection-start-column="147" selection-end-line="14" selection-end-column="147" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UniversitiesSession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="14" column="147" lean-forward="false" selection-start-line="14" selection-start-column="147" selection-end-line="14" selection-end-column="147" />
-          <folding />
+        <state relative-caret-position="203">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -804,7 +756,191 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
           <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UniversitiesSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="14" column="146" lean-forward="true" selection-start-line="14" selection-start-column="146" selection-end-line="14" selection-end-column="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InternsNGradsSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="14" column="146" lean-forward="true" selection-start-line="14" selection-start-column="146" selection-end-line="14" selection-end-column="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clientLogos/Technology/MIPS.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clientLogos/Technology/digilent-logo2015-color-3000.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clientLogos/Technology/enocean_alliance_ing_logo_rgb.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clientLogos/Technology/caterva.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clientLogos/Technology/Imagination_Logo_Primary_RGB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clientLogos/Technology/MIPS_master_logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clientLogos/Technology/RS_Components_Logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clientLogos/Technology/Conrad-Electronic-Logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clientLogos/Technology/arm.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clientLogos/Technology/dialog-semiconductor-plc.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clientLogos/Technology/xlnx-logo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clientLogos/Radio/hertbeat_logo(fromMac).jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clientLogos/Manufacturing/gruma.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/Opening.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3016">
+          <caret line="104" column="120" selection-start-line="104" selection-start-column="120" selection-end-line="104" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="348" column="16" lean-forward="true" selection-start-line="348" selection-start-column="16" selection-end-line="348" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/Radio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContactSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/TestimonialSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="206" column="57" lean-forward="true" selection-start-line="206" selection-start-column="57" selection-end-line="206" selection-end-column="57" />
+          <folding>
+            <element signature="e#6#542#0#PHP" expanded="true" />
+            <marker date="1532090335105" expanded="true" signature="3235:3325" ph="..." />
+            <marker date="1532090335105" expanded="true" signature="9510:9546" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/uniTestimonial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="152" column="26" lean-forward="true" selection-start-line="152" selection-start-column="26" selection-end-line="152" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="96" column="59" lean-forward="true" selection-start-line="96" selection-start-column="59" selection-end-line="96" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/RobertPics/UniPics/Sarah Harris presenting a workshop at ISCA 2018 - Los Angeles, USA.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/UniversityGallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/RobertPics/UniPics/Dr Sarah Harris and Prof Chu at a MIPSfpga Workshop during ASEE Annual Conference 2018, Salt Lake City, USA.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/RobertPics/UniPics/RO with CEO Hossein Yassaie Elektra Awards 2015.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/GeneralGallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/radioTestimonial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="67" column="48" lean-forward="true" selection-start-line="67" selection-start-column="48" selection-end-line="67" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/RadioGallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="190" column="33" selection-start-line="190" selection-start-column="33" selection-end-line="190" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-614">
+          <caret line="891" column="19" selection-start-line="891" selection-start-column="19" selection-end-line="891" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="459" column="27" lean-forward="true" selection-start-line="459" selection-start-column="27" selection-end-line="459" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

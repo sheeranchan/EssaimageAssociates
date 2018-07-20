@@ -31,7 +31,7 @@
                             
                                 <strong class="smaller-font">"You have built a great thing with RS University and you should be proud. It’s a strong foundation. Now let’s scale up!"</strong>
                             <br>
-                            <small>Mike Brojak, Global VP Innovation Labs, RS Components. March 2017</small>
+                            <small>Mike Brojak,<br> Global VP Innovation Labs,<br> RS Components. March 2017</small>
                         </div>
                     </div>
                 </blockquote>
@@ -44,7 +44,7 @@
                             
                                 <strong class="smaller-font">"I’ve mentioned it before but I’ll say it again.  I look at the MIPS University Program as one of our biggest success stories. This is a great piece of work!"</strong>
                             <br>
-                            <small>Rick Leatherman, VP Imagination Technologies. December 2016</small>
+                            <small>Rick Leatherman,<br> VP Imagination Technologies.<br> December 2016</small>
                         </div>
                     </div>
                 </blockquote>
@@ -57,7 +57,7 @@
                             
                                 <strong class="smaller-font">"Robert makes any job look easy… He is great at building relationships and growing the community around him. I highly recommend him to anything he would be willing to do."</strong>
                             <br>
-                            <small>Gene Frantz, Principal Fellow, Texas Instruments Houston, USA, 2011</small>
+                            <small>Gene Frantz,<br> Principal Fellow, Texas Instruments Houston, USA,<br> 2011</small>
                         </div>
                     </div>
                 </blockquote>
@@ -70,7 +70,7 @@
                             
                                 <strong class="smaller-font">"Robert is a master at taking just a few resources and getting big things done, and always with an eye on what's best for Texas Instruments and the customer..."</strong>
                             <br>
-                            <small>Renee Fancher, Manager at Texas Instruments Germany, 2010</small>
+                            <small>Renee Fancher,<br> Manager at Texas Instruments Germany, 2010</small>
                         </div>
                     </div>
                 </blockquote>
@@ -83,7 +83,7 @@
                             
                                 <strong class="smaller-font">"I only know you for 15 years. You are a very exceptional man."</strong>
                             <br>
-                            <small>Mony Orbach, Chief Engineer at HSDSL, the Technion, Israel April 2018</small>
+                            <small>Mony Orbach,<br> Chief Engineer at HSDSL,<br> the Technion, Israel April 2018</small>
                         </div>
                     </div>
                 </blockquote>
@@ -96,7 +96,7 @@
                             
                                 <strong class="smaller-font">"He creates wonders with his limited resources and I highly recommend Robert. He is dedicated, focused and really professional."</strong>
                             <br>
-                            <small>Burak Ilhan, Texas Instruments Regional Sales Manager: Turkey & Middle East, 2011</small>
+                            <small>Burak Ilhan,<br> Texas Instruments Regional Sales Manager: Turkey & Middle East, 2011</small>
                         </div>
                     </div>
                 </blockquote>
@@ -109,7 +109,7 @@
                             
                                 <strong class="smaller-font">"Congratulations and well deserved!  I’ve really admired your vision and ability to pull together a coalition to build something remarkable!”"</strong>
                             <br>
-                            <small>Prof. David Money Harris, Director, Engineering Clinic, Harvey Mudd College. November 2015</small>
+                            <small>Prof. David Money Harris,<br> Director, Engineering Clinic, Harvey Mudd College. November 2015</small>
                         </div>
                     </div>
                 </blockquote>
@@ -135,7 +135,7 @@
                             
                                 <strong class="smaller-font">"Good news indeed - and well done guys! They will be a great combination for us to grow awareness and engagement in China!"</strong>
                             <br>
-                            <small>Glenn Jarrett, Senior VP Design Spark, RS Components. February 2016</small>
+                            <small>Glenn Jarrett,<br> Senior VP Design Spark, RS Components. February 2016</small>
                         </div>
                     </div>
                 </blockquote>
@@ -161,7 +161,7 @@
                             
                                 <strong class="smaller-font">"It was really great to work with you! Thank you very much for your help and collaboration. You are always welcome to Ryazan."</strong>
                             <br>
-                            <small>Dr. Sergey Vityazev, Ryazan State Radioengineering University, Russia, 2011</small>
+                            <small>Dr. Sergey Vityazev,<br> Ryazan State Radioengineering University, Russia, 2011</small>
                         </div>
                     </div>
                 </blockquote>
@@ -187,7 +187,7 @@
                             
                                 <strong class="smaller-font">"I appreciate a lot your reactivity, dynamism and generosity. It was a pleasure working with you. I wish you luck and success in your future projects."</strong>
                             <br>
-                            <small>Dr. Arie Oren Finkelstein, ESIEE, Paris, France, 2011</small>
+                            <small>Dr. Arie Oren Finkelstein,<br> ESIEE, Paris, France,<br> 2011</small>
                         </div>
                     </div>
                 </blockquote>
@@ -226,7 +226,7 @@
                             
                                 <strong class="smaller-font">"Through our partnership with Imagination we are providing academics with important resources to which they have never before had access."</strong>
                             <br>
-                            <small><strong>Wes Hansford, Director, MOSIS. Sept 2016"</strong></small>
+                            <small>Wes Hansford,<br> Director, MOSIS.<br> Sept 2016</small>
                         </div>
                     </div>
                 </blockquote>
@@ -239,31 +239,31 @@
                             
                                 <strong class="smaller-font">"Your wisdom continues to be a gift to me Robert"</strong>
                             <br>
-                            <small>Cathy Wicks, Texas Instruments’ Worldwide University Program, Houston, USA, Nov’11</small>
+                            <small>Cathy Wicks,<br> Texas Instruments’ Worldwide University Program, Houston, USA,<br> Nov’11</small>
                         </div>
                     </div>
                 </blockquote>
             </div>
-            <a class="carousel-control-prev" data-target="#quote-carousel" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" data-target="#quote-carousel" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
         </div>
-        <style type="text/css">
-          .twitterbox #twtr-widget-1 .twtr-bd, #twtr-widget-1 .twtr-timeline i a, #twtr-widget-1 .twtr-bd p {
-              color:#000000 !important;
-              font-size:11px;
-          }
-        </style>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-        <div class="animated fadeInUp delay-10s">
-            <div class="twitterbox" style="background-color: black;opacity: 0.8;">
-                <a class="twitter-timeline" href="https://twitter.com/UniPgm" data-theme="dark" data-width="380" data-height="300" data-chrome="nofooter transparent noscrollbar">Tweets by @JBDI</a>
-            </div>
+        <a class="carousel-control-prev" data-target="#quote-carousel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" data-target="#quote-carousel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+    <style type="text/css">
+      .twitterbox #twtr-widget-1 .twtr-bd, #twtr-widget-1 .twtr-timeline i a, #twtr-widget-1 .twtr-bd p {
+          color:#000000 !important;
+          font-size:11px;
+      }
+    </style>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    <div class="animated fadeInUp delay-10s">
+        <div class="twitterbox" style="background-color: black;opacity: 0.8;">
+            <a class="twitter-timeline" href="https://twitter.com/UniPgm" data-theme="dark" data-width="300" data-height="300" data-chrome="nofooter transparent noscrollbar">Tweets by @JBDI</a>
         </div>
     </div>
 </span>

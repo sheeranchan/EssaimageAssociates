@@ -3,9 +3,12 @@
         <div class="row">
             <img src="../images/Purple%20Logo%20RGB.png" class="img-fluid footer-logo-size col-lg-2">
             <div class="col-lg-6 float-left">
-                <p class="mb-3"> <span class="ti-location-pin mr-2"></span> 39 St. Leonards Road, Hertford, Hertfordshire, UK</p>
-                <p class="mb-3">
+                <p class="mb-2"> <span class="ti-location-pin mr-2"></span> 39 St. Leonards Road, Hertford, Hertfordshire, UK</p>
+                <p class="mb-2">
                     <span class="ti-headphone mr-2"></span> <a href="tel:441992584739">+44-(0)1992-584739</a>
+                </p>
+                <p class="mb-2">
+                    <span class="ti-email mr-2"></span> <a href="/contact.php"> Please contact me via the contact form</a>
                 </p>
             </div>
             <div class="col-lg-4">

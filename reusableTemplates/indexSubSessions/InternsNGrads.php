@@ -2,9 +2,9 @@
     <div class="col-lg-12 col-md-12 col-sm-12 margin-top-3">
         <?php include_once 'testimonials/INGTestimonial.php' ?>
         <?php include_once 'galleries/INGGallery.php' ?>
-        <img src="../../images/WalkerCOLOUR.png" class="animated fadeInLeft walkingMan-logo-size float-left margin-top-1">
+<!--        <img src="../../images/WalkerCOLOUR.png" class="animated fadeInLeft walkingMan-logo-size float-left margin-top-1">-->
         <div class="clearfix"></div>
-        <ul class="nav nav-tabs nav-justified" role="tablist">
+        <ul class="nav nav-tabs nav-justified margin-top-3" role="tablist">
             <li class="nav-item">
                 <a class="nav-link active" data-toggle="tab" href="#interns">Interns</a>
             </li>

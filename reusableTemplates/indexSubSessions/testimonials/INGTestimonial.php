@@ -59,7 +59,7 @@
                             
                                 <strong class="smaller-font">"Hard to believe, but it has been a very exciting 20…I still recognise that this was only possible because of the opportunity you gave me in the first place and the help and support in those early years, and I will always be grateful."</strong>
                             <br>
-                            <small>Tony Astley, EMEA Sales Director at GaN Systems, May’02</small>
+                            <small>Tony Astley,<br> EMEA Sales Director at GaN Systems,<br> May’02</small>
                         </div>
                     </div>
                 </blockquote>
@@ -72,7 +72,7 @@
                             
                                 <strong class="smaller-font">"Robert promoted me for the position of internship student at EnOcean. He guided me through the entire process of recruitment, giving huge support as well. I really appreciate his help."</strong>
                             <br>
-                            <small><strong>Marcin Gajewski, Senior Electronic Designer. March 2015</strong></small>
+                            <small>Marcin Gajewski,<br> Senior Electronic Designer.<br> March 2015</small>
                         </div>
                     </div>
                 </blockquote>
@@ -85,7 +85,7 @@
                             
                                 <strong class="smaller-font">"Robert is a mentor to me, not only he cares about my work progress, also my personal development. His work attitude and ethics are top class, which bond his team tight and goal driven…"</strong>
                             <br>
-                            <small><strong>Laurence Keung, Digital Performance Executive at iProspect HK, China. May 2018</strong></small>
+                            <small>Laurence Keung, Digital Performance Executive at iProspect HK, China.<br> May 2018</small>
                         </div>
                     </div>
                 </blockquote>
@@ -98,7 +98,7 @@
                             
                                 <strong class="smaller-font">"I just wanted to let you know that I really enjoyed working with you and learned a whole lot from you. Thank you for your mentoring. It has been an invaluable experience for me to have the opportunity to work with someone like you."</strong>
                             <br>
-                            <small>Maria Ho, Marketing and Business Development Manager at Texas Instruments Washington, USA, July’00</small>
+                            <small>Maria Ho,<br> Marketing and Business Development Manager at Texas Instruments Washington, USA,<br> July’00</small>
                         </div>
                     </div>
                 </blockquote>
@@ -123,7 +123,7 @@
                             
                                 <strong class="smaller-font">"As my mentor and manager during my time at RS Components, I can say with complete confidence that Robert Owen is a guru in University Programmes and a brilliant mentor… It was a privilege to have had Robert be my mentor."</strong>
                             <br>
-                            <small><strong>Calvin Barnett, Managing Editor at BHTA Engage, UK. April 2015</strong></small>
+                            <small>Calvin Barnett,<br> Managing Editor at BHTA Engage, UK.<br> April 2015</small>
                         </div>
                     </div>
                 </blockquote>
@@ -136,20 +136,20 @@
                             
                                 <strong class="smaller-font">"The training that I received from Robert was incredibly helpful – memorable, practical and impactful. The training sessions benefit both my work and life. I would definitely recommend Robert’s training to anyone without a doubt!"</strong>
                             <br>
-                            <small><strong>Li Jiaxuan Rose, Business Analytics and Consultancy student at Lancaster University, UK. May 2018</strong></small>
+                            <small>Li Jiaxuan Rose, Business Analytics and Consultancy student at Lancaster University, UK. May 2018</small>
                         </div>
                     </div>
                 </blockquote>
             </div>
-            <a class="carousel-control-prev" data-target="#quote-carousel" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" data-target="#quote-carousel" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
         </div>
+        <a class="carousel-control-prev" data-target="#quote-carousel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" data-target="#quote-carousel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
     </div>
 </span>
 <!-- // end .section -->

@@ -12,7 +12,7 @@
                 <a class="nav-link" data-toggle="tab" href="#activities">What We Do</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#clientList">Clients List</a>
+                <a class="nav-link" data-toggle="tab" href="#clientList">Clients</a>
             </li>
         </ul>
         <div class="tab-content text-left">
@@ -50,7 +50,7 @@
             <div class="tab-pane fade" id="clientList">
                 <div class="d-flex flex-column flex-lg-row">
                     <div>
-                        <h2 class="animated fadeInDown delay-10s text-left">Clients List</h2>
+                        <h2 class="animated fadeInDown delay-10s text-left">Clients</h2>
                         <span class="animated fadeInUp delay-10s">
                             <div class="table-responsive text-black text-left">
                                 <table class="table table-bordered table-hover">
@@ -59,15 +59,15 @@
                                                 <th colspan="3" class="text-primary text-uppercase border-light">Technology</th>
                                             </tr>
                                             <tr>
-                                                <th>Clients Logo</th>
-                                                <th>Clients Name</th>
+                                                <th>Logo</th>
+                                                <th>Company</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             <tr>
                                                 <td>
                                                     <a href="http://www.digilent.com">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/digilent-logo2015-color-3000.png" alt="Digilent company logo">
+                                                        <img  src="../../images/clientLogos/Technology/digilent-logo2015-color-3000.png" alt="Digilent company logo">
                                                     </a>
                                                 </td>
                                                 <td>Digilent, Inc.: Consultantcy for academia, partnerships & business strategy</td>
@@ -75,7 +75,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="http://www.caterva.de">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/caterva.png" alt="caterva company logo">
+                                                        <img  src="../../images/clientLogos/Technology/caterva.png" alt="caterva company logo">
                                                     </a>
                                                 </td>
                                                 <td>Caterva GmbH, Munich, Germany:student recruitment</td>
@@ -83,7 +83,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="http://www.mips.com/MAC">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/MIPS.png" alt="MIPS company logo">
+                                                        <img  src="../../images/clientLogos/Technology/MIPS_master_logo.png" alt="MIPS company logo">
                                                     </a>
                                                 </td>
                                                 <td>MIPS Tech LLC., Santa Clara, CA. USA: global university marketing</td>
@@ -91,7 +91,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://www.rs-online.com/designspark/rs-university">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/rs_components_logo.png" alt="RS components company logo">
+                                                        <img  src="../../images/clientLogos/Technology/RS_Components_Logo.png" alt="RS components company logo">
                                                     </a>
                                                 </td>
                                                 <td>RS Components, UK: programme building, recruitment & university marketing</td>
@@ -99,7 +99,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="http://www.conrad.com">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/Conrad-Electronic-Logo.png" alt="Conrad company logo">
+                                                        <img  src="../../images/clientLogos/Technology/Conrad-Electronic-Logo.png" alt="Conrad company logo">
                                                     </a>
                                                 </td>
                                                 <td>Conrad Electronic International GmbH, Germany: market research & student recruitment</td>
@@ -107,7 +107,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="http://www.imgtec.com">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/imgTech.png" alt="ImgTech company logo">
+                                                        <img  src="../../images/clientLogos/Technology/Imagination_Logo_Primary_RGB.png" alt="ImgTech company logo">
                                                     </a>
                                                 </td>
                                                 <td>Imagination Technologies Limited, UK: academic strategy, programme building, recruitment & global university marketing</td>
@@ -115,7 +115,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="http://www.enocean.com">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/enocean_alliance_ing_logo_rgb.png" alt="Enocean company logo">
+                                                        <img  src="../../images/clientLogos/Technology/enocean_alliance_ing_logo_rgb.png" alt="Enocean company logo">
                                                     </a>
                                                 </td>
                                                 <td>EnOcean GmbH, Munich, Germany: university marketing & student recruitment</td>
@@ -123,7 +123,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://www.arm.com/resources/education ">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/arm.png" alt="ARM company logo">
+                                                        <img  src="../../images/clientLogos/Technology/arm.png" alt="ARM company logo">
                                                     </a>
                                                 </td>
                                                 <td>ARM Limited, UK: partnership development & university marketing</td>
@@ -131,7 +131,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="http://www.dialog-semiconductor.com">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/dialog-semiconductor-plc.jpg" alt="dialog-semiconductor company logo">
+                                                        <img  src="../../images/clientLogos/Technology/dialog-semiconductor-plc.jpg" alt="dialog-semiconductor company logo">
                                                     </a>
                                                 </td>
                                                 <td>Dialog Semiconductor plc: university relations, strategies for recruitment & research</td>
@@ -139,7 +139,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://www.xilinx.com/support/university.html">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/TexasInstruments-Logo.png" alt="TI company logo">
+                                                        <img  src="../../images/clientLogos/Technology/TexasInstruments-Logo.png" alt="TI company logo">
                                                     </a>
                                                 </td>
                                                 <td>Xilinx Inc., San Jose CA, USA: university market research</td>
@@ -147,7 +147,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://university.ti.com/en#">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/TexasInstruments-Logo.png" alt="TI company logo">
+                                                        <img  src="../../images/clientLogos/Technology/TexasInstruments-Logo.png" alt="TI company logo">
                                                     </a>
                                                 </td>
                                                 <td>Texas Instruments Deutschland: Analog – university strategy & marketing</td>
@@ -155,7 +155,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://www.ti.com">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/TexasInstruments-Logo.png" alt="TI company logo">
+                                                        <img  src="../../images/clientLogos/Technology/TexasInstruments-Logo.png" alt="TI company logo">
                                                     </a>
                                                 </td>
                                                 <td>Texas Instruments Ltd., UK: high school teaming projects & sales training</td>
@@ -163,7 +163,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://university.ti.com/en#">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/TexasInstruments-Logo.png" alt="TI company logo">
+                                                        <img  src="../../images/clientLogos/Technology/TexasInstruments-Logo.png" alt="TI company logo">
                                                     </a>
                                                 </td>
                                                 <td>Texas Instruments France: Embedded Processing – university marketing, recruitment & research</td>
@@ -171,7 +171,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://university.ti.com/en#">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Technology/TexasInstruments-Logo.png" alt="TI company logo">
+                                                        <img  src="../../images/clientLogos/Technology/TexasInstruments-Logo.png" alt="TI company logo">
                                                     </a>
                                                 </td>
                                                 <td>Texas Instruments Inc., USA: teaching material development</td>
@@ -186,15 +186,15 @@
                                                 <th colspan="3" class="text-primary text-uppercase border-light">Manufacturing</th>
                                             </tr>
                                             <tr>
-                                                <th>Clients Logo</th>
-                                                <th>Clients Name</th>
+                                                <th>Logo</th>
+                                                <th>Company</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             <tr>
                                                 <td>
                                                     <a href="https://www.gruma.com/en.aspx">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Manufacturing/gruma.png" alt="Mission company logo">
+                                                        <img  src="../../images/clientLogos/Manufacturing/gruma.png" alt="Mission company logo">
                                                     </a>
                                                 </td>
                                                 <td>GRUMA Europe (Mission Foods): Recruitment – building a new graduate programme</td>
@@ -209,8 +209,8 @@
                                                 <th colspan="3" class="text-primary text-uppercase border-light">Radio</th>
                                             </tr>
                                             <tr>
-                                                <th>Clients Logo</th>
-                                                <th>Clients Name</th>
+                                                <th>Logo</th>
+                                                <th>Company</th>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -257,7 +257,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="http://www.bobfm.co.uk/">
-                                                        <img class="client-logo-size" src="../../images/clientLogos/Radio/hertbeat_logo(fromMac).jpg" alt="Hertbeat logo">
+                                                        <img  src="../../images/clientLogos/Radio/hertbeat_logo(fromMac).jpg" alt="Hertbeat logo">
                                                     </a>
                                                 </td>
                                                 <td>Hertbeat FM, UK: licensing, start-up, programming & presentation</td>

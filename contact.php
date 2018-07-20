@@ -206,7 +206,7 @@ $pagename = "contact";
 
     <?php include_once 'reusableTemplates/navMenu.php' ?>
 
-    <h2 class="section text-center text-white margin-top-10"><span class="ti-headphone-alt gradient-fill"></span> Contact Us</h2>
+    <h2 class="section text-center text-white margin-top-10 contactUs"><span class="ti-headphone-alt gradient-fill"></span> Contact Us</h2>
     <!-- Contact Form -->
     <a name="cf" id="cf"></a>
 

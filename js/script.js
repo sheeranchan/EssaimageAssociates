@@ -158,8 +158,6 @@ $(document).ready(function() {
     var img5 = document.getElementById('gen05');
     var img6 = document.getElementById('gen06');
     var img7 = document.getElementById('gen07');
-    var img8 = document.getElementById('gen08');
-    var img9 = document.getElementById('gen09');
 
     img1.onclick =
         img2.onclick =
@@ -168,8 +166,6 @@ $(document).ready(function() {
                     img5.onclick =
                         img6.onclick =
                             img7.onclick =
-                                img8.onclick =
-                                    img9.onclick =
                                     function () {
                                         modal.style.display = "block";
                                         modalImg.src = this.src;
@@ -420,6 +416,7 @@ var img_rd_23 = document.getElementById('rd23');
 var img_rd_24 = document.getElementById('rd24');
 var img_rd_25 = document.getElementById('rd25');
 var img_rd_26 = document.getElementById('rd26');
+var img_rd_27 = document.getElementById('rd27');
 
     img_rd_1.onclick =
         img_rd_2.onclick =
@@ -447,6 +444,7 @@ var img_rd_26 = document.getElementById('rd26');
             img_rd_24.onclick =
         img_rd_25.onclick =
     img_rd_26.onclick =
+img_rd_27.onclick =
     function(){
         rdModal.style.display = "block";
         modalImg4.src = this.src;
