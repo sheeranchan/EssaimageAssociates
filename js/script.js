@@ -235,7 +235,7 @@ $(document).ready(function(){
     var img_uni_29 = document.getElementById('uni29');
     var img_uni_30 = document.getElementById('uni30');
     var img_uni_31 = document.getElementById('uni31');
-    var img_uni_32 = document.getElementById('uni32');
+    // var img_uni_32 = document.getElementById('uni32');
     var img_uni_33 = document.getElementById('uni33');
     var img_uni_34 = document.getElementById('uni34');
     var img_uni_35 = document.getElementById('uni35');
@@ -273,7 +273,7 @@ $(document).ready(function(){
                                     img_uni_29.onclick =
                                 img_uni_30.onclick =
                             img_uni_31.onclick =
-                        img_uni_32.onclick =
+                        // img_uni_32.onclick =
                     img_uni_33.onclick =
                 img_uni_34.onclick =
             img_uni_35.onclick =

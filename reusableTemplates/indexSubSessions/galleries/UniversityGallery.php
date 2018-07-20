@@ -222,12 +222,12 @@
                     <p>Power Lab, Technical University of Cluj-Napoca, Romania (2011)</p>
                 </div>
             </div>
-            <div class="carousel-item">
-                <img id="uni32" src="../../../images/RobertPics/UniPics/European%20DSP%20Education%20and%20Research%20Symposium%20(EDERS)%202008,%20Tel%20Aviv,%20Israel.jpg" class="img-fluid" alt="European DSP Education and Research Symposium (EDERS) 2008, Tel Aviv, Israel">
-                <div class="carousel-caption d-none d-md-block">
-                    <p>European DSP Education and Research Symposium (EDERS) 2008, Tel Aviv, Israel</p>
-                </div>
-            </div>
+<!--            <div class="carousel-item">-->
+<!--                <img id="uni32" src="../../../images/RobertPics/UniPics/European%20DSP%20Education%20and%20Research%20Symposium%20(EDERS)%202008,%20Tel%20Aviv,%20Israel.jpg" class="img-fluid" alt="European DSP Education and Research Symposium (EDERS) 2008, Tel Aviv, Israel">-->
+<!--                <div class="carousel-caption d-none d-md-block">-->
+<!--                    <p>European DSP Education and Research Symposium (EDERS) 2008, Tel Aviv, Israel</p>-->
+<!--                </div>-->
+<!--            </div>-->
             <div class="carousel-item">
                 <img id="uni33" src="../../../images/RobertPics/UniPics/Visit%20to%20MIEM%20in%20Russia,%20Spetember%202017.jpg" class="img-fluid" alt="Visit to MIEM in Russia, Spetember 2017">
                 <div class="carousel-caption d-none d-md-block">
