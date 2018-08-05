@@ -8,12 +8,13 @@
                     <span class="ti-headphone mr-2"></span> <a href="tel:441992584739">+44-(0)1992-584739</a>
                 </p>
                 <p class="mb-2">
-                    <span class="ti-email mr-2"></span> <a href="/contact.php"> Please contact me via the contact form</a>
+                    <span class="ti-email mr-2"></span> <a href="/contact.php"> Please contact us via the contact form</a>
                 </p>
             </div>
             <div class="col-lg-4">
                 <div class="social-icons">
-                    <a target="_blank" href="https://www.facebook.com/robbie.owen.7169" data-toggle="tooltip" data-placement="left" title="Robbie Owen facebook"><span class="ti-facebook"></span></a>
+                    <a target="_blank" href="https://www.linkedin.com/in/robert-owen-4335931/" data-toggle="tooltip" data-placement="left" title="Robbie Owen LinkedIn"><span class="ti-linkedin"></span></a>
+                    <a target="_blank" href="https://www.facebook.com/robbie.owen.7169" data-toggle="tooltip" data-placement="left" title="Robbie Owen Facebook"><span class="ti-facebook"></span></a>
                     <a target="_blank" href="https://twitter.com/unipgm?lang=en" data-toggle="tooltip" data-placement="left" title="UniPgm Twitter"><span class="ti-twitter-alt"></span></a>
                     <a target="_blank" href="https://twitter.com/jbdi?lang=en" data-toggle="tooltip" data-placement="left" title="Radio Twitter"><span class="ti-twitter-alt"></span></a>
                 </div>

@@ -108,7 +108,7 @@
                 <blockquote>
                     <div class="row">
                         <div class="col-sm-12 text-center">
-                                <strong class="smaller-font">"I realise more and more each day though, just how lucky I was to have had the job I had working for you at TI and once again, Robert, I would like to thank you for the wonderful experience I gained whilst working for you. I couldn't have asked for a more enjoyable and valuable year out.  I really feel blessed for having been given this opportunity.  I hope that what I have learned from this experience, and from you, will take me on a great career in the future."</strong>
+                                <strong class="smaller-font">"I realise more and more each day though, just how lucky I was to have had the job I had working for you at TI and once again, Robert, I would like to thank you for the wonderful experience I gained whilst working for you. I couldn't have asked for a more enjoyable and valuable year out. I really feel blessed for having been given this opportunity."</strong>
                             <br>
                             <small>Emma Crookes, Business & Marketing Assistant to University Program, Nice, France, July‘98</small>
                         </div>
@@ -152,7 +152,7 @@
         </a>
     </div>
     <div class="text-center">
-        <a href="../../files/pdf/EssaimageAssociates-Interns&Grads-Recruitment-v2.pdf" download><img src="../../images/icons/pdf-icon.png"> <span class="text-white"> EssaimageAssociates-InternsGrads-Recruitment</span></a>
+        <a href="../../files/pdf/EssaimageAssociates-Interns&Grads-Recruitment-v2.pdf" download><img src="../../images/icons/pdf-icon.png"> <span  class="text-white fadeInLeft delay-05s"> EssaimageAssociates-InternsGrads-Recruitment</span></a>
     </div>
 </span>
 <!-- // end .section -->

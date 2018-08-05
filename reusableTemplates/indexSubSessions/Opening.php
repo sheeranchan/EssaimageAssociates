@@ -40,7 +40,7 @@
                             <p class="tagline-black">Research: identifying and capturing technology breakthroughs that provide vital competitive advantage</p><br>
                             <br>
                             <h3>Coaching & Training</h3>
-                            <p class="tagline-black">30 years of experience in the development of skills in customer-facing roles</p><br>
+                            <p class="tagline-black">Unique recruitment and development programmes for one-year Interns and new Graduates</p><br>
                             <h3>Radio</h3>
                             <p class="tagline-black">Support for radio station licensing & start-up, programming and presentation</p>
                         </div>
@@ -78,7 +78,7 @@
                                                         <img  src="../../images/clientLogos/Technology/caterva.png" alt="caterva company logo">
                                                     </a>
                                                 </td>
-                                                <td>Caterva GmbH, Munich, Germany:student recruitment</td>
+                                                <td>Caterva GmbH, Munich, Germany: student recruitment</td>
                                             </tr>
                                             <tr>
                                                 <td>
@@ -139,7 +139,7 @@
                                             <tr>
                                                 <td>
                                                     <a href="https://www.xilinx.com/support/university.html">
-                                                        <img  src="../../images/clientLogos/Technology/TexasInstruments-Logo.png" alt="TI company logo">
+                                                        <img  src="../../images/clientLogos/Technology/xlnx-logo.jpg" alt="TI company logo">
                                                     </a>
                                                 </td>
                                                 <td>Xilinx Inc., San Jose CA, USA: university market research</td>
@@ -154,7 +154,7 @@
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    <a href="https://www.ti.com">
+                                                    <a href="https://university.ti.com/en#">
                                                         <img  src="../../images/clientLogos/Technology/TexasInstruments-Logo.png" alt="TI company logo">
                                                     </a>
                                                 </td>

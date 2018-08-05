@@ -211,7 +211,7 @@
                     <div class="row">
                         <div class="col-sm-12 text-center">
                             
-                                <strong class="smaller-font">" He built the company's program from the ground up, and over-delivered on all aspects. We went from a very low profile in universities to being at the heart of a highly regarded curriculum that is now used in many countries around the globe. Robert is highly strategic, has a wealth of key relationships, and also has an impressive attention to detail. There is no other university program manager with whom I have worked that I would recommend more highly."</strong>
+                                <strong class="smaller-font">"Robert is highly strategic, has a wealth of key relationships, and also has an impressive attention to detail."</strong>
                             <br>
                             <small>Jen Bernier-Santarini, Strategic Communications Director, Santa Clara, USA. April 2018</small>
                         </div>
@@ -267,7 +267,7 @@
         </div>
     </div>
     <div class="text-center">
-        <a href="../../files/pdf/Benefits%20of%20working%20with%20academia%20-%20February%202018.pdf" download><img src="../../images/icons/pdf-icon.png"> <span class="text-white"> Benefits of working with academia</span></a>
+        <a href="../../files/pdf/Benefits%20of%20working%20with%20academia%20-%20February%202018.pdf" download><img src="../../images/icons/pdf-icon.png"> <span class="text-white fadeInLeft delay-05s" style="font-size:20px;padding: 3px auto 3px auto;"> Benefits of working with academia</span></a>
     </div>
 </span>
 

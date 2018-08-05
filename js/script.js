@@ -315,7 +315,7 @@ $(document).ready(function(){
 // Get the image and insert it inside the modal - use its "alt" text as a caption
     var img_ing_1 = document.getElementById('ing01');
     var img_ing_2 = document.getElementById('ing02');
-    var img_ing_3 = document.getElementById('ing03');
+    // var img_ing_3 = document.getElementById('ing03');
     var img_ing_4 = document.getElementById('ing04');
     var img_ing_5 = document.getElementById('ing05');
     var img_ing_6 = document.getElementById('ing06');
@@ -336,7 +336,7 @@ $(document).ready(function(){
 
     img_ing_1.onclick =
         img_ing_2.onclick =
-            img_ing_3.onclick =
+            // img_ing_3.onclick =
                 img_ing_4.onclick =
                     img_ing_5.onclick =
                         img_ing_6.onclick =

@@ -26,10 +26,10 @@
                 <blockquote>
                     <div class="row">
                         <div class="col-sm-12 text-center">
-                            
-                                <strong class="smaller-font">"Robert - I really appreciate your passion and results you are driving in Europe - thank you"</strong>
+
+                                <strong class="smaller-font">"He brought a unique business-centric appreciation of what it takes to make successful and enduring industry-academic relationships…"</strong>
                             <br>
-                            <small>Brian Crutcher, <br>Chief Executive Officer, <br>Texas Instruments, Dallas, USA,<br> Dec’09</small>
+                            <small>Tony King-Smith, Former Executive Vice-President Marketing, Imagination Technologies, Kings Langley, UK. March 2018. </small>
                         </div>
                     </div>
                 </blockquote>
@@ -52,10 +52,10 @@
                 <blockquote>
                     <div class="row">
                         <div class="col-sm-12 text-center">
-                            
-                                <strong class="smaller-font">"He brought a unique business-centric appreciation of what it takes to make successful and enduring industry-academic relationships…"</strong>
+
+                                <strong class="smaller-font">"Robert - I really appreciate your passion and results you are driving in Europe - thank you"</strong>
                             <br>
-                            <small>Tony King-Smith, Former Executive Vice-President Marketing, Imagination Technologies, Kings Langley, UK. March 2018. </small>
+                            <small>Brian Crutcher, <br>Chief Executive Officer, <br>Texas Instruments, Dallas, USA,<br> Dec’09</small>
                         </div>
                     </div>
                 </blockquote>
