@@ -115,7 +115,7 @@
                     <div class="row">
                         <div class="col-sm-12 text-center">
                             
-                                <strong class="smaller-font">"Good grief - an enthusiastic DJ - a rare best these days!"</strong>
+                                <strong class="smaller-font">"Good grief - an enthusiastic DJ - a rare BEAST these days!"</strong>
                             <br>
                             <small>Keith,<br> Proprietor of Fruits de Mer Records, UK.<br> March 2018</small>
                         </div>
@@ -154,7 +154,7 @@
                     <div class="row">
                         <div class="col-sm-12 text-center">
                             
-                                <strong class="smaller-font">"You always surprise me we things I've long forgotten about but it's great for me to remember these things."</strong>
+                                <strong class="smaller-font">"You always surprise me with things I've long forgotten about but it's great for me to remember…"</strong>
                             <br>
                             <small>John Carter,<br> Musician and Songwriter. January 2018 </small>
                         </div>

@@ -22,7 +22,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img id="gen02" src="../../../images/RobertPics/GeneralPics/Elektra%20Award%20%202015%20-%202.jpg" class="img-fluid" alt="Elektra Award 2015 for University Programme">
+                <img id="gen02" src="../../../images/RobertPics/GeneralPics/Elektra%20Award%20%202015%20-%202.jpg" class="img-fluid" alt="Elektra Educational Support Award, RS Components, 2017">
                 <div class="carousel-caption d-none d-md-block">
                     <p>Elektra Educational Support Award, RS Components, 2017</p>
                 </div>

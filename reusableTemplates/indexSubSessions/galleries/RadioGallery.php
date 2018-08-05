@@ -32,27 +32,27 @@
             <!-- Images -->
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img id="rd01" src="../../../images/RobertPics/RadioPics/1990%20Blue%20Danube%20Radio%20007.jpg" class="img-fluid" alt="1990 Blue Danube Radio 007">
+                    <img id="rd01" src="../../../images/RobertPics/RadioPics/1990%20Blue%20Danube%20Radio%20007.jpg" class="img-fluid" alt="Robbie Owen presenting Midday Magazine on Blue Danube Radio, Vienna, 1990">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>1990 Blue Danube Radio 007</p>
+                        <p>Robbie Owen presenting Midday Magazine on Blue Danube Radio, Vienna, 1990</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd02" src="../../../images/RobertPics/RadioPics/19790201%20Xmas79%20RadioWarwick012.jpg" class="img-fluid" alt="19790201 Xmas79 RadioWarwick012">
+                    <img id="rd02" src="../../../images/RobertPics/RadioPics/19790201%20Xmas79%20RadioWarwick012.jpg" class="img-fluid" alt="Robbie Owen on University Radio Warwick, Christmas 1979">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>19790201 Xmas79 RadioWarwick012</p>
+                        <p>Robbie Owen on University Radio Warwick, Christmas 1979</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd03" src="../../../images/RobertPics/RadioPics/Abie%20Nathan%20Presentation%20in%20Tel%20Aviv%20of%20Radio%20Day%20Signed%20Poster%202006.jpg" class="img-fluid" alt="Abie Nathan Presentation in Tel Aviv of Radio Day Signed Poster 2006">
+                    <img id="rd03" src="../../../images/RobertPics/RadioPics/Abie%20Nathan%20Presentation%20in%20Tel%20Aviv%20of%20Radio%20Day%20Signed%20Poster%202006.jpg" class="img-fluid" alt="Presentation to Abie Nathan, founder of the Voice of Peace: a poster signed by all the DJ’s who attended the Amsterdam Radio Day. Tel Aviv, 2008">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>Abie Nathan Presentation in Tel Aviv of Radio Day Signed Poster 2006</p>
+                        <p>Presentation to Abie Nathan, founder of the Voice of Peace: a poster signed by all the DJ’s who attended the Amsterdam Radio Day. Tel Aviv, 2008</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd04" src="../../../images/RobertPics/RadioPics/Graham%20Gill%20&%20RO%20at%20Radio%20Day%20Amsterdam.jpg" class="img-fluid" alt="Graham Gill & RO at Radio Day Amsterdam">
+                    <img id="rd04" src="../../../images/RobertPics/RadioPics/Graham%20Gill%20&%20RO%20at%20Radio%20Day%20Amsterdam.jpg" class="img-fluid" alt="Graham Gill & RO at Radio Day Amsterdam, 2008">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>Graham Gill & RO at Radio Day Amsterdam</p>
+                        <p>Graham Gill & RO at Radio Day Amsterdam, 2008</p>
                     </div>
                 </div>
                 <div class="carousel-item">
@@ -62,21 +62,21 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd06" src="../../../images/RobertPics/RadioPics/Maurice%20Bokkebroek%20&%20Robbie%20Owen%20Radio%20Day%202008.jpg" class="img-fluid" alt="Maurice Bokkebroek & Robbie Owen Radio Day 2008">
+                    <img id="rd06" src="../../../images/RobertPics/RadioPics/Maurice%20Bokkebroek%20&%20Robbie%20Owen%20Radio%20Day%202008.jpg" class="img-fluid" alt="Maurice Bokkebroek of Radio Mi Amigo with Robbie Owen at Amsterdam Radio Day, 2008">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>Maurice Bokkebroek & Robbie Owen Radio Day 2008</p>
+                        <p>Maurice Bokkebroek of Radio Mi Amigo with Robbie Owen at Amsterdam Radio Day, 2008</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd07" src="../../../images/RobertPics/RadioPics/Queen%20looking%20at%20Hertbeat%20fm.jpg" class="img-fluid" alt="Queen looking at Hertbeat fm">
+                    <img id="rd07" src="../../../images/RobertPics/RadioPics/Queen%20looking%20at%20Hertbeat%20fm.jpg" class="img-fluid" alt="Her Majesty the Queen with Robert Owen visiting the hertbeat FM booth. Stevenage 2002">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>Queen looking at Hertbeat fm</p>
+                        <p>Her Majesty the Queen with Robert Owen visiting the hertbeat FM booth. Stevenage 2002</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd08" src="../../../images/RobertPics/RadioPics/Hertbeat%20fm's%20First%20Birthday,%20Knebworth,%20UK.%20%202002.jpg" class="img-fluid" alt="Hertbeat FM's First Birthday, Knebworth, UK.  2002">
+                    <img id="rd08" src="../../../images/RobertPics/RadioPics/Hertbeat%20fm's%20First%20Birthday,%20Knebworth,%20UK.%20%202002.jpg" class="img-fluid" alt="Robbie Owen with Producer Mike Grant, presenting the Jukebox Drive-In at hertbeat FM, Knebworth, Hertfordshire, UK (2002)">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>Hertbeat FM's First Birthday, Knebworth, UK.  2002</p>
+                        <p>Robbie Owen with Producer Mike Grant, presenting the Jukebox Drive-In at hertbeat FM, Knebworth, Hertfordshire, UK (2002)</p>
                     </div>
                 </div>
                 <div class="carousel-item">
@@ -140,57 +140,57 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd19" src="../../../images/RobertPics/RadioPics/Welcoming%20the%20Wheelchair%20Pushers%20from%20London%20back%20home%20to%20Hertford%20(1975).jpg" class="img-fluid" alt="Welcoming the Wheelchair Pushers from London back home to Hertford (1975)">
+                    <img id="rd19" src="../../../images/RobertPics/RadioPics/Welcoming%20the%20Wheelchair%20Pushers%20from%20London%20back%20home%20to%20Hertford%20(1975).jpg" class="img-fluid" alt="Radio Hertford London to Hertford Wheelchair Push, 1975: Robbie Owen welcoming the pushers home!">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>Welcoming the Wheelchair Pushers from London back home to Hertford (1975)</p>
+                        <p>Radio Hertford London to Hertford Wheelchair Push, 1975: Robbie Owen welcoming the pushers home!</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd20" src="../../../images/RobertPics/RadioPics/Building%20the%20hertbeat%20fm%20studios%20at%20the%20Pump%20House,%20Knebworth%20Park,%20Hertfordshire,%20UK%20(2001).jpg" class="img-fluid" alt="Building the hertbeat fm studios at the Pump House, Knebworth Park, Hertfordshire, UK (2001)">
+                    <img id="rd20" src="../../../images/RobertPics/RadioPics/Building%20the%20hertbeat%20fm%20studios%20at%20the%20Pump%20House,%20Knebworth%20Park,%20Hertfordshire,%20UK%20(2001).jpg" class="img-fluid" alt="Building the Hertbeat fm studios at the Pump House, Knebworth Park, Hertfordshire, UK (2001)">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>Building the hertbeat fm studios at the Pump House, Knebworth Park, Hertfordshire, UK (2001)</p>
+                        <p>Building the Hertbeat fm studios at the Pump House, Knebworth Park, Hertfordshire, UK (2001)</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd21" src="../../../images/RobertPics/RadioPics/RO%20&%20Mike%20Grant%20at%20the%20Magic%20Echo%20Studio%20March%202018.jpg" class="img-fluid" alt="RO & Mike Grant at the Magic Echo Studio March 2018">
+                    <img id="rd21" src="../../../images/RobertPics/RadioPics/RO%20&%20Mike%20Grant%20at%20the%20Magic%20Echo%20Studio%20March%202018.jpg" class="img-fluid" alt="Robbie Owen & Mike Grant at the Magic Echo Studio, March 2018">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>RO & Mike Grant at the Magic Echo Studio March 2018</p>
+                        <p>Robbie Owen & Mike Grant at the Magic Echo Studio, March 2018</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd22" src="../../../images/RobertPics/RadioPics/RO%20at%20KOKO%20Radio%20Studio%20in%20Warrensburg%20USA%20with%20Lyn%20Eschlimann%20--%20&%20Darren%20Harte%201993%20.jpg" class="img-fluid" alt="RO at KOKO Radio Studio in Warrensburg USA with Lyn Eschlimann -- & Darren Harte 1993 ">
+                    <img id="rd22" src="../../../images/RobertPics/RadioPics/RO%20at%20KOKO%20Radio%20Studio%20in%20Warrensburg%20USA%20with%20Lyn%20Eschlimann%20--%20&%20Darren%20Harte%201993%20.jpg" class="img-fluid" alt="Robbie Owen at KOKO Radio Studio in Warrensburg USA with Lyn Eschlimann & Darren Harte, 1993">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>RO at KOKO Radio Studio in Warrensburg USA with Lyn Eschlimann -- & Darren Harte 1993 </p>
+                        <p>Robbie Owen at KOKO Radio Studio in Warrensburg USA with Lyn Eschlimann & Darren Harte, 1993</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd23" src="../../../images/RobertPics/RadioPics/RO%20at%20the%20Magic%20Echo%20Studio%20March%202018.jpg" class="img-fluid" alt="RO at the Magic Echo Studio March 2018">
+                    <img id="rd23" src="../../../images/RobertPics/RadioPics/RO%20at%20the%20Magic%20Echo%20Studio%20March%202018.jpg" class="img-fluid" alt="Robbie Owen at the Magic Echo Studio, March 2018">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>RO at the Magic Echo Studio March 2018</p>
+                        <p>Robbie Owen at the Magic Echo Studio, March 2018</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd24" src="../../../images/RobertPics/RadioPics/RO%20in%20the%20Caroline%20Studio%20on%20the%20Ross%20Revenge%20December%202017.JPG" class="img-fluid" alt="RO in the Caroline Studio on the Ross Revenge December 2017">
+                    <img id="rd24" src="../../../images/RobertPics/RadioPics/RO%20in%20the%20Caroline%20Studio%20on%20the%20Ross%20Revenge%20December%202017.JPG" class="img-fluid" alt="Robbie Owen in the Radio Caroline Studio on-board the mv. Ross Revenge, December 2017">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>RO in the Caroline Studio on the Ross Revenge December 2017</p>
+                        <p>Robbie Owen in the Radio Caroline Studio on-board the mv. Ross Revenge, December 2017</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd25" src="../../../images/RobertPics/RadioPics/The%20Magic%20Jukebox%20welcomes%20a%20special%20visitor.JPG" class="img-fluid" alt="The Magic Jukebox welcomes a special visitor">
+                    <img id="rd25" src="../../../images/RobertPics/RadioPics/The%20Magic%20Jukebox%20welcomes%20a%20special%20visitor.JPG" class="img-fluid" alt="The fascination of radio…? …young Ben visits the Magic Echo, 2017">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>The Magic Jukebox welcomes a special visitor</p>
+                        <p>The fascination of radio…? …young Ben visits the Magic Echo, 2017</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd26" src="../../../images/RobertPics/GeneralPics/Voice%20of%20Peace%20Team%20Graham%20Day%20Geoff%20Fitch%20Steve%20Growcot%20Doig%20Wood%20&%20Guy%20Bradley%20with%20RO%20August%201982%20Israel.jpg" class="img-fluid" alt="Voice of Peace Team Graham Day Geoff Fitch Steve Growcot Doig Wood & Guy Bradley with RO August 1982 Israel">
+                    <img id="rd26" src="../../../images/RobertPics/GeneralPics/Voice%20of%20Peace%20Team%20Graham%20Day%20Geoff%20Fitch%20Steve%20Growcot%20Doig%20Wood%20&%20Guy%20Bradley%20with%20RO%20August%201982%20Israel.jpg" class="img-fluid" alt="The Voice of Peace DJ Team: Graham Day, Geoff Fitch, Steve Growcott, Doug Wood & Guy Bradley, with Robbie Owen, August 1982 off-Israel">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>Voice of Peace Team Graham Day Geoff Fitch Steve Growcot Doig Wood & Guy Bradley with RO August 1982 Israel</p>
+                        <p>VThe Voice of Peace DJ Team: Graham Day, Geoff Fitch, Steve Growcott, Doug Wood & Guy Bradley, with Robbie Owen, August 1982 off-Israel</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd27" src="../../../images/RobertPics/GeneralPics/VOP%20Reunion%20Photo%20Recreation%2030%20years%20later%20in%20Hertford%20Aug%202012.JPG" class="img-fluid" alt="VOP Reunion Photo Recreation 30 years later in Hertford Aug 2012">
+                    <img id="rd27" src="../../../images/RobertPics/GeneralPics/VOP%20Reunion%20Photo%20Recreation%2030%20years%20later%20in%20Hertford%20Aug%202012.JPG" class="img-fluid" alt="Just 30 years later: the Voice of Peace Reunion, Hertford, Aug 2012">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>VOP Reunion Photo Recreation 30 years later in Hertford Aug 2012</p>
+                        <p>Just 30 years later: the Voice of Peace Reunion, Hertford, Aug 2012</p>
                     </div>
                 </div>
             </div>
