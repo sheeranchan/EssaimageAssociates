@@ -148,65 +148,12 @@ $url = ""; // SRB 19/04/14
 $pagename = "contact";
 ?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<div class="content col-lg-12 col-md-12 col-sm-12">
 
-<head>
-    <title>Essaimage | How to Contact Essaimage Associates</title>
-    <!-- Required meta tags -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Tab Logo -->
-    <link rel="icon" href="images/favicon.png" type="image/x-icon">
-
-    <!-- Font -->
-    <link rel="dns-prefetch" href="//fonts.googleapis.com">
-    <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500" rel="stylesheet">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <!-- Themify Icons -->
-    <link rel="stylesheet" href="css/themify-icons.css">
-    <!-- Owl carousel -->
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <!-- animation -->
-    <link rel="stylesheet" href="css/animate.css">
-    <!-- Main css -->
-    <link href="css/style.css" rel="stylesheet">
-
-    <!-- jQuery and Bootstrap -->
-    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
-    <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
-    <!-- Plugins JS -->
-    <script type="text/javascript" src="js/owl.carousel.min.js"></script>
-    <!-- Custom JS -->
-    <script type="text/javascript" src="js/script.js"></script>
-    <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
-    <script type="text/javascript" src="js/securimage.js"></script>
-    <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-1231834-14']);
-        _gaq.push(['_trackPageview']);
-
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-
-    </script>
-</head>
-
-<body class="bg-gradient">
-
-<div id="wrapper">
-    <div class="content col-lg-12 col-md-12 col-sm-12">
-
-    <?php include_once 'reusableTemplates/navMenu.php' ?>
-
-    <h2 class="section text-center text-white margin-top-10 contactUs"><span class="ti-headphone-alt gradient-fill"></span> Contact Us</h2>
+    <h2 class="content col-lg-12 col-md-12 col-sm-12 margin-left-40">
+        <span class="ti-headphone-alt gradient-fill"></span>
+        Contact Us
+    </h2>
     <!-- Contact Form -->
     <a name="cf" id="cf"></a>
 
@@ -215,33 +162,33 @@ $pagename = "contact";
         echo "<br /><p class='text-danger text-center'>" . $errors . "</p> <br /><br />";
     }
     ?>
-        <form id="contactform" class="rounded col-lg-8 col-md-12 col-sm-12 offset-lg-2 text-white" method="post" action="contact.php#cf">
-            <div class="form-group field single">
+        <form id="contactform" class="rounded col-lg-12 col-md-12 col-sm-12 offset-lg-3" method="post" action="contact.php#cf">
+            <div class="form-group field single offset-lg-3 text-left margin-top-10">
                 <label for="name">Name:</label>
                 <input type="text" class="input form-control" name="name" id="name" value="<?php echo $fromname; ?>" />
             </div>
 
-            <div class="form-group field single">
+            <div class="form-group field single offset-lg-3 text-left">
                 <label for="email">Email:</label>
                 <input type="text" class="input form-control" name="email" id="email" value="<?php echo $rplyto; ?>" />
             </div>
 
-            <div class="form-group field single">
+            <div class="form-group field single offset-lg-3 text-left">
                 <label for="phone">Tel:</label>
                 <input type="text" class="input form-control" name="phone" id="phone" value="<?php echo $telephone; ?>" />
             </div>
 
-            <div class="form-group field single url">
+            <div class="form-group field single url offset-lg-3 text-left">
                 <label for="URL">URL:</label>
                 <input type="text" class="input form-control" name="url" id="url" value="<?php echo $url; ?>" />
             </div>
 
-            <div class="form-group field">
+            <div class="form-group field offset-lg-3 text-left">
                 <label for="message">Message:</label>
                 <textarea class="input textarea form-control" name="message" id="message" rows="8"><?php echo $body; ?></textarea>
             </div>
 
-            <div class="form-group field">
+            <div class="form-group field captcha_code">
                 <label for="captcha_code">Enter security code:<br />
                     <img id="captcha" src="securimage/securimage_show.php" alt="CAPTCHA Image" style="width: 130px;" /></label>
                 <br />
@@ -267,8 +214,6 @@ $pagename = "contact";
         </form>
 </div>
 
-</body>
-</html>
 
 
 

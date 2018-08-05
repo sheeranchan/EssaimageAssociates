@@ -397,6 +397,14 @@ header {
     .carousel-control-next-icon {
         margin-right: -50px;
     }
+
+    .captcha_code {
+        margin-left: -180px;
+    }
+
+    .margin-left-40 {
+        margin-left: 40%;
+    }
 }
 
 @media (max-width:1300px) {
@@ -407,6 +415,14 @@ header {
     .twitterbox {
         width:290px;
         margin-left:11%;
+    }
+
+    .captcha_code {
+        margin-left: -180px;
+    }
+
+    .margin-left-40 {
+        margin-left: 40%;
     }
 }
 
@@ -435,12 +451,23 @@ header {
     }
 
     .contactUs {
-        margin-top: 100px;
+        margin-top: 10px;
     }
 
     .footer-logo-size {
         height: 40%;
         width:60%;
+    }
+
+    .captcha_code {
+        margin-left: -30%;
+    }
+    #captcha_code {
+        border: solid 1px;
+    }
+
+    .margin-left-40 {
+        margin-left: 0;
     }
 }
 

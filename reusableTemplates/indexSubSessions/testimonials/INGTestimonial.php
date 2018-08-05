@@ -150,9 +150,9 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
         </a>
-    </div>
-    <div class="text-center">
-        <a href="../../files/pdf/EssaimageAssociates-Interns&Grads-Recruitment-v2.pdf" download><img src="../../images/icons/pdf-icon.png"> <span  class="text-white fadeInLeft delay-05s"> EssaimageAssociates-InternsGrads-Recruitment</span></a>
+        <p class="animated fadeInUp delay-10s">
+            <a href="../../files/pdf/EssaimageAssociates-Interns&Grads-Recruitment-v2.pdf" download><img src="../../images/icons/pdf-icon.png"> <span  class="fadeInLeft delay-05s"> EssaimageAssociates-InternsGrads-Recruitment</span></a>
+        </p>
     </div>
 </span>
 <!-- // end .section -->

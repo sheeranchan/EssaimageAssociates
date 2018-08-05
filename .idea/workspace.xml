@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa178f0b-d2e8-45bc-b0ee-936774764ce8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Contact.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/RobertPics/RadioPics/Abie Nathan Presentation in Tel Aviv of Radio Day Signed Poster 2006.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/RobertPics/RadioPics/Abie Nathan Presentation in Tel Aviv of Radio Day Signed Poster 2006.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/GeneralGallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/GeneralGallery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContactSession.php" beforeDir="false" afterPath="$PROJECT_DIR$/ContactSession.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/consultancy.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/RadioGallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/RadioGallery.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/UniversityGallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/UniversityGallery.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/radioTestimonial.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/radioTestimonial.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/uniTestimonial.php" beforeDir="false" afterPath="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/uniTestimonial.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,12 +23,46 @@
     <favorites_list name="Essaimage_Associates_limited" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RadioGallery.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/RadioGallery.php">
+    <leaf>
+      <file leaf-file-name="Contact.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/Contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4749">
-              <caret line="38" column="22" lean-forward="true" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+            <state relative-caret-position="199">
+              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#li#0;n#ul#0;n#div#0;n#header#0;n#!!top" />
+                <element signature="n#li#1;n#ul#0;n#div#0;n#header#0;n#!!top" />
+                <element signature="n#li#2;n#ul#0;n#div#0;n#header#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding>
+                <element signature="e#729#917#0#PHP" />
+                <element signature="e#1546#1716#0#PHP" />
+                <element signature="e#2585#2660#0#PHP" />
+                <element signature="e#3007#3135#0#PHP" />
+                <element signature="e#3184#4206#0#PHP" />
+                <element signature="e#4210#4320#0#PHP" />
+                <element signature="n#style#0;n#img#0;n#label#0;n#div#5;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="470" column="5" lean-forward="true" selection-start-line="470" selection-start-column="5" selection-end-line="470" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -42,12 +79,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Israel</find>
-      <find>team</find>
-      <find>rd2</find>
-      <find>Tsinghua</find>
-      <find>carousel-inner</find>
-      <find>EDERS</find>
       <find>tan</find>
       <find>tagline-b</find>
       <find>Germany</find>
@@ -72,6 +103,12 @@
       <find>Robbie</find>
       <find>Magic</find>
       <find>Ca</find>
+      <find>1979</find>
+      <find>JukeBox</find>
+      <find>text-white</find>
+      <find>@media</find>
+      <find>captcha_code</find>
+      <find>media</find>
     </findStrings>
     <replaceStrings>
       <replace>Uni27</replace>
@@ -112,8 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Marketing.php" />
-        <option value="$PROJECT_DIR$/Presentation.php" />
         <option value="$PROJECT_DIR$/RecruitmentAndResearch.php" />
         <option value="$PROJECT_DIR$/ProgrammingAndLicenceApplications.php" />
         <option value="$PROJECT_DIR$/SalesTraining.php" />
@@ -146,23 +181,25 @@
         <option value="$PROJECT_DIR$/RadioSession.php" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/temp.html" />
-        <option value="$PROJECT_DIR$/ContactSession.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Radio.php" />
-        <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Universities.php" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/reusableTemplates/footer.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/TestimonialSession.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Opening.php" />
-        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/uniTestimonial.php" />
-        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php" />
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/InternsNGrads.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/GeneralGallery.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/UniversityGallery.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/INGGallery.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/radioTestimonial.php" />
+        <option value="$PROJECT_DIR$/ContactTab.php" />
         <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/RadioGallery.php" />
+        <option value="$PROJECT_DIR$/ContactSession.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php" />
+        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/uniTestimonial.php" />
+        <option value="$PROJECT_DIR$/reusableTemplates/indexSubSessions/Contact.php" />
       </list>
     </option>
   </component>
@@ -175,12 +212,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="746" />
+    <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -205,8 +243,20 @@
             <path>
               <item name="Essaimage_Associates_limited" type="b2602c69:ProjectViewProjectNode" />
               <item name="Essaimage_Associates_limited" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="RobertPics" type="462c0819:PsiDirectoryNode" />
+              <item name="reusableTemplates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Essaimage_Associates_limited" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Essaimage_Associates_limited" type="462c0819:PsiDirectoryNode" />
+              <item name="reusableTemplates" type="462c0819:PsiDirectoryNode" />
+              <item name="indexSubSessions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Essaimage_Associates_limited" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Essaimage_Associates_limited" type="462c0819:PsiDirectoryNode" />
+              <item name="reusableTemplates" type="462c0819:PsiDirectoryNode" />
+              <item name="indexSubSessions" type="462c0819:PsiDirectoryNode" />
+              <item name="testimonials" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -224,19 +274,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/RobertPics/RadioPics" />
-      <recent name="$PROJECT_DIR$/images/RobertPics/UniPics" />
-      <recent name="$PROJECT_DIR$/images/RobertPics/InternsNGradsPics" />
-      <recent name="$PROJECT_DIR$/images/RobertPics/GeneralPics" />
-      <recent name="$PROJECT_DIR$/images/clientLogos/Radio" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/securimage" />
       <recent name="$PROJECT_DIR$/secureImage/secureImage/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/reusableTemplates/indexSubSessions" />
+      <recent name="$PROJECT_DIR$/images/RobertPics/RadioPics" />
+      <recent name="$PROJECT_DIR$/images/RobertPics/UniPics" />
+      <recent name="$PROJECT_DIR$/images/RobertPics/InternsNGradsPics" />
+      <recent name="$PROJECT_DIR$/images/RobertPics/GeneralPics" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -294,29 +344,30 @@
       <workItem from="1532262947164" duration="2195000" />
       <workItem from="1533469746489" duration="889000" />
       <workItem from="1533481556014" duration="2679000" />
-      <workItem from="1533486010827" duration="3159000" />
+      <workItem from="1533486010827" duration="3259000" />
+      <workItem from="1533489597138" duration="6686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246448000" />
+    <option name="totallyTimeSpent" value="253234000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21082391" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21405493" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32724506" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.29071537" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32956383" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -328,18 +379,18 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15105008" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32776934" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.39908952" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32776934" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32956383" />
@@ -357,45 +408,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/clientLogos/Technology/arm.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/clientLogos/Technology/dialog-semiconductor-plc.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/clientLogos/Technology/xlnx-logo.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/clientLogos/Manufacturing/gruma.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="348" column="16" lean-forward="true" selection-start-line="348" selection-start-column="16" selection-end-line="348" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ContactSession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="206" column="57" lean-forward="true" selection-start-line="206" selection-start-column="57" selection-end-line="206" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/RobertPics/UniPics/Sarah Harris presenting a workshop at ISCA 2018 - Los Angeles, USA.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/RobertPics/UniPics/Dr Sarah Harris and Prof Chu at a MIPSfpga Workshop during ASEE Annual Conference 2018, Salt Lake City, USA.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/RobertPics/UniPics/RO with CEO Hossein Yassaie Elektra Awards 2015.JPG">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -444,45 +456,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/uniTestimonial.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="265" column="178" lean-forward="true" selection-start-line="265" selection-start-column="178" selection-end-line="265" selection-end-column="178" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="881" column="29" lean-forward="true" selection-start-line="881" selection-start-column="29" selection-end-line="881" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9483">
           <caret line="336" column="23" selection-start-line="336" selection-start-column="23" selection-end-line="336" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/InternsNGrads.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InternsNGradsSession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="33" column="71" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
         </state>
       </provider>
     </entry>
@@ -544,20 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/Universities.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UniversitiesSession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="33" column="68" lean-forward="true" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/INGGallery.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -589,10 +552,142 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ContactTab.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="1" lean-forward="true" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/galleries/RadioGallery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4749">
-          <caret line="38" column="22" lean-forward="true" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        <state relative-caret-position="263">
+          <caret line="181" column="26" lean-forward="true" selection-start-line="181" selection-start-column="26" selection-end-line="181" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InternsNGradsSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="5" column="8551" selection-start-line="5" selection-start-column="8551" selection-end-line="5" selection-end-column="8551" />
+          <folding>
+            <element signature="e#51742#51942#2" expanded="true" />
+            <element signature="e#52064#52213#2" expanded="true" />
+            <element signature="e#52359#52505#2" expanded="true" />
+            <element signature="e#52930#53093#1" expanded="true" />
+            <element signature="e#62345#62588#2" expanded="true" />
+            <element signature="e#63455#63704#2" expanded="true" />
+            <element signature="e#89404#89594#2" expanded="true" />
+            <element signature="e#89640#89830#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/InternsNGrads.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1497">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/location_AAL.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Cream Logo RGB.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/consultancy.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/companyLogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UniversitiesSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContactSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/Universities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="n#li#0;n#ul#0;n#div#0;n#header#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#header#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#header#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#header#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#0;n#header#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="470" column="5" lean-forward="true" selection-start-line="470" selection-start-column="5" selection-end-line="470" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#729#917#0#PHP" />
+            <element signature="e#1546#1716#0#PHP" />
+            <element signature="e#2585#2660#0#PHP" />
+            <element signature="e#3007#3135#0#PHP" />
+            <element signature="e#3184#4206#0#PHP" />
+            <element signature="e#4210#4320#0#PHP" />
+            <element signature="n#style#0;n#img#0;n#label#0;n#div#5;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/INGTestimonial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="149" column="35" lean-forward="true" selection-start-line="149" selection-start-column="35" selection-end-line="149" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/testimonials/uniTestimonial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1013">
+          <caret line="255" column="59" selection-start-line="255" selection-start-column="59" selection-end-line="255" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reusableTemplates/indexSubSessions/Contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#header#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#header#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#header#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>

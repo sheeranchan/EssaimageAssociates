@@ -5,7 +5,7 @@
 
 <body data-spy="scroll" data-target="#navbar" data-offset="30">
 
-<div>
+<div class="bg-gradient">
         <!-- Nav Menu -->
         <div class="nav-menu fixed-top" id="nav-menu">
             <div class="container">
@@ -30,23 +30,7 @@
             </div>
         </div>
 
-        <?php include_once 'contact.php' ?>
-
-        <span class="clearfix"></span>
-    <hr>
-    <div class="content col-lg-12 col-md-12 col-sm-12">
-    <div class="section text-center">
-        <h2 class="text-white margin-btm-5">
-            <span class="ti-map-alt gradient-fill"></span> Company Location
-        </h2>
-        <img src="images/location_AAL.png" alt="Essaimage Associates Location" class="col-lg-10 col-md-10 col-sm-10">
-        <div class="margin-top-3">
-            <p><a href="https://www.linkedin.com/in/robert-owen-4335931/" class="text-white" target="_blank"> <img src="images/icons/linkedin.png"> RCWO's LinkedIn</a></p>
-            <p><a href="http://maps.google.co.uk/maps?hl=en&bav=on.2,or.r_gc.r_pw.,cf.osb&biw=1366&bih=661&wrapid=tlif133349004711210&q=SG14+3JW&um=1&ie=UTF-8&hq=&hnear=0x4876268b7a6089af:0x66d0d09b4bb1e026,Hertford+SG14+3JW&gl=uk&ei=inF7T9XxK8S38gPeoLCpCA&sa=X&oi=geocode_result&ct=title&resnum=1&ved=0CB8Q8gEwAA" class="text-white" target="_blank"> <img src="images/icons/maps.png"> Company Location on Google Maps</a></p>
-        </div>
-    </div>
-    </div>
-
+    <?php include_once 'reusableTemplates/indexSubSessions/Contact.php' ?>
 </div>
 
 <span class="clearfix"></span>

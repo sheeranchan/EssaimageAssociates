@@ -253,6 +253,9 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
         </a>
+        <p class="float-lg-left animated fadeInUp delay-10s">
+            <a href="../../files/pdf/Benefits%20of%20working%20with%20academia%20-%20February%202018.pdf" download><img src="../../images/icons/pdf-icon.png"> <span class="fadeInLeft delay-05s"> Benefits of working with academia</span></a>
+        </p>
     </div>
     <style type="text/css">
       .twitterbox #twtr-widget-1 .twtr-bd, #twtr-widget-1 .twtr-timeline i a, #twtr-widget-1 .twtr-bd p {
@@ -265,9 +268,6 @@
         <div class="twitterbox" style="background-color: black;opacity: 0.8;">
             <a class="twitter-timeline" href="https://twitter.com/UniPgm" data-theme="dark" data-width="300" data-height="300" data-chrome="nofooter transparent noscrollbar">Tweets by @JBDI</a>
         </div>
-    </div>
-    <div class="text-center">
-        <a href="../../files/pdf/Benefits%20of%20working%20with%20academia%20-%20February%202018.pdf" download><img src="../../images/icons/pdf-icon.png"> <span class="text-white fadeInLeft delay-05s" style="font-size:20px;padding: 3px auto 3px auto;"> Benefits of working with academia</span></a>
     </div>
 </span>
 

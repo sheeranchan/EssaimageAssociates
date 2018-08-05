@@ -116,15 +116,15 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd15" src="../../../images/RobertPics/RadioPics/Mojo%20Magazine%20listing%20about%20the%20JukeBox%20Drive-In%20on%20elevenSEVENTY,%20High%20Wycombe,%20UK%20(1996).jpg" class="img-fluid" alt="Mojo Magazine listing about the JukeBox Drive-In on elevenSEVENTY, High Wycombe, UK (1996)">
+                    <img id="rd15" src="../../../images/RobertPics/RadioPics/Mojo%20Magazine%20listing%20about%20the%20JukeBox%20Drive-In%20on%20elevenSEVENTY,%20High%20Wycombe,%20UK%20(1996).jpg" class="img-fluid" alt="Mojo Magazine listing about the Jukebox Drive-In on elevenSEVENTY, High Wycombe, UK (1996)">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>Mojo Magazine listing about the JukeBox Drive-In on elevenSEVENTY, High Wycombe, UK (1996)</p>
+                        <p>Mojo Magazine listing about the Jukebox Drive-In on elevenSEVENTY, High Wycombe, UK (1996)</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd16" src="../../../images/RobertPics/RadioPics/Graham%20Dene%20interview%20on%20the%20JukeBox%20Drive-In,%20hertbeat%20fm,%20Knebworth,%20UK%20(2004).jpg" class="img-fluid" alt="Graham Dene interview on the JukeBox Drive-In, hertbeat fm, Knebworth, UK (2004)">
+                    <img id="rd16" src="../../../images/RobertPics/RadioPics/Graham%20Dene%20interview%20on%20the%20JukeBox%20Drive-In,%20hertbeat%20fm,%20Knebworth,%20UK%20(2004).jpg" class="img-fluid" alt="Graham Dene interview on the Jukebox Drive-In, hertbeat fm, Knebworth, UK (2004)">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>Graham Dene interview on the JukeBox Drive-In, hertbeat fm, Knebworth, UK (2004)</p>
+                        <p>Graham Dene interview on the Jukebox Drive-In, hertbeat fm, Knebworth, UK (2004)</p>
                     </div>
                 </div>
                 <div class="carousel-item">
@@ -134,9 +134,9 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img id="rd18" src="../../../images/RobertPics/RadioPics/Presenting%20the%20JukeBox%20Drive-In,%20hertbeat%20fm,%20Knebworth,%20Hertfordshire,%20UK%20(2002).jpg" class="img-fluid" alt="Presenting the JukeBox Drive-In, hertbeat fm, Knebworth, Hertfordshire, UK (2002)">
+                    <img id="rd18" src="../../../images/RobertPics/RadioPics/Presenting%20the%20JukeBox%20Drive-In,%20hertbeat%20fm,%20Knebworth,%20Hertfordshire,%20UK%20(2002).jpg" class="img-fluid" alt="Presenting the Jukebox Drive-In, hertbeat fm, Knebworth, Hertfordshire, UK (2002)">
                     <div class="carousel-caption d-none d-md-block">
-                        <p>Presenting the JukeBox Drive-In, hertbeat fm, Knebworth, Hertfordshire, UK (2002)</p>
+                        <p>Presenting the Jukebox Drive-In, hertbeat fm, Knebworth, Hertfordshire, UK (2002)</p>
                     </div>
                 </div>
                 <div class="carousel-item">
